@@ -1,0 +1,26 @@
+{
+  "data": {
+    "id": {
+      "value": "b00630f5-3a4d-4a9a-8716-826f6fa10603"
+    },
+    "name": "serverMessage_1",
+    "params": [
+      {
+        "param_name": "parameter_1",
+        "param_type": "T_String",
+        "value": {
+          "__OBJ_TYPE": "T_String"
+        }
+      },
+      {
+        "param_name": "parameter_2"
+      }
+    ],
+    "register_object": "game/0/triggers/list/1",
+    "save": true
+  },
+  "meta": {
+    "EXPORT": [],
+    "VERSION": "0.22"
+  }
+}

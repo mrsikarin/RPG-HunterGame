@@ -1,0 +1,122 @@
+{
+  "data": {
+    "md5": "30b995ae6dbcff77c0b3aad1d26a6c40",
+    "path": "asset/Interface/btnAtk.layout",
+    "root": {
+      "anchor": {
+        "HorizontalAlignment": "Centre",
+        "VerticalAlignment": "Centre"
+      },
+      "children": [
+        {
+          "__OBJ_TYPE": "DefaultWindow",
+          "anchor": {
+            "HorizontalAlignment": "Right",
+            "VerticalAlignment": "Bottom"
+          },
+          "children": [
+            {
+              "__OBJ_TYPE": "Button",
+              "Alpha": 0.997,
+              "anchor": {
+                "HorizontalAlignment": "Centre",
+                "VerticalAlignment": "Centre"
+              },
+              "DisabledImage": {
+                "asset": ""
+              },
+              "HoverImage": {
+                "asset": "asset/Texture/Skill/common/icon_近战攻击_act.png"
+              },
+              "id": {
+                "value": "6a36d6e5-f820-4ec1-b046-2cfdfc8befcc"
+              },
+              "name": "btn_melee",
+              "NormalImage": {
+                "asset": "asset/Texture/Skill/common/icon_近战攻击_act.png"
+              },
+              "pos": {
+                "UDim_Y": {
+                  "Offect": -2.3271026611328
+                }
+              },
+              "PushedImage": {
+                "asset": "asset/Texture/Skill/common/icon_近战攻击_nor.png"
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 0,
+                  "Scale": 0.4
+                },
+                "UDim_Y": {
+                  "Offect": 0,
+                  "Scale": 0.5
+                }
+              },
+              "Text": ""
+            },
+            {
+              "__OBJ_TYPE": "Button",
+              "anchor": {
+                "HorizontalAlignment": "Centre",
+                "VerticalAlignment": "Centre"
+              },
+              "DisabledImage": {
+                "asset": ""
+              },
+              "HoverImage": {
+                "asset": "asset/Texture/Skill/common/icon_火球_act.png"
+              },
+              "id": {
+                "value": "6b495f0d-aa42-4dec-91c5-c5c7ad0dcde1"
+              },
+              "name": "btn_magic",
+              "NormalImage": {
+                "asset": "asset/Texture/Skill/common/icon_火球_act.png"
+              },
+              "PushedImage": {
+                "asset": "asset/Texture/Skill/common/icon_火球_nor.png"
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 0,
+                  "Scale": 0.4
+                },
+                "UDim_Y": {
+                  "Offect": 0,
+                  "Scale": 0.5
+                }
+              },
+              "Visible": false
+            }
+          ],
+          "id": {
+            "value": "f038c6a3-25a4-42dd-b06f-331c8510e441"
+          },
+          "WindowTouchThroughMode": "MousePassThroughAlpha"
+        }
+      ],
+      "id": {
+        "value": "155e3977-f7b9-47fb-81f6-43ba41cd33c5"
+      },
+      "size": {
+        "UDim_X": {
+          "Offect": 0,
+          "Scale": 1
+        },
+        "UDim_Y": {
+          "Offect": 0,
+          "Scale": 1
+        }
+      },
+      "WindowTouchThroughMode": "MousePassThroughAlpha"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "layout": "30b995ae6dbcff77c0b3aad1d26a6c40",
+      "triggers.bts": "d1fd7037f4941cd1b8cbfb94bb926990"
+    },
+    "VERSION": "0.22"
+  }
+}

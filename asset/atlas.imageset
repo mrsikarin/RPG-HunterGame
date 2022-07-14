@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset nativeHorzRes="964" nativeVertRes="720" autoScaled="vertical" version="2" name="atlas" imagefile="atlas.png">
+    <Image width="964" yPos="0" height="720" xPos="0" name="shop002 (1)"/>
+</Imageset>

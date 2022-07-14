@@ -1,0 +1,160 @@
+{
+  "data": {
+    "box": {
+      "base": {
+        "__OBJ_TYPE": "SkyBoxStatic"
+      }
+    },
+    "instances": [
+      {
+        "__OBJ_TYPE": "Instance_VoxelTerrain",
+        "id": "26644713697705985",
+        "uniqueKey": "map001"
+      },
+      {
+        "__OBJ_TYPE": "Instance_Light",
+        "id": "8712104223751454721",
+        "ID": 1,
+        "lightType": "GlobalLight",
+        "name": "EnvironmentLight"
+      },
+      {
+        "__OBJ_TYPE": "Instance_Light",
+        "id": "8712104223857197057",
+        "ID": 2,
+        "lightType": "DirectionalLight",
+        "name": "DirectionalLight",
+        "position": {
+          "y": 5
+        },
+        "rotation": {
+          "y": -90
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "btsKey": "a879aab7-c28b-4929-ab3b-1d3d4d8b018d",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8712723761132552193",
+        "massCenter": {
+          "x": -0.43722677230835,
+          "y": 1.4998989105225,
+          "z": 0.5340404510498
+        },
+        "position": {
+          "x": -0.43722677230835,
+          "y": 1.4998989105225,
+          "z": 0.5340404510498
+        },
+        "restitution": 0.3
+      },
+      {
+        "__OBJ_TYPE": "Instance_DropItem",
+        "config": "myplugin/Sword_Lv.1",
+        "id": "8712782691736813569",
+        "position": {
+          "x": 2.8635430335999,
+          "y": 0.99990081787109,
+          "z": 7.1375532150269
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_DropItem",
+        "config": "myplugin/Sword_Lv.1",
+        "id": "8712782703747678209",
+        "position": {
+          "x": -2.2054991722107,
+          "y": 0.99989902973175,
+          "z": 5.152250289917
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Entity",
+        "config": "myplugin/Blue_Fluffy_Lv.5",
+        "id": "8712802402836381697",
+        "name": "Blue Fluffy Lv.5",
+        "position": {
+          "x": 4.2019643783569,
+          "y": 0.99989986419678,
+          "z": 2.6391010284424
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Entity",
+        "config": "myplugin/Pig_Lv.1",
+        "id": "8712805118163910657",
+        "name": "Pig Lv.1",
+        "position": {
+          "x": -5.3274612426758,
+          "y": 0.99989914894104,
+          "z": -7.8664493560791
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Entity",
+        "config": "myplugin/Turtle_Mage_Lv.10",
+        "id": "8712886832426844161",
+        "name": "Turtle Mage Lv.10",
+        "position": {
+          "x": -22.602540969849,
+          "y": 0.99989938735962,
+          "z": 6.266881942749
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Entity",
+        "config": "myplugin/BOSS-Boar",
+        "id": "8712941086197678081",
+        "name": "[BOSS]Boar",
+        "position": {
+          "x": 10.475206375122,
+          "y": 0.99989891052246,
+          "z": 22.246049880981
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "cedc9253-d332-42de-ab95-941832b9138d",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8713488564939620353",
+        "massCenter": {
+          "x": -2.8300783634186,
+          "y": 2.147399187088,
+          "z": 39.065567016602
+        },
+        "mesh": "asset/untitled/HAMMER_EVO_02_V1.mesh",
+        "mesh_selector": {
+          "asset": "asset/untitled/HAMMER_EVO_02_V1.mesh",
+          "selector": "asset/untitled/HAMMER_EVO_02_V1.mesh"
+        },
+        "name": "HAMMER_EVO_02_V1.mesh",
+        "position": {
+          "x": -2.8300783634186,
+          "y": 2.147399187088,
+          "z": 39.065567016602
+        },
+        "restitution": 0.3,
+        "size": {
+          "x": 0.44209042191505,
+          "y": 1.1474988460541,
+          "z": 0.20105405151844
+        }
+      }
+    ],
+    "name": {
+      "value": "map_map001"
+    },
+    "touch_pos": {
+      "up": 600
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "DataSet": [],
+      "setting.json": "f628eddc28710fca51985e90f8ce7bed"
+    },
+    "VERSION": "0.22"
+  }
+}

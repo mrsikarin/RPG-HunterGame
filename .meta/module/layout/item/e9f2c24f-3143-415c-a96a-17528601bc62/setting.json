@@ -1,0 +1,925 @@
+{
+  "data": {
+    "md5": "947ecfb9b3b9d0ec2c422fa6c4cdc4dd",
+    "path": "asset/Interface/PlayerStatus.layout",
+    "root": {
+      "anchor": {
+        "HorizontalAlignment": "Centre",
+        "VerticalAlignment": "Centre"
+      },
+      "children": [
+        {
+          "__OBJ_TYPE": "StaticImage",
+          "anchor": {
+            "HorizontalAlignment": "Centre",
+            "VerticalAlignment": "Centre"
+          },
+          "children": [
+            {
+              "__OBJ_TYPE": "StaticText",
+              "Font_size": 24,
+              "id": {
+                "value": "b3abd619-ffa3-4649-8662-1ce69116ad5f"
+              },
+              "name": "Text_level",
+              "pos": {
+                "UDim_X": {
+                  "Offect": 57.948725144068
+                },
+                "UDim_Y": {
+                  "Offect": 85.331519272052
+                }
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 404.92267584806
+                },
+                "UDim_Y": {
+                  "Offect": 65.418462634098
+                }
+              },
+              "VertFormatting": "CentreAligned"
+            },
+            {
+              "__OBJ_TYPE": "StaticImage",
+              "anchor": {
+                "HorizontalAlignment": "Centre",
+                "VerticalAlignment": "Centre"
+              },
+              "id": {
+                "value": "4f960305-c49b-485f-937b-8f6ac4dd75e5"
+              },
+              "Image": {
+                "asset": "asset/Texture/Gui/scrollable_pane_ver_bar.png"
+              },
+              "ImageColours": {
+                "b": 93,
+                "g": 93,
+                "r": 93
+              },
+              "name": "Line",
+              "pos": {
+                "UDim_X": {
+                  "Offect": -6.5127952098822
+                },
+                "UDim_Y": {
+                  "Offect": 5.0763987302771
+                }
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 15.487539112569,
+                  "Scale": 0.01
+                },
+                "UDim_Y": {
+                  "Offect": 84.741962909727,
+                  "Scale": 0.7
+                }
+              }
+            },
+            {
+              "__OBJ_TYPE": "Button",
+              "anchor": {
+                "HorizontalAlignment": "Right"
+              },
+              "DisabledImage": {
+                "asset": "asset/texture2/icon_blue_act.png"
+              },
+              "Font": "HarmonyOS_Sans_SC_Bold",
+              "Font_size": 21,
+              "HoverImage": {
+                "asset": "asset/texture2/icon_bule_nor.png"
+              },
+              "HoverTextColour": {
+                "b": 255,
+                "g": 255,
+                "r": 255
+              },
+              "id": {
+                "value": "66cf8c41-8b21-48a0-91d1-afc5ff83ee79"
+              },
+              "name": "Close",
+              "NormalImage": {
+                "asset": "asset/texture2/icon_bule_nor.png"
+              },
+              "NormalTextColour": {
+                "b": 255,
+                "g": 255,
+                "r": 255
+              },
+              "PushedImage": {
+                "asset": "asset/texture2/icon_blue_act.png"
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 55
+                },
+                "UDim_Y": {
+                  "Offect": 45
+                }
+              },
+              "Text": "X",
+              "TextOffset": {
+                "y": -5
+              }
+            },
+            {
+              "__OBJ_TYPE": "StaticText",
+              "Font_size": 24,
+              "id": {
+                "value": "a48596f4-4aea-4219-9014-4ac070f68aad"
+              },
+              "name": "PlayerInfo",
+              "pos": {
+                "UDim_X": {
+                  "Offect": 70
+                },
+                "UDim_Y": {
+                  "Offect": 30
+                }
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 198.12155842781
+                },
+                "UDim_Y": {
+                  "Offect": 56.925264777625
+                }
+              },
+              "Text": "PlayerInfo",
+              "VertFormatting": "CentreAligned"
+            },
+            {
+              "__OBJ_TYPE": "DefaultWindow",
+              "anchor": {
+                "VerticalAlignment": "Centre"
+              },
+              "children": [
+                {
+                  "__OBJ_TYPE": "StaticImage",
+                  "BackgroundEnabled": true,
+                  "children": [
+                    {
+                      "__OBJ_TYPE": "StaticText",
+                      "Font_size": 18,
+                      "id": {
+                        "value": "bb05cf11-dd7c-417d-8b24-6032f50ea86b"
+                      },
+                      "name": "Atk",
+                      "pos": {
+                        "UDim_X": {
+                          "Offect": 18.974354863168
+                        },
+                        "UDim_Y": {
+                          "Offect": 13.116485977345
+                        }
+                      },
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 68.00604507342
+                        },
+                        "UDim_Y": {
+                          "Offect": 35.403301894683
+                        }
+                      },
+                      "Text": "Atk"
+                    },
+                    {
+                      "__OBJ_TYPE": "StaticText",
+                      "Font_size": 18,
+                      "id": {
+                        "value": "ad9ca852-3218-4e2b-b07e-238156cda365"
+                      },
+                      "name": "Mana",
+                      "pos": {
+                        "UDim_X": {
+                          "Offect": 18.974354863168
+                        },
+                        "UDim_Y": {
+                          "Offect": 53.116484328416
+                        }
+                      },
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 68.00604507342
+                        },
+                        "UDim_Y": {
+                          "Offect": 35.403301894683
+                        }
+                      },
+                      "Text": "Mana"
+                    },
+                    {
+                      "__OBJ_TYPE": "StaticText",
+                      "Font_size": 18,
+                      "id": {
+                        "value": "c2f8e28e-91cf-464d-a9aa-72b9b079772d"
+                      },
+                      "name": "Def",
+                      "pos": {
+                        "UDim_X": {
+                          "Offect": 18.97435629368
+                        },
+                        "UDim_Y": {
+                          "Offect": 93.116490546959
+                        }
+                      },
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 68.00604507342
+                        },
+                        "UDim_Y": {
+                          "Offect": 35.403301894681
+                        }
+                      },
+                      "Text": "Def"
+                    },
+                    {
+                      "__OBJ_TYPE": "StaticText",
+                      "Font_size": 18,
+                      "id": {
+                        "value": "a595cae4-5ee1-4fa6-a9da-d44ffb4374fc"
+                      },
+                      "name": "Haste",
+                      "pos": {
+                        "UDim_X": {
+                          "Offect": 18.974354863168
+                        },
+                        "UDim_Y": {
+                          "Offect": 133.48637387516
+                        }
+                      },
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 68.00604507342
+                        },
+                        "UDim_Y": {
+                          "Offect": 35.40330189468
+                        }
+                      },
+                      "Text": "Haste"
+                    },
+                    {
+                      "__OBJ_TYPE": "StaticText",
+                      "Font_size": 18,
+                      "HorzFormatting": "RightAligned",
+                      "id": {
+                        "value": "9c796bdf-e7f3-4879-b20d-45bd45855d37"
+                      },
+                      "name": "mana_stat",
+                      "pos": {
+                        "UDim_X": {
+                          "Offect": 178.97437070577
+                        },
+                        "UDim_Y": {
+                          "Offect": 53.116484328416
+                        }
+                      },
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 150.0
+                        },
+                        "UDim_Y": {
+                          "Offect": 35.403301894683
+                        }
+                      },
+                      "Text": "0",
+                      "VertFormatting": "CentreAligned"
+                    },
+                    {
+                      "__OBJ_TYPE": "StaticText",
+                      "Font_size": 18,
+                      "HorzFormatting": "RightAligned",
+                      "id": {
+                        "value": "1a64665d-2d9a-4d6f-911f-01cc36be47a4"
+                      },
+                      "name": "Atk_stat",
+                      "pos": {
+                        "UDim_X": {
+                          "Offect": 178.97437070577
+                        },
+                        "UDim_Y": {
+                          "Offect": 13.116485977345
+                        }
+                      },
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 150.0
+                        },
+                        "UDim_Y": {
+                          "Offect": 35.403301894683
+                        }
+                      },
+                      "Text": "0",
+                      "VertFormatting": "CentreAligned"
+                    },
+                    {
+                      "__OBJ_TYPE": "StaticText",
+                      "Font_size": 18,
+                      "HorzFormatting": "RightAligned",
+                      "id": {
+                        "value": "4685b51f-6564-483a-96ea-92b895dd0374"
+                      },
+                      "name": "Haste_stat",
+                      "pos": {
+                        "UDim_X": {
+                          "Offect": 178.97437070577
+                        },
+                        "UDim_Y": {
+                          "Offect": 135.28769052019
+                        }
+                      },
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 150.0
+                        },
+                        "UDim_Y": {
+                          "Offect": 35.40330189468
+                        }
+                      },
+                      "Text": "0",
+                      "VertFormatting": "CentreAligned"
+                    },
+                    {
+                      "__OBJ_TYPE": "StaticText",
+                      "Font_size": 18,
+                      "HorzFormatting": "RightAligned",
+                      "id": {
+                        "value": "ac2d600d-b477-45bd-a9d0-974f2e19c862"
+                      },
+                      "name": "Def_stat",
+                      "pos": {
+                        "UDim_X": {
+                          "Offect": 178.97437070577
+                        },
+                        "UDim_Y": {
+                          "Offect": 93.116490546959
+                        }
+                      },
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 150.0
+                        },
+                        "UDim_Y": {
+                          "Offect": 35.403301894681
+                        }
+                      },
+                      "Text": "0",
+                      "VertFormatting": "CentreAligned"
+                    }
+                  ],
+                  "FrameColours": {
+                    "b": 134,
+                    "g": 130,
+                    "r": 131
+                  },
+                  "FrameEnabled": true,
+                  "id": {
+                    "value": "19d1f29f-eb76-4283-aa4e-4765152cc50a"
+                  },
+                  "Image": {
+                    "asset": "",
+                    "selector": ""
+                  },
+                  "pos": {
+                    "UDim_X": {
+                      "Offect": 60.000014262345
+                    },
+                    "UDim_Y": {
+                      "Offect": 6.7041888752166
+                    }
+                  },
+                  "size": {
+                    "UDim_X": {
+                      "Offect": 404.75627088548
+                    },
+                    "UDim_Y": {
+                      "Offect": 270.06148433683
+                    }
+                  }
+                }
+              ],
+              "id": {
+                "value": "afb28d68-2028-428f-908a-14a2be211aa7"
+              },
+              "pos": {
+                "UDim_X": {
+                  "Offect": -2.0512821674347
+                },
+                "UDim_Y": {
+                  "Offect": 24.345928329965,
+                  "Scale": 0.1
+                }
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 0.0,
+                  "Scale": 0.5
+                },
+                "UDim_Y": {
+                  "Offect": 0.0,
+                  "Scale": 0.7
+                }
+              }
+            },
+            {
+              "__OBJ_TYPE": "DefaultWindow",
+              "anchor": {
+                "HorizontalAlignment": "Right",
+                "VerticalAlignment": "Centre"
+              },
+              "children": [
+                {
+                  "__OBJ_TYPE": "StaticImage",
+                  "BackgroundEnabled": true,
+                  "children": [
+                    {
+                      "__OBJ_TYPE": "StaticText",
+                      "children": [
+                        {
+                          "__OBJ_TYPE": "StaticText",
+                          "Font_size": 18,
+                          "id": {
+                            "value": "7469f6ae-5466-405f-ad96-3400ea5088ba"
+                          },
+                          "name": "txStr",
+                          "pos": {
+                            "UDim_X": {
+                              "Offect": 189.58193726669
+                            },
+                            "UDim_Y": {
+                              "Offect": -9.5367429997495e-07
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 68.00604507342
+                            },
+                            "UDim_Y": {
+                              "Offect": 35.403301894683
+                            }
+                          },
+                          "Text": "Str"
+                        },
+                        {
+                          "__OBJ_TYPE": "Button",
+                          "anchor": {
+                            "HorizontalAlignment": "Right",
+                            "VerticalAlignment": "Centre"
+                          },
+                          "Font_size": 18,
+                          "id": {
+                            "value": "442da3d0-9c0f-4e30-a9c3-ab2f25173273"
+                          },
+                          "name": "upAtk",
+                          "pos": {
+                            "UDim_X": {
+                              "Offect": 240.75916123183
+                            },
+                            "UDim_Y": {
+                              "Offect": -1.8640138002013e-06
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 35.0
+                            },
+                            "UDim_Y": {
+                              "Offect": 35.0
+                            }
+                          },
+                          "Text": "+"
+                        }
+                      ],
+                      "Font_size": 18,
+                      "id": {
+                        "value": "33b9cbf8-572b-4f5e-9b29-0a193af969dc"
+                      },
+                      "name": "Str",
+                      "pos": {
+                        "UDim_X": {
+                          "Offect": 29.999960239121
+                        },
+                        "UDim_Y": {
+                          "Offect": 31.151639874685
+                        }
+                      },
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 68.006045073417
+                        },
+                        "UDim_Y": {
+                          "Offect": 35.403301894683
+                        }
+                      },
+                      "Text": "Str"
+                    },
+                    {
+                      "__OBJ_TYPE": "StaticText",
+                      "children": [
+                        {
+                          "__OBJ_TYPE": "StaticText",
+                          "Font_size": 18,
+                          "id": {
+                            "value": "968ef477-33ca-4449-a308-c1bbc4151d8e"
+                          },
+                          "name": "txVit",
+                          "pos": {
+                            "UDim_X": {
+                              "Offect": 189.58188299582
+                            },
+                            "UDim_Y": {
+                              "Offect": 0.8497358237944
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 68.00604507342
+                            },
+                            "UDim_Y": {
+                              "Offect": 35.40330189468
+                            }
+                          },
+                          "Text": "Vit"
+                        },
+                        {
+                          "__OBJ_TYPE": "Button",
+                          "anchor": {
+                            "HorizontalAlignment": "Right",
+                            "VerticalAlignment": "Centre"
+                          },
+                          "Font_size": 18,
+                          "id": {
+                            "value": "4c6bcb58-7d08-403a-b04d-d65a2d550e27"
+                          },
+                          "name": "upVit",
+                          "pos": {
+                            "UDim_X": {
+                              "Offect": 240.75925260572
+                            },
+                            "UDim_Y": {
+                              "Offect": 2.6856564217067
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 35.0
+                            },
+                            "UDim_Y": {
+                              "Offect": 35.0
+                            }
+                          },
+                          "Text": "+"
+                        }
+                      ],
+                      "Font_size": 18,
+                      "id": {
+                        "value": "ba58cd0e-325b-418d-a5d9-594e133a85bf"
+                      },
+                      "name": "Vit",
+                      "pos": {
+                        "UDim_X": {
+                          "Offect": 29.999960239121
+                        },
+                        "UDim_Y": {
+                          "Offect": 111.15166085553
+                        }
+                      },
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 68.006045073417
+                        },
+                        "UDim_Y": {
+                          "Offect": 35.40330189468
+                        }
+                      },
+                      "Text": "Vit"
+                    },
+                    {
+                      "__OBJ_TYPE": "StaticText",
+                      "children": [
+                        {
+                          "__OBJ_TYPE": "StaticText",
+                          "Font_size": 18,
+                          "id": {
+                            "value": "0c2d266d-c117-42f8-b6dc-dea3b208c3ef"
+                          },
+                          "name": "txInt",
+                          "pos": {
+                            "UDim_X": {
+                              "Offect": 189.58191741624
+                            },
+                            "UDim_Y": {
+                              "Offect": -1.0647648099882e-05
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 68.00604507342
+                            },
+                            "UDim_Y": {
+                              "Offect": 35.40330189468
+                            }
+                          },
+                          "Text": "Int"
+                        },
+                        {
+                          "__OBJ_TYPE": "Button",
+                          "anchor": {
+                            "HorizontalAlignment": "Right",
+                            "VerticalAlignment": "Centre"
+                          },
+                          "Font_size": 18,
+                          "id": {
+                            "value": "8a090887-7d31-4eb9-8d50-3723bbd0567f"
+                          },
+                          "name": "upInt",
+                          "pos": {
+                            "UDim_X": {
+                              "Offect": 240.75920812889
+                            },
+                            "UDim_Y": {
+                              "Offect": 0.9999797552415
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 35.0
+                            },
+                            "UDim_Y": {
+                              "Offect": 35.0
+                            }
+                          },
+                          "Text": "+"
+                        }
+                      ],
+                      "Font_size": 18,
+                      "id": {
+                        "value": "67ac4699-a40e-45d5-b8df-d09049efdf30"
+                      },
+                      "name": "Int",
+                      "pos": {
+                        "UDim_X": {
+                          "Offect": 30.000000232305
+                        },
+                        "UDim_Y": {
+                          "Offect": 70.56985809385
+                        }
+                      },
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 68.006045073417
+                        },
+                        "UDim_Y": {
+                          "Offect": 35.40330189468
+                        }
+                      },
+                      "Text": "Int"
+                    },
+                    {
+                      "__OBJ_TYPE": "StaticText",
+                      "children": [
+                        {
+                          "__OBJ_TYPE": "StaticText",
+                          "anchor": {
+                            "HorizontalAlignment": "Right",
+                            "VerticalAlignment": "Centre"
+                          },
+                          "Font_size": 18,
+                          "id": {
+                            "value": "983e3f39-1246-43db-989c-c48ed91323ec"
+                          },
+                          "name": "txDex",
+                          "pos": {
+                            "UDim_X": {
+                              "Offect": 189.58195852932
+                            },
+                            "UDim_Y": {
+                              "Offect": -5.0505300354463
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 68.00604507342
+                            },
+                            "UDim_Y": {
+                              "Offect": 35.40330189468
+                            }
+                          },
+                          "Text": "Dex"
+                        },
+                        {
+                          "__OBJ_TYPE": "Button",
+                          "anchor": {
+                            "HorizontalAlignment": "Right",
+                            "VerticalAlignment": "Centre"
+                          },
+                          "Font_size": 18,
+                          "id": {
+                            "value": "e989a13c-9cd4-4e6a-aa80-b07e916e9cc1"
+                          },
+                          "name": "upDex",
+                          "pos": {
+                            "UDim_X": {
+                              "Offect": 240.75922333064
+                            },
+                            "UDim_Y": {
+                              "Offect": -0.025970548397799
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 35.0
+                            },
+                            "UDim_Y": {
+                              "Offect": 35.0
+                            }
+                          },
+                          "Text": "+"
+                        }
+                      ],
+                      "Font_size": 18,
+                      "id": {
+                        "value": "2447e283-2c75-47b3-bf61-db4c37f2ffb7"
+                      },
+                      "name": "Dex",
+                      "pos": {
+                        "UDim_X": {
+                          "Offect": 29.999943369473
+                        },
+                        "UDim_Y": {
+                          "Offect": 157.12569578217
+                        }
+                      },
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 68.006045073417
+                        },
+                        "UDim_Y": {
+                          "Offect": 35.40330189468
+                        }
+                      },
+                      "Text": "Dex"
+                    },
+                    {
+                      "__OBJ_TYPE": "StaticText",
+                      "Font_size": 18,
+                      "id": {
+                        "value": "0a34f24f-bb4a-43a4-a03c-e0c4545f7f9f"
+                      },
+                      "name": "StatusPoint",
+                      "pos": {
+                        "UDim_X": {
+                          "Offect": 233.48716604167
+                        },
+                        "UDim_Y": {
+                          "Offect": 314.5994907115
+                        }
+                      },
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 145.49048444646
+                        },
+                        "UDim_Y": {
+                          "Offect": 35.40330189468
+                        }
+                      },
+                      "Text": "Point"
+                    },
+                    {
+                      "__OBJ_TYPE": "StaticText",
+                      "Font_size": 18,
+                      "HorzFormatting": "RightAligned",
+                      "id": {
+                        "value": "ceeb784e-9741-46f4-9071-2017e2274e0a"
+                      },
+                      "name": "Point",
+                      "pos": {
+                        "UDim_X": {
+                          "Offect": 323.00492923495
+                        },
+                        "UDim_Y": {
+                          "Offect": 314.5994497542
+                        }
+                      },
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 100.0
+                        },
+                        "UDim_Y": {
+                          "Offect": 35.40330189468
+                        }
+                      },
+                      "Text": "0",
+                      "VertFormatting": "CentreAligned"
+                    }
+                  ],
+                  "FrameColours": {
+                    "b": 114,
+                    "g": 114,
+                    "r": 114
+                  },
+                  "FrameEnabled": true,
+                  "id": {
+                    "value": "510a9eef-f220-479c-b1bb-65b37bce35d8"
+                  },
+                  "Image": {
+                    "asset": "",
+                    "selector": ""
+                  },
+                  "pos": {
+                    "UDim_X": {
+                      "Offect": 32.820507107646
+                    },
+                    "UDim_Y": {
+                      "Offect": 18.431435674431
+                    }
+                  },
+                  "size": {
+                    "UDim_X": {
+                      "Offect": 432.67754030221
+                    },
+                    "UDim_Y": {
+                      "Offect": 358.76966616518
+                    }
+                  }
+                }
+              ],
+              "id": {
+                "value": "a1ae4427-6168-4cce-ab50-affac4be5a95"
+              },
+              "name": "DefaultWindow1",
+              "pos": {
+                "UDim_X": {
+                  "Offect": -8.1794766187667
+                },
+                "UDim_Y": {
+                  "Offect": -46.417583346371,
+                  "Scale": 0.1
+                }
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": -2.2603199183943,
+                  "Scale": 0.5
+                },
+                "UDim_Y": {
+                  "Offect": 59.085480451593,
+                  "Scale": 0.7
+                }
+              }
+            }
+          ],
+          "id": {
+            "value": "626a3d11-1e5c-48b3-a57e-6d9b9c9dde6b"
+          },
+          "Image": {
+            "asset": "asset/texture2/bg.png"
+          },
+          "ImageColours": {
+            "b": 26,
+            "g": 160
+          },
+          "name": "BG",
+          "size": {
+            "UDim_X": {
+              "Offect": 1000
+            },
+            "UDim_Y": {
+              "Offect": 500
+            }
+          }
+        }
+      ],
+      "id": {
+        "value": "8c75d004-539c-4c29-a588-d1e659cd2dc1"
+      },
+      "pos": {
+        "UDim_X": {
+          "Offect": -0.5428088903428
+        },
+        "UDim_Y": {
+          "Offect": -12.854072451591,
+          "Scale": -0.05
+        }
+      },
+      "size": {
+        "UDim_X": {
+          "Offect": 0.0,
+          "Scale": 1
+        },
+        "UDim_Y": {
+          "Offect": 0.0,
+          "Scale": 1.0
+        }
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "layout": "947ecfb9b3b9d0ec2c422fa6c4cdc4dd",
+      "triggers.bts": "d1fd7037f4941cd1b8cbfb94bb926990"
+    },
+    "VERSION": "0.22"
+  }
+}

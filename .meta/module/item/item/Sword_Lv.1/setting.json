@@ -1,0 +1,48 @@
+{
+  "data": {
+    "canAbandon": true,
+    "candrop": true,
+    "item": {
+      "base": {
+        "__OBJ_TYPE": "ItemInHand"
+      },
+      "type": "InHand"
+    },
+    "name": {
+      "value": "item_Sword_Lv.1"
+    },
+    "triggers": {
+      "list": [
+        {
+          "custom_trigger_data": {
+            "name": {
+              "value": "34266a8f-e6bc-4b99-adad-d1bd437a888e"
+            },
+            "type": "Trigger_UseItem"
+          },
+          "root": {
+            "components": [
+              {
+                "__OBJ_TYPE": "Component_Sequence",
+                "children": [
+                  []
+                ]
+              }
+            ],
+            "id": {
+              "value": "6178cc9f-06ba-4eb3-8c4f-75383b3652c4"
+            }
+          },
+          "type": "Trigger_UseItem"
+        }
+      ]
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "ca692239245a9a408b02cd91e7a2d82c",
+      "triggers.bts": "2358872d5899e98b780ea1facbe0348f"
+    },
+    "VERSION": "0.22"
+  }
+}

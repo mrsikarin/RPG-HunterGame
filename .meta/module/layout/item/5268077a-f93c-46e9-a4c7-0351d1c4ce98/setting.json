@@ -1,0 +1,259 @@
+{
+  "data": {
+    "md5": "975e68ac5f823940650746ea63f62d35",
+    "path": "asset/Interface/QuestInfo.layout",
+    "root": {
+      "anchor": {
+        "HorizontalAlignment": "Centre",
+        "VerticalAlignment": "Centre"
+      },
+      "children": [
+        {
+          "__OBJ_TYPE": "StaticImage",
+          "anchor": {
+            "HorizontalAlignment": "Centre",
+            "VerticalAlignment": "Centre"
+          },
+          "children": [
+            {
+              "__OBJ_TYPE": "Button",
+              "anchor": {
+                "HorizontalAlignment": "Right"
+              },
+              "DisabledImage": {
+                "asset": "",
+                "selector": ""
+              },
+              "DisabledTextColour": {
+                "b": 29,
+                "g": 89,
+                "r": 159
+              },
+              "Font": "HarmonyOS_Sans_SC_Bold",
+              "Font_size": 40,
+              "HoverImage": {
+                "asset": "",
+                "selector": ""
+              },
+              "HoverTextColour": {
+                "b": 39,
+                "g": 105,
+                "r": 176
+              },
+              "id": {
+                "value": "bf7c5c8a-c0a9-4fa1-ba19-ddcff99c0785"
+              },
+              "name": "CloseBtn",
+              "NormalImage": {
+                "asset": "",
+                "selector": ""
+              },
+              "NormalTextColour": {
+                "b": 39,
+                "g": 105,
+                "r": 176
+              },
+              "pos": {
+                "UDim_X": {
+                  "Offect": -2.224891921043
+                },
+                "UDim_Y": {
+                  "Offect": 17.201370681104
+                }
+              },
+              "PushedImage": {
+                "asset": "",
+                "selector": ""
+              },
+              "PushedTextColour": {
+                "b": 29,
+                "g": 89,
+                "r": 159
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 60.0
+                },
+                "UDim_Y": {
+                  "Offect": 60.0
+                }
+              },
+              "Text": "X"
+            },
+            {
+              "__OBJ_TYPE": "StaticText",
+              "Font_size": 18,
+              "id": {
+                "value": "a8a3ed10-8fad-4cae-aa68-a51c1fd3ed50"
+              },
+              "name": "Detail_txt",
+              "pos": {
+                "UDim_X": {
+                  "Offect": 36.345624923705
+                },
+                "UDim_Y": {
+                  "Offect": 76.177505612372
+                }
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 297.21823129059
+                },
+                "UDim_Y": {
+                  "Offect": 265.9180416465
+                }
+              },
+              "Text": "Detail"
+            },
+            {
+              "__OBJ_TYPE": "StaticText",
+              "Font_size": 18,
+              "id": {
+                "value": "579a57eb-a341-4da9-b29d-0693fbe0bdc6"
+              },
+              "name": "Reward_txt",
+              "pos": {
+                "UDim_X": {
+                  "Offect": 36.345597136742
+                },
+                "UDim_Y": {
+                  "Offect": 340.84977734089
+                }
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 296.76710155608
+                },
+                "UDim_Y": {
+                  "Offect": 74.90905964378
+                }
+              },
+              "Text": "Reward",
+              "VertFormatting": "CentreAligned"
+            },
+            {
+              "__OBJ_TYPE": "Button",
+              "Alpha": 0.994,
+              "anchor": {
+                "HorizontalAlignment": "Centre",
+                "VerticalAlignment": "Bottom"
+              },
+              "DisabledImage": {
+                "asset": "",
+                "selector": ""
+              },
+              "Font_size": 24,
+              "HoverImage": {
+                "asset": "",
+                "selector": ""
+              },
+              "id": {
+                "value": "2c634ae7-e4dd-48c0-9c90-23835c25dc52"
+              },
+              "name": "SubmitBtn",
+              "NormalImage": {
+                "asset": "",
+                "selector": ""
+              },
+              "pos": {
+                "UDim_Y": {
+                  "Offect": -17.201402664184
+                }
+              },
+              "PushedImage": {
+                "asset": "",
+                "selector": ""
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 165.26615488529
+                },
+                "UDim_Y": {
+                  "Offect": 66.579730033877
+                }
+              },
+              "Text": "Submit"
+            },
+            {
+              "__OBJ_TYPE": "Button",
+              "Alpha": 0.994,
+              "anchor": {
+                "HorizontalAlignment": "Centre",
+                "VerticalAlignment": "Bottom"
+              },
+              "DisabledImage": {
+                "asset": "",
+                "selector": ""
+              },
+              "Font_size": 24,
+              "HoverImage": {
+                "asset": "",
+                "selector": ""
+              },
+              "id": {
+                "value": "e0132a3b-f04b-434b-9ffb-40ea78e04323"
+              },
+              "name": "AcceptBtn",
+              "NormalImage": {
+                "asset": "",
+                "selector": ""
+              },
+              "pos": {
+                "UDim_Y": {
+                  "Offect": -17.201402664184
+                }
+              },
+              "PushedImage": {
+                "asset": "",
+                "selector": ""
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 165.26615488529
+                },
+                "UDim_Y": {
+                  "Offect": 66.579730033877
+                }
+              },
+              "Text": "Accept"
+            }
+          ],
+          "id": {
+            "value": "70823f07-1292-417a-91c8-f4ed78149f54"
+          },
+          "Image": {
+            "asset": "asset/Texture/output-onlinepngtools.png"
+          },
+          "size": {
+            "UDim_X": {
+              "Offect": 370
+            },
+            "UDim_Y": {
+              "Offect": 500
+            }
+          }
+        }
+      ],
+      "id": {
+        "value": "48a000bd-24b5-4d0a-be7b-02f3ba2152dc"
+      },
+      "size": {
+        "UDim_X": {
+          "Offect": 0,
+          "Scale": 1
+        },
+        "UDim_Y": {
+          "Offect": 0,
+          "Scale": 1
+        }
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "layout": "975e68ac5f823940650746ea63f62d35",
+      "triggers.bts": "d1fd7037f4941cd1b8cbfb94bb926990"
+    },
+    "VERSION": "0.22"
+  }
+}

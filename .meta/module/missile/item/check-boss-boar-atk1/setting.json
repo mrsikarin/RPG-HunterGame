@@ -1,0 +1,40 @@
+{
+  "data": {
+    "boundingVolume": {
+      "size": {
+        "x": 5,
+        "y": 4,
+        "z": 8
+      }
+    },
+    "boundingVolumeMissileCfg": {
+      "size": {
+        "x": 5,
+        "y": 4,
+        "z": 8
+      }
+    },
+    "hitEntitySkill": "myplugin/dmg-boss-boar-atk1",
+    "hitInterval": {
+      "value": 2
+    },
+    "lifeTime": {
+      "value": 2
+    },
+    "moveSpeed": 0,
+    "name": {
+      "value": "missile_check-boss-boar-atk1"
+    },
+    "target_type": "hitPlayer",
+    "vanishTime": {
+      "value": 2
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "ea335e61a0099d83e0311af5a0094bd9",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

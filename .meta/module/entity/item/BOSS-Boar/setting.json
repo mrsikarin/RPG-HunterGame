@@ -1,0 +1,58 @@
+{
+  "data": {
+    "actorName": {
+      "asset": "asset/Actor/monster/White-Haired Black Boar/Flamboyant Wild Boar.actor"
+    },
+    "AI_attack": {
+      "attackMode": "autoAttack",
+      "enable": true,
+      "skillList": [
+        {
+          "attackDis": 6,
+          "fullName": "myplugin/c-boss-boar-atk1"
+        }
+      ]
+    },
+    "AI_patrol": {
+      "idle": {
+        "prob": {
+          "value": 0.5
+        }
+      },
+      "patrolMode": "randomPath"
+    },
+    "boundingVolume": {
+      "size": {
+        "x": 3,
+        "y": 4,
+        "z": 4
+      }
+    },
+    "boundingVolumeEntityCfg": {
+      "size": {
+        "x": 3,
+        "y": 4,
+        "z": 4
+      }
+    },
+    "collision": true,
+    "damage": 50,
+    "enableAI": true,
+    "girlactor": {
+      "asset": ""
+    },
+    "hpBarHeight": 0.1,
+    "maxHp": 500,
+    "name": {
+      "value": "c9045651-1639-444e-a1f2-a916cdf4e1d3"
+    },
+    "textHeight": 5.3
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "fb9f6a927ae822b89f4538cf8c15d080",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

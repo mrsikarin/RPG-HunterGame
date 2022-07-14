@@ -1,0 +1,35 @@
+{
+  "data": {
+    "actorName": {
+      "asset": "asset/Actor/Turtle Mage On A Broomstick/Flying Wizard Turtle.actor"
+    },
+    "AI_attack": {
+      "attackMode": "autoAttack",
+      "enable": true,
+      "skillList": [
+        {
+          "attackDis": 10,
+          "fullName": "myplugin/c-monster-magic-onbuff01-atk1"
+        }
+      ]
+    },
+    "AI_patrol": {
+      "patrolMode": "randomPath"
+    },
+    "enableAI": true,
+    "girlactor": {
+      "asset": ""
+    },
+    "maxHp": 250,
+    "name": {
+      "value": "entity_Turtle_Mage_Lv.10"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "00ed0c0e35abdaac79e0983f28589db6",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

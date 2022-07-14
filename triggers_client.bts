@@ -1,0 +1,3 @@
+takeDamage {
+	ExecScript(script_name = "ScriptableNode")
+}

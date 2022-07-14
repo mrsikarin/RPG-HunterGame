@@ -1,0 +1,39 @@
+{
+  "data": {
+    "castAction": "attack1",
+    "cdTime": {
+      "value": 40
+    },
+    "name": {
+      "value": "skill_c-boss-boar-atk1"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_Missile",
+        "missile": [
+          {
+            "missileCfg": "myplugin/check-boss-boar-atk1",
+            "startPos": {
+              "y": 0,
+              "z": 5
+            },
+            "startWait": {
+              "value": 10
+            }
+          }
+        ],
+        "target": {
+          "type": "Self"
+        }
+      },
+      "type": "Missile"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "210ac1a7a89a1d6847198fd6c872b3a1",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "data": {
+    "actorName": {
+      "asset": "asset/Actor/monster/Blue Spiky Boar/g2021_ride_pig.actor"
+    },
+    "AI_attack": {
+      "attackMode": "autoAttack",
+      "enable": true,
+      "skillList": [
+        {
+          "attackDis": 3.5,
+          "fullName": "myplugin/c-monster-melee-onbuff01"
+        }
+      ]
+    },
+    "AI_patrol": {
+      "idle": {
+        "prob": {
+          "value": 0.5
+        }
+      },
+      "patrolMode": "randomPath"
+    },
+    "boundingVolume": {
+      "size": {
+        "x": 1.6,
+        "y": 2.8,
+        "z": 1.6
+      }
+    },
+    "boundingVolumeEntityCfg": {
+      "size": {
+        "x": 1.6,
+        "y": 2.8,
+        "z": 1.6
+      }
+    },
+    "collision": true,
+    "damage": 10,
+    "enableAI": true,
+    "girlactor": {
+      "asset": ""
+    },
+    "hideHp": false,
+    "hpBarHeight": 0.1,
+    "maxHp": 50,
+    "name": {
+      "value": "entity_Pig_Lv.1"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "f28f3c52a1d226b4d30e65d944b2d1c4",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}
