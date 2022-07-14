@@ -25,7 +25,7 @@
   "bodyYawOffset": [
     0
   ],
-  "castAction": "attack1",
+  "castAction": "attack2",
   "castActionTime": -1,
   "cdMaskConfig": {
     "AntiClockwise": false,
@@ -56,7 +56,7 @@
   "isShowCdPoint": false,
   "isTouch": false,
   "missileCfg": [
-    "myplugin/check-boss-boar-atk1"
+    "myplugin/check-monster-melee01"
   ],
   "missileCount": 1,
   "preSwingTime": 0,
@@ -71,11 +71,11 @@
     {
       "x": 0,
       "y": 0,
-      "z": 0
+      "z": 1
     }
   ],
   "startWait": [
-    10
+    20
   ],
   "startYaw": [
     0

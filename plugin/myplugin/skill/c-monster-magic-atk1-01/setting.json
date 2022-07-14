@@ -56,7 +56,7 @@
   "isShowCdPoint": false,
   "isTouch": false,
   "missileCfg": [
-    "myplugin/check-boss-boar-atk1"
+    "myplugin/check-monster-magic-atk1-01"
   ],
   "missileCount": 1,
   "preSwingTime": 0,
@@ -70,12 +70,12 @@
   "startPos": [
     {
       "x": 0,
-      "y": 0,
+      "y": 1.2,
       "z": 0
     }
   ],
   "startWait": [
-    10
+    30
   ],
   "startYaw": [
     0

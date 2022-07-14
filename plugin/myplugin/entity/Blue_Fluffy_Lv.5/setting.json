@@ -71,7 +71,7 @@
   "isPlayer": false,
   "jumpHeight": 0.6,
   "jumpSpeed": 0.5,
-  "maxHp": 150,
+  "maxHp": 250,
   "maxVisualAngle": 360,
   "meetCliffBackRun": true,
   "moveAcc": 0.2,
@@ -90,13 +90,13 @@
     {
       "__OBJ_TYPE": "AI_Skill",
       "attackDis": 3,
-      "fullName": "myplugin/c-monster-melee-onbuff01",
+      "fullName": "myplugin/c-monster-melee-atk1-01",
       "priority": 0
     },
     {
       "__OBJ_TYPE": "AI_Skill",
       "attackDis": 4,
-      "fullName": "myplugin/c-monster-melee-onbuff01-atk2",
+      "fullName": "myplugin/c-monster-melee-atk2-01",
       "priority": 0
     }
   ],

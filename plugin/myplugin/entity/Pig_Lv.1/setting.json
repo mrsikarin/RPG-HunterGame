@@ -25,7 +25,7 @@
     "extent": {
       "x": 1.6,
       "y": 2.8,
-      "z": 1.6
+      "z": 2
     },
     "offset": {
       "x": 0.0,
@@ -90,7 +90,7 @@
     {
       "__OBJ_TYPE": "AI_Skill",
       "attackDis": 3.5,
-      "fullName": "myplugin/c-monster-melee-onbuff01",
+      "fullName": "myplugin/c-monster-melee-atk1-01",
       "priority": 0
     }
   ],

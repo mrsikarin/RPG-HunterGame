@@ -2,7 +2,7 @@
   "_clientScript": [],
   "_serverScript": [],
   "actorGirlName": "empty.actor",
-  "actorName": "asset/Actor/Turtle Mage On A Broomstick/Flying Wizard Turtle.actor",
+  "actorName": "asset/Actor/Brown Vicious Toad Monster/A Bit Fierce Toad.actor",
   "aiFixSpeedRate": 2,
   "attackNpc": false,
   "autoAttack": true,
@@ -23,9 +23,9 @@
   "clickDistance": 4,
   "collider": {
     "extent": {
-      "x": 1.5,
-      "y": 2.5,
-      "z": 1.5
+      "x": 2,
+      "y": 3,
+      "z": 2
     },
     "offset": {
       "x": 0.0,
@@ -62,25 +62,19 @@
   "hpBarHeight": 0.2,
   "hpBarWidth": 1,
   "hurtResistantTime": 0,
-  "idleProb": 0,
-  "idleTime": [
-    10,
-    30
-  ],
   "isAIGoHomePos": true,
   "isPlayer": false,
   "jumpHeight": 0.6,
   "jumpSpeed": 0.5,
-  "maxHp": 1000,
+  "maxHp": 3250,
   "maxVisualAngle": 360,
   "meetCliffBackRun": true,
   "moveAcc": 0.2,
   "moveFactor": 1,
   "moveSpeed": 0.2,
-  "name": "entity_Turtle_Mage_Lv.10",
+  "name": "entity_Toad_Lv.20",
   "needCheckTouch": true,
   "nextChaseInterval": 2,
-  "patrolDistance": 5,
   "randomPlayDeadActions": [
     ""
   ],
@@ -89,8 +83,8 @@
   "skillInfoList": [
     {
       "__OBJ_TYPE": "AI_Skill",
-      "attackDis": 10,
-      "fullName": "myplugin/c-monster-magic-atk1-01",
+      "attackDis": 4,
+      "fullName": "myplugin/c-monster-melee-mid-atk1-01",
       "priority": 0
     }
   ],

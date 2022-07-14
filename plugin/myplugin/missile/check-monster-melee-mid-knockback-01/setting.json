@@ -3,14 +3,14 @@
   "collideEntity": 6,
   "collider": {
     "extent": {
-      "x": 5,
-      "y": 4,
-      "z": 8
+      "x": 2,
+      "y": 2.2,
+      "z": 6.5
     },
     "offset": {
       "x": 0.0,
       "y": 0.0,
-      "z": 5
+      "z": 3.5
     },
     "rotation": {
       "x": 0.0,
@@ -27,7 +27,7 @@
     "z": 0
   },
   "gravity": 0.0,
-  "hitEntitySkill": "myplugin/dmg-boss-boar-atk1",
+  "hitEntitySkill": "myplugin/dmg-monster-melee-knockback01",
   "hitEntitysRoles": [
     "hitAllTeam",
     "hitPlayer",
@@ -49,6 +49,6 @@
   "rotateFree": true,
   "rotateSpeed": 0.0,
   "startWithMoveAcc": true,
-  "vanishShow": false,
-  "vanishTime": 2
+  "vanishShow": true,
+  "vanishTime": 20
 }
