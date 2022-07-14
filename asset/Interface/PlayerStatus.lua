@@ -1,5 +1,5 @@
 print("startup ui")
-
+local back = self:child("Close")
 local point = Me:getValue("point")
 local point_text = self:child("Point")
 
@@ -26,6 +26,9 @@ local lv = Me:getValue("level")
 local Atk,Def,Haste,mana= Me:prop("damage"),Me:prop("defense"),0,Me:getValue("defaultmaxVp")
 --PackageHandlers.sendClientHandler("SetStatusPlayer",{atk=Atk,def=Def,haste=Haste,mana=mana},function(...) end)
 
+back.onMouseClick = function()
+  UI:closeWindow("Interface/PlayerStatus")
+end
 
 upAtk.onMouseClick = function()
   if point > 0 then

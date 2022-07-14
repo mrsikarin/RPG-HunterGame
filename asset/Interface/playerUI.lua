@@ -2,12 +2,16 @@ print("startup ui")
 
 local expbar = self:child("expbar")
 local level = self:child("level")
-
+local btn = self:child("Button")
 local questDetail = self:child("detailTxt")
 local questReward = self:child("rewardTxt")
 local questUI = self:child("Quest")
 
 local maxValue,curValue
+
+btn.onMouseClick = function()
+  UI:openWindow("Interface/PlayerStatus")
+end
 function self:refreshBar()
   maxValue = Me:getValue("level") * 100
   curValue = Me:getValue("exp")
