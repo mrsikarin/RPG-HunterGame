@@ -1,6 +1,6 @@
 {
   "data": {
-    "md5": "0ee70767415a4aebace22d3fb0b6a607",
+    "md5": "29c635ff26f667a82b3eb8a62c4f0892",
     "path": "asset/Interface/damage.layout",
     "root": {
       "anchor": {
@@ -11,11 +11,20 @@
         {
           "__OBJ_TYPE": "StaticText",
           "anchor": {
-            "HorizontalAlignment": "Centre",
-            "VerticalAlignment": "Centre"
+            "HorizontalAlignment": "Centre"
           },
-          "Font": "HarmonyOS_Sans_SC_Bold",
+          "BorderColor": {
+            "b": 78,
+            "g": 78,
+            "r": 78
+          },
+          "BorderWidth": 2,
+          "Font": "MN CHAYEN",
           "Font_size": 34,
+          "FrameColours": {
+            "b": 0,
+            "g": 170
+          },
           "HorzFormatting": "CentreAligned",
           "id": {
             "value": "83c580be-3864-42ca-b9d3-5d1bcf6a72ce"
@@ -23,21 +32,14 @@
           "name": "dmg",
           "pos": {
             "UDim_X": {
-              "Offect": 0.8205313682556
+              "Offect": -0.0098913107036003
             },
             "UDim_Y": {
-              "Offect": -86.00001776055
-            }
-          },
-          "size": {
-            "UDim_X": {
-              "Offect": 256.0
+              "Offect": 0.7944940720533
             }
           },
           "TextColours": {
-            "b": 42,
-            "g": 10,
-            "r": 251
+            "r": 170
           },
           "VertFormatting": "CentreAligned",
           "WindowTouchThroughMode": "MousePassThroughOpen"
@@ -51,7 +53,7 @@
   },
   "meta": {
     "EXPORT": {
-      "layout": "0ee70767415a4aebace22d3fb0b6a607",
+      "layout": "29c635ff26f667a82b3eb8a62c4f0892",
       "triggers.bts": "d1fd7037f4941cd1b8cbfb94bb926990"
     },
     "VERSION": "0.22"
