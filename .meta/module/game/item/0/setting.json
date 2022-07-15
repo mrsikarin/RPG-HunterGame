@@ -1,11 +1,17 @@
 {
   "data": {
     "canJoinMidway": false,
+    "defaultView": "Follow",
     "fixed_viewPos": {
       "pos": {
         "__OBJ_TYPE": "Vector3i"
       }
     },
+    "follow_distance": 5,
+    "follow_enable": {
+      "enable": true
+    },
+    "follow_viewFovAngle": 90,
     "initPos": {
       "map": "map001",
       "pos": {
@@ -73,56 +79,85 @@
                   "__OBJ_TYPE": "Component_Script",
                   "children": [
                     {
+                      "action": "03a9afae-777f-43a2-8c4d-b7f9e86cb371",
                       "param_name": "player"
                     },
                     {
-                      "param_name": "dmg"
+                      "action": "a0b7a8cb-82c4-4d0e-a1d7-9bd0ae91fafa",
+                      "param_name": "exp"
                     }
                   ],
-                  "script_name": "ScriptableNode"
+                  "script_name": "ScriptableNode_5"
                 }
               ],
               "id": {
-                "value": "28acc387-efcf-4b52-93b6-5bc046b4dc2e"
+                "value": "db207a85-9fe4-4f54-8c4e-96debe5316a0"
               },
               "pos": {
-                "x": 690,
-                "y": 298
+                "x": 822,
+                "y": 300
               }
+            },
+            {
+              "__OBJ_TYPE": "Action_GetContextVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Context",
+                  "key": "player"
+                }
+              ],
+              "id": {
+                "value": "03a9afae-777f-43a2-8c4d-b7f9e86cb371"
+              },
+              "pos": {
+                "x": 1251,
+                "y": 342
+              },
+              "type": "T_Entity"
+            },
+            {
+              "__OBJ_TYPE": "Action_GetProtocolParam",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Proto_Param",
+                  "key": "exp"
+                }
+              ],
+              "id": {
+                "value": "a0b7a8cb-82c4-4d0e-a1d7-9bd0ae91fafa"
+              },
+              "pos": {
+                "x": 1201,
+                "y": 571
+              },
+              "proto_id": "00f1fe23-c9ba-4523-8cdc-37760c7eef37",
+              "type": "T_Int"
             }
           ],
           "custom_trigger_data": {
             "name": {
-              "value": "takeDamage"
+              "value": "658f012e-227b-433a-93c0-03f6fb462978"
             },
-            "params": [
-              {
-                "param_name": "player"
-              },
-              {
-                "param_name": "dmg"
-              }
-            ],
-            "register_id": "78003b76-26b4-4f41-a844-aab819346cc0",
-            "type": "Trigger_Custom_Client"
+            "type": "Trigger_RegisterClientProto"
           },
-          "custom_trigger_name": "takeDamage",
+          "func_name": "getXp",
+          "proto_uuid": "00f1fe23-c9ba-4523-8cdc-37760c7eef37",
           "root": {
             "components": [
               {
                 "__OBJ_TYPE": "Component_Sequence",
                 "children": [
                   {
-                    "action": "28acc387-efcf-4b52-93b6-5bc046b4dc2e"
+                    "action": "db207a85-9fe4-4f54-8c4e-96debe5316a0"
                   }
                 ]
               }
             ],
             "id": {
-              "value": "78003b76-26b4-4f41-a844-aab819346cc0"
+              "value": "44b8cd8e-be8b-454f-bc52-41c80f726889"
             }
           },
-          "type": "Trigger_Custom_Client"
+          "type": "Trigger_RegisterClientProto"
         }
       ]
     },
@@ -130,10 +165,10 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "900598348a92fb73d2007697220b5848",
+      "setting.json": "8c59fc8b139af5fd30b6072a52f02f67",
       "shop.csv": "393e9a440b900b5690986ec2b0e57be5",
       "triggers.bts": "03957072b289bfabd1af1141ddd49379",
-      "triggers_client.bts": "b440b6f7df01a37ce69e5d4ac2be4f4e"
+      "triggers_client.bts": "f43681c948d0a966a463e518b8ceec0d"
     },
     "VERSION": "0.22"
   }

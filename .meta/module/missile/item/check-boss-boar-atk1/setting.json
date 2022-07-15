@@ -1,12 +1,5 @@
 {
   "data": {
-    "boundingVolume": {
-      "size": {
-        "x": 5,
-        "y": 4,
-        "z": 8
-      }
-    },
     "boundingVolumeMissileCfg": {
       "size": {
         "x": 5,
@@ -32,7 +25,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "ea335e61a0099d83e0311af5a0094bd9",
+      "setting.json": "5f454b0f89f4775065791b176047112e",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

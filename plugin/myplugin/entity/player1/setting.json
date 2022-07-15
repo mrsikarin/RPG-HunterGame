@@ -43,7 +43,7 @@
     "type": "Capsule"
   },
   "collision": false,
-  "damage": 0,
+  "damage": 50,
   "damageViewBobbing": [
     {
       "count": 2,
@@ -101,7 +101,7 @@
   "isPlayer": true,
   "jumpHeight": 0.6,
   "jumpSpeed": 0.5,
-  "maxHp": 100,
+  "maxHp": 10000,
   "maxVisualAngle": 360,
   "meetCliffBackRun": true,
   "modelType": "System",

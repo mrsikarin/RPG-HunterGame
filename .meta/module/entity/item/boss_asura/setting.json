@@ -1,0 +1,54 @@
+{
+  "data": {
+    "actorName": {
+      "asset": "asset/Actor/Six-Armed Brown Asura/Asura1.actor"
+    },
+    "AI_attack": {
+      "attackMode": "autoAttack",
+      "chaseDistance": 15,
+      "enable": true,
+      "skillList": [
+        {
+          "attackDis": 15,
+          "fullName": "myplugin/c-boss-asura-atk1-02"
+        },
+        {
+          "attackDis": 15,
+          "fullName": "myplugin/c-boss-asura-buff.burn-atk1-01",
+          "priority": 2
+        }
+      ]
+    },
+    "boundingVolume": {
+      "size": {
+        "x": 2,
+        "y": 4,
+        "z": 2
+      }
+    },
+    "boundingVolumeEntityCfg": {
+      "size": {
+        "x": 2,
+        "y": 4,
+        "z": 2
+      }
+    },
+    "collision": true,
+    "damage": 500,
+    "enableAI": true,
+    "girlactor": {
+      "asset": ""
+    },
+    "maxHp": 20000,
+    "name": {
+      "value": "entity_boss_asura"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "f868ddda4c436ee730473396e90b9043",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

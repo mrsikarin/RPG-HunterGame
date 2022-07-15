@@ -1,0 +1,26 @@
+{
+  "data": {
+    "hitEntityEffect": {
+      "effect": {
+        "asset": "asset/effect/Burst_death.effect"
+      }
+    },
+    "hitEntitySkill": "myplugin/dmg-monster-buff-freeze01",
+    "name": {
+      "value": "0d4d0b50-d1eb-43b1-b5a0-6b17167f3589"
+    },
+    "startEffect": {
+      "effect": {
+        "asset": "asset/effect/Continuous_fish_spray.effect"
+      }
+    },
+    "target_type": "hitPlayer"
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "047d02a3591f6797180f7c7de1356274",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

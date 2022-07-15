@@ -1,0 +1,27 @@
+{
+  "data": {
+    "lifeTime": {
+      "value": 40
+    },
+    "moveSpeed": 0,
+    "name": {
+      "value": "missile_pre-skill01"
+    },
+    "startEffect": {
+      "effect": {
+        "asset": "asset/effect/Marker_circle.effect"
+      },
+      "scale": {
+        "x": 4,
+        "z": 4
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "06b126dcda4ba632201d62949c52ceea",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

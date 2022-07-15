@@ -14,8 +14,7 @@
           {
             "missileCfg": "myplugin/check-boss-boar-atk1",
             "startPos": {
-              "y": 0,
-              "z": 5
+              "y": 0
             },
             "startWait": {
               "value": 10
@@ -31,7 +30,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "210ac1a7a89a1d6847198fd6c872b3a1",
+      "setting.json": "460ec32c9d95092d958cf3d19c766415",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

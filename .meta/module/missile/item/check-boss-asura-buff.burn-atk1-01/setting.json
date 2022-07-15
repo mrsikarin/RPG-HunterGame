@@ -1,0 +1,52 @@
+{
+  "data": {
+    "boundingVolume": {
+      "size": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      }
+    },
+    "boundingVolumeMissileCfg": {
+      "size": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      }
+    },
+    "hitCount": {
+      "hitEntityCount": 1,
+      "isValid": true
+    },
+    "hitEntityEffect": {
+      "effect": {
+        "asset": "asset/effect/Burst_firework_yellow01.effect"
+      },
+      "once": true
+    },
+    "hitEntitySkill": "myplugin/dmg-boss-asura01",
+    "hitInterval": {
+      "value": 20
+    },
+    "lifeTime": {
+      "value": 20
+    },
+    "moveSpeed": 20,
+    "name": {
+      "value": "b7be7200-fc7b-48e3-a99d-5543115835c5"
+    },
+    "startEffect": {
+      "effect": {
+        "asset": "asset/effect/Continuous_fireball.effect"
+      }
+    },
+    "target_type": "hitPlayer"
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "e0535f63e74bd6f7d3a13a6205c8095b",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

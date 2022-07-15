@@ -1,0 +1,48 @@
+{
+  "data": {
+    "cdTime": {
+      "value": 60
+    },
+    "name": {
+      "value": "skill_c-boss-asura-atk1-01"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_Missile",
+        "missile": [
+          {
+            "missileCfg": "myplugin/check-boss-asura-atk1-01",
+            "startPos": {
+              "z": 0.5
+            }
+          },
+          {
+            "missileCfg": "myplugin/check-boss-asura-atk1-01",
+            "startPos": {
+              "z": 0.5
+            },
+            "startYaw": 20
+          },
+          {
+            "missileCfg": "myplugin/check-boss-asura-atk1-01",
+            "startPos": {
+              "z": 0.5
+            },
+            "startYaw": -20
+          }
+        ],
+        "target": {
+          "type": "Self"
+        }
+      },
+      "type": "Missile"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "e66db4c3d86ef50b66ac81916615116d",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

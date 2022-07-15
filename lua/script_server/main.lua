@@ -21,6 +21,21 @@ end)
   PackageHandlers.sendServerHandler(player,"questUpdate",{})
 end)]]--
 
+PackageHandlers.registerServerHandler("CreatePopUp", function(player, packet)
+  local map = player.map
+  --local ui = UI:CreateGUIWindow("test.layout")
+  local SceneUI = Instance.new("SceneUI", map.Root)
+  SceneUI.LocalPosition = player:getPosition()
+  SceneUI.Layout = "interface/damage"
+  --SceneUI.Window:setDmg(dmg)
+  local i = World.Timer(20, function()
+    SceneUI:destroy()
+  end)
+
+end)
+
+
+
 Trigger.RegisterHandler(cfg, "ENTITY_ENTER", function(context)
   local player = context.obj1
   player:setValue("defaultDamage",player:prop("damage"))
@@ -28,3 +43,5 @@ Trigger.RegisterHandler(cfg, "ENTITY_ENTER", function(context)
   player:setValue("defaultmaxVp",player:prop("maxVp"))
   setStatus(player)
 end)
+
+

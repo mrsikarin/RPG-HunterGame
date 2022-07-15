@@ -1,0 +1,7 @@
+ENTITY_DAMAGE {
+	ExecScript(dmg = $damage, player = $obj2, script_name = "ScriptableNode_1")
+}
+
+ENTITY_DIE {
+	SendToClient(msg = "client_00f1fe23_c9ba_4523_8cdc_37760c7eef37", p_exp = NumberFloor(p1 = 20), player = $obj2)
+}

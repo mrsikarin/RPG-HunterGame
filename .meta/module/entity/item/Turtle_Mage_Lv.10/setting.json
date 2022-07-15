@@ -9,25 +9,27 @@
       "skillList": [
         {
           "attackDis": 10,
-          "fullName": "myplugin/c-monster-magic-onbuff01-atk1"
+          "fullName": "myplugin/c-monster-magic-atk1-01"
         }
       ]
     },
     "AI_patrol": {
       "patrolMode": "randomPath"
     },
+    "collision": true,
+    "damage": 150,
     "enableAI": true,
     "girlactor": {
-      "asset": ""
+      "asset": "empty.actor"
     },
-    "maxHp": 250,
+    "maxHp": 1000,
     "name": {
       "value": "entity_Turtle_Mage_Lv.10"
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "00ed0c0e35abdaac79e0983f28589db6",
+      "setting.json": "ceb5e6e1a223ef855496920546af586a",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

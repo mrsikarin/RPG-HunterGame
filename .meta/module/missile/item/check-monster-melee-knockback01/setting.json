@@ -1,0 +1,25 @@
+{
+  "data": {
+    "hitEntitySkill": "myplugin/dmg-monster-melee-knockback01",
+    "hitInterval": {
+      "value": 2
+    },
+    "lifeTime": {
+      "value": 2
+    },
+    "moveSpeed": 0,
+    "name": {
+      "value": "missile_check-monster-melee-knockback01"
+    },
+    "vanishShow": true,
+    "vanishTime": {
+      "value": 20
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "f964e674d9d13f745b5e32d37d98f412"
+    },
+    "VERSION": "0.22"
+  }
+}

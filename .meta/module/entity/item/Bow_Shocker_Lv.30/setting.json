@@ -1,0 +1,49 @@
+{
+  "data": {
+    "actorName": {
+      "asset": "asset/Actor/Blue Archer Monster/Bow Shocker.actor"
+    },
+    "AI_attack": {
+      "attackMode": "autoAttack",
+      "enable": true,
+      "skillList": [
+        {
+          "attackDis": 10,
+          "fullName": "myplugin/c-monster-magic-atk1-01"
+        },
+        {
+          "attackDis": 10,
+          "fullName": "myplugin/c-monster-magic--buff.freeze-atk2-01"
+        }
+      ]
+    },
+    "boundingVolume": {
+      "size": {
+        "x": 1.6,
+        "y": 2.8,
+        "z": 1.6
+      }
+    },
+    "boundingVolumeEntityCfg": {
+      "size": {
+        "x": 1.6,
+        "y": 2.8,
+        "z": 1.6
+      }
+    },
+    "collision": true,
+    "damage": 300,
+    "enableAI": true,
+    "maxHp": 5250,
+    "name": {
+      "value": "entity_Bow_Shocker_Lv.30"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "d400c63d7df5b48b80c40fc603c08497",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

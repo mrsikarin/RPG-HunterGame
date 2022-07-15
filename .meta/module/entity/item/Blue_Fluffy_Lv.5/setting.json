@@ -9,10 +9,10 @@
       "skillList": [
         {
           "attackDis": 3,
-          "fullName": "myplugin/c-monster-melee-onbuff01"
+          "fullName": "myplugin/c-monster-melee-atk1-01"
         },
         {
-          "fullName": "myplugin/c-monster-melee-onbuff01-atk2"
+          "fullName": "myplugin/c-monster-melee-atk2-01"
         }
       ]
     },
@@ -23,13 +23,6 @@
         }
       },
       "patrolMode": "randomPath"
-    },
-    "boundingVolume": {
-      "size": {
-        "x": 2,
-        "y": 2,
-        "z": 2
-      }
     },
     "boundingVolumeEntityCfg": {
       "size": {
@@ -42,17 +35,17 @@
     "damage": 50,
     "enableAI": true,
     "girlactor": {
-      "asset": ""
+      "asset": "empty.actor"
     },
     "hideHp": false,
-    "maxHp": 150,
+    "maxHp": 250,
     "name": {
       "value": "entity_Blue_Fluffy_Lv.5"
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "7c08067e816ce9b298e6a2c812a0df90",
+      "setting.json": "cb68c4f95458646e54161e28f5b34c7a",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

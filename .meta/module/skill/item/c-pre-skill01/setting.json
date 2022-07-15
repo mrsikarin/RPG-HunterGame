@@ -1,0 +1,34 @@
+{
+  "data": {
+    "cdTime": {
+      "value": 60
+    },
+    "name": {
+      "value": "ade9cda4-7745-4045-af2a-ab35037c7c68"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_Missile",
+        "missile": [
+          {
+            "missileCfg": "myplugin/pre-skill01",
+            "startPos": {
+              "y": 0
+            }
+          }
+        ],
+        "target": {
+          "type": "Self"
+        }
+      },
+      "type": "Missile"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "ac452e2fec36ce7b095410c2372337b1",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

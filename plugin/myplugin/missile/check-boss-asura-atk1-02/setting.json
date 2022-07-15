@@ -1,0 +1,85 @@
+{
+  "autoRotateColliderBox": true,
+  "collideEntity": 6,
+  "collider": {
+    "extent": {
+      "x": 1,
+      "y": 2,
+      "z": 1
+    },
+    "offset": {
+      "x": 0.0,
+      "y": -1,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "type": "Box"
+  },
+  "followTarget": false,
+  "followTargetRotation": true,
+  "followTargetRotationOffset": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "gravity": 0.0,
+  "hitEntityCount": 1,
+  "hitEntityEffect": {
+    "effect": "@asset/effect/Burst_firework_yellow01.effect",
+    "once": true,
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "yaw": 0
+  },
+  "hitEntitySkill": "myplugin/dmg-boss-asura01",
+  "hitEntitysRoles": [
+    "hitAllTeam",
+    "hitPlayer",
+    "hitAllConfigEntity"
+  ],
+  "hitInterval": 20,
+  "isPitch": true,
+  "lifeTime": 20,
+  "lockRotateBodyPitch": 0,
+  "lockRotateBodyRoll": 0,
+  "lockRotateBodyYaw": 0,
+  "modelSizeScale": {
+    "x": 1,
+    "y": 1,
+    "z": 1
+  },
+  "moveAcc": 0.0,
+  "moveSpeed": 1.25,
+  "rotateFree": true,
+  "rotateSpeed": 0.0,
+  "startEffect": {
+    "effect": "@asset/effect/Continuous_fireball.effect",
+    "once": false,
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "yaw": 0
+  },
+  "startWithMoveAcc": true,
+  "vanishShow": false,
+  "vanishTime": 10
+}

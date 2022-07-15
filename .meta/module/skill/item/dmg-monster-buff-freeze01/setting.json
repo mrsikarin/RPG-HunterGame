@@ -1,0 +1,24 @@
+{
+  "data": {
+    "name": {
+      "value": "skill_dmg-monster-buff-freeze01"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_Buff",
+        "buffCfg": "myplugin/monster-freeze",
+        "buffTime": {
+          "value": 40
+        }
+      },
+      "type": "Buff"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "65ac9abd7f9ef74823cc3a90361aef63",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

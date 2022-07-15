@@ -104,42 +104,35 @@
       },
       {
         "__OBJ_TYPE": "Instance_Entity",
-        "config": "myplugin/BOSS-Boar",
-        "id": "8712941086197678081",
-        "name": "[BOSS]Boar",
+        "config": "myplugin/GiveXp",
+        "id": "8715766749293215745",
+        "name": "GiveXp",
         "position": {
-          "x": 10.475206375122,
-          "y": 0.99989891052246,
-          "z": 22.246049880981
+          "x": 26.363750457764,
+          "y": 0.99989438056946,
+          "z": 31.97583770752
         }
       },
       {
-        "__OBJ_TYPE": "Instance_MeshPart",
-        "btsKey": "cedc9253-d332-42de-ab95-941832b9138d",
-        "density": 2.2,
-        "friction": 0.37,
-        "id": "8713488564939620353",
-        "massCenter": {
-          "x": -2.8300783634186,
-          "y": 2.147399187088,
-          "z": 39.065567016602
-        },
-        "mesh": "asset/untitled/HAMMER_EVO_02_V1.mesh",
-        "mesh_selector": {
-          "asset": "asset/untitled/HAMMER_EVO_02_V1.mesh",
-          "selector": "asset/untitled/HAMMER_EVO_02_V1.mesh"
-        },
-        "name": "HAMMER_EVO_02_V1.mesh",
+        "__OBJ_TYPE": "Instance_Entity",
+        "config": "myplugin/Bow_Shocker_Lv.30",
+        "id": "8715781320348254209",
+        "name": "Bow Shocker Lv.30",
         "position": {
-          "x": -2.8300783634186,
-          "y": 2.147399187088,
-          "z": 39.065567016602
-        },
-        "restitution": 0.3,
-        "size": {
-          "x": 0.44209042191505,
-          "y": 1.1474988460541,
-          "z": 0.20105405151844
+          "x": -26.271541595459,
+          "y": 0.99989914894104,
+          "z": 32.730949401855
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Entity",
+        "config": "myplugin/boss_asura",
+        "id": "8715825344000540673",
+        "name": "[BOSS]Asura",
+        "position": {
+          "x": 17.519842147827,
+          "y": 0.99989938735962,
+          "z": 34.853343963623
         }
       }
     ],
@@ -153,7 +146,7 @@
   "meta": {
     "EXPORT": {
       "DataSet": [],
-      "setting.json": "f628eddc28710fca51985e90f8ce7bed"
+      "setting.json": "d216294591d7aeb35e55d863466b1231"
     },
     "VERSION": "0.22"
   }

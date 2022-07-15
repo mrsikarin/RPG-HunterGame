@@ -1,0 +1,25 @@
+{
+  "data": {
+    "hitEntitySkill": "myplugin/dmg-monster-melee01",
+    "hitInterval": {
+      "value": 2
+    },
+    "lifeTime": {
+      "value": 2
+    },
+    "moveSpeed": 0,
+    "name": {
+      "value": "missile_check-monster-melee-mid-01"
+    },
+    "vanishShow": true,
+    "vanishTime": {
+      "value": 20
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "98b1d937730d56377b05e965eaf05cad"
+    },
+    "VERSION": "0.22"
+  }
+}

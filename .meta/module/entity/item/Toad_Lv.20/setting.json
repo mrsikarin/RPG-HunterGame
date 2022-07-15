@@ -1,0 +1,36 @@
+{
+  "data": {
+    "actorName": {
+      "asset": "asset/Actor/Brown Vicious Toad Monster/A Bit Fierce Toad.actor"
+    },
+    "AI_attack": {
+      "attackMode": "autoAttack",
+      "enable": true,
+      "skillList": [
+        {
+          "fullName": "myplugin/c-monster-melee-mid-atk1-01"
+        }
+      ]
+    },
+    "AI_patrol": {
+      "patrolMode": "randomPath"
+    },
+    "collision": true,
+    "damage": 200,
+    "enableAI": true,
+    "girlactor": {
+      "asset": "empty.actor"
+    },
+    "maxHp": 3250,
+    "name": {
+      "value": "entity_Toad_Lv.20"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "312253119ce69fdc9ab98ad7856f162b",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

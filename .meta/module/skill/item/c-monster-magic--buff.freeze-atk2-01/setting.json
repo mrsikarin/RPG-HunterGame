@@ -1,0 +1,39 @@
+{
+  "data": {
+    "castAction": "attack2",
+    "cdTime": {
+      "value": 40
+    },
+    "name": {
+      "value": "0d8b3816-dab9-4f38-977b-2d4e41b80405"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_Missile",
+        "missile": [
+          {
+            "missileCfg": "myplugin/check-monster-magic-buff.freeze-01",
+            "startPos": {
+              "y": 1.2,
+              "z": 1
+            },
+            "startWait": {
+              "value": 10
+            }
+          }
+        ],
+        "target": {
+          "type": "Self"
+        }
+      },
+      "type": "Missile"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "453682069eacae75d7552ca2580be69b",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

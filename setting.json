@@ -4,7 +4,7 @@
   "cameraCfg": {
     "canSwitchView": true,
     "defaultPitch": 0,
-    "defaultView": 0,
+    "defaultView": 3,
     "defaultYaw": 0,
     "viewModeConfig": [
       {
@@ -39,8 +39,8 @@
         "viewFovAngle": 75
       },
       {
-        "distance": 4,
-        "enable": false,
+        "distance": 5,
+        "enable": true,
         "enableCollisionDetect": true,
         "lockBodyRotation": false,
         "lockSlideScreen": false,
@@ -50,7 +50,7 @@
           "y": 0.0,
           "z": 0.0
         },
-        "viewFovAngle": 75
+        "viewFovAngle": 90
       },
       {
         "enable": false,

@@ -1,0 +1,58 @@
+{
+  "data": {
+    "boundingVolume": {
+      "position": {
+        "y": -1
+      },
+      "size": {
+        "x": 1,
+        "y": 2,
+        "z": 1
+      }
+    },
+    "boundingVolumeMissileCfg": {
+      "position": {
+        "y": -1
+      },
+      "size": {
+        "x": 1,
+        "y": 2,
+        "z": 1
+      }
+    },
+    "hitCount": {
+      "hitEntityCount": 1,
+      "isValid": true
+    },
+    "hitEntityEffect": {
+      "effect": {
+        "asset": "asset/effect/Burst_firework_blue01.effect"
+      },
+      "once": true
+    },
+    "hitEntitySkill": "myplugin/dmg-boss-asura01",
+    "hitInterval": {
+      "value": 20
+    },
+    "lifeTime": {
+      "value": 20
+    },
+    "moveSpeed": 25,
+    "name": {
+      "value": "missile_check-boss-asura-atk1-01"
+    },
+    "startEffect": {
+      "effect": {
+        "asset": "asset/Actor/Blue Archer Monster/g2021_gaoda_biggun.effect"
+      }
+    },
+    "target_type": "hitPlayer"
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "01b603d3c3d234dd76be4a9e2a0de340",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

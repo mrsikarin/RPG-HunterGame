@@ -23,9 +23,9 @@
   "clickDistance": 4,
   "collider": {
     "extent": {
-      "x": 1.5,
-      "y": 2.5,
-      "z": 1.5
+      "x": 0.6,
+      "y": 1.8,
+      "z": 0.6
     },
     "offset": {
       "x": 0.0,
@@ -40,7 +40,7 @@
     "type": "Box"
   },
   "collision": true,
-  "damage": 0,
+  "damage": 150,
   "deathHideTime": 20,
   "destroyTime": 0,
   "disableShadow": true,
