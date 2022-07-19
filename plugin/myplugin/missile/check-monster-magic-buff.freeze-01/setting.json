@@ -43,6 +43,13 @@
     "yaw": 0
   },
   "hitEntitySkill": "myplugin/dmg-monster-buff-freeze01",
+  "hitEntitySound": {
+    "loop": false,
+    "path": "asset/Sound/A.M.P. DEMO/AMP_Ice_Impact_01.mp3",
+    "selfOnly": false,
+    "sound": "@Sound/A.M.P. DEMO/AMP_Ice_Impact_01.mp3",
+    "volume": 1
+  },
   "hitEntitysRoles": [
     "hitAllTeam",
     "hitPlayer",

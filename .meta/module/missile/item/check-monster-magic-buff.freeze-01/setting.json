@@ -6,6 +6,11 @@
       }
     },
     "hitEntitySkill": "myplugin/dmg-monster-buff-freeze01",
+    "hitEntitySound": {
+      "sound": {
+        "asset": "asset/Sound/A.M.P. DEMO/AMP_Ice_Impact_01.mp3"
+      }
+    },
     "name": {
       "value": "0d4d0b50-d1eb-43b1-b5a0-6b17167f3589"
     },
@@ -18,7 +23,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "047d02a3591f6797180f7c7de1356274",
+      "setting.json": "2a60cca59497fd92f72f7e2b1e3cb447",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

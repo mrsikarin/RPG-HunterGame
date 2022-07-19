@@ -1,0 +1,51 @@
+{
+  "data": {
+    "castAction": "g2033_skill_chakra_04",
+    "cdTime": {
+      "value": 400
+    },
+    "consumeVp": 30,
+    "name": {
+      "value": "skill_c-player-power-ball"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_Missile",
+        "missile": [
+          {
+            "missileCfg": "myplugin/check-player-power-ball"
+          }
+        ],
+        "target": {
+          "type": "BodyYaw"
+        }
+      },
+      "type": "Missile"
+    },
+    "skill_pre": {
+      "enable_pre": true,
+      "ignore_jump": true,
+      "ignore_move": true,
+      "time": {
+        "value": 24
+      }
+    },
+    "skillReleaseWay": {
+      "icon": {
+        "asset": "asset/Skill/power_ball.png"
+      },
+      "icon_pushed": {
+        "asset": "asset/Skill/power_ball_press.png"
+      },
+      "iconPos": {
+        "area_number": 8
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "f1fdde48115d7e4d4ccc28553871cbb1"
+    },
+    "VERSION": "0.22"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "data": {
+    "hitCount": {
+      "hitEntityCount": 1,
+      "isValid": true
+    },
+    "hitEntitySkill": "myplugin/8b847a11-f9ad-46db-b9b0-79d85e29aafc",
+    "lifeTime": {
+      "value": 20
+    },
+    "moveSpeed": 20,
+    "name": {
+      "value": "missile_check-player-death-ball"
+    },
+    "startEffect": {
+      "effect": {
+        "asset": "asset/effect/Track_dark_ray.effect"
+      }
+    },
+    "vanishTime": {
+      "value": 2
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "82824f167f294905583f1bfd44605ff8"
+    },
+    "VERSION": "0.22"
+  }
+}

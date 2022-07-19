@@ -1,0 +1,21 @@
+{
+  "data": {
+    "castEffect": {
+      "effect": {
+        "asset": "asset/effect/Continuous_frozen.effect"
+      }
+    },
+    "deadRemove": true,
+    "fixTime": "reset",
+    "moveFactor": -1,
+    "name": {
+      "value": "buff_freeze"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "5e0380a1ef9f9ed33222312de6cb4811"
+    },
+    "VERSION": "0.22"
+  }
+}

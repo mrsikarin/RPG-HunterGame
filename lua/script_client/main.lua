@@ -1,17 +1,22 @@
 print('script_client:hello world')
 local status
+
 World.Timer(10, function()
     --local guiMgr = GUIManager:Instance()
-	local window = UI:openWindow("Interface/btnAtk")
+	local btn = UI:openWindow("Interface/btnAtk")
   status = UI:openWindow("Interface/playerUI")
+  btn:btnControl(0)
   status:refreshBar()
-  status:questUpdate()
-
+  --status:questUpdate()
+  local soundID = TdAudioEngine.Instance():play2dSound("asset/Sound/clouds-29191.mp3", true)
+  TdAudioEngine:setSoundsVolume(soundID,1)
+  print(soundID)
   
 end)
 
 PackageHandlers.registerClientHandler("changeItem",function(player,packet)
-  print(packet.index)
+  local btn = UI:openWindow("Interface/btnAtk")  
+  btn:btnControl(packet.index)
 end)
 
 PackageHandlers.registerClientHandler("takeDamage",function(player,packet)

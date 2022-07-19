@@ -1,0 +1,30 @@
+{
+  "data": {
+    "canAbandon": true,
+    "canUse": true,
+    "icon": {
+      "asset": "asset/Item/R (6) (4).png"
+    },
+    "item": {
+      "base": {
+        "__OBJ_TYPE": "ItemUse",
+        "time": {
+          "value": 100
+        },
+        "useBuff": "myplugin/mana-recovery"
+      },
+      "type": "Use"
+    },
+    "name": {
+      "value": "item_blue-potion-l"
+    },
+    "needSave": true,
+    "stack_count_max": 99
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "6e1f5c006ff7f565e4a0d7c3f63753e2"
+    },
+    "VERSION": "0.22"
+  }
+}

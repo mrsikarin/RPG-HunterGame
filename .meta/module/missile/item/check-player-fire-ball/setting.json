@@ -1,0 +1,30 @@
+{
+  "data": {
+    "hitCount": {
+      "hitEntityCount": 1,
+      "isValid": true
+    },
+    "hitEntitySkill": "myplugin/8b847a11-f9ad-46db-b9b0-79d85e29aafc",
+    "lifeTime": {
+      "value": 20
+    },
+    "moveSpeed": 20,
+    "name": {
+      "value": "missile_check-player-fire-ball"
+    },
+    "startEffect": {
+      "effect": {
+        "asset": "asset/effect/Continuous_fireball.effect"
+      }
+    },
+    "vanishTime": {
+      "value": 2
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "e65944d3938d23abe9e27d091398ae23"
+    },
+    "VERSION": "0.22"
+  }
+}

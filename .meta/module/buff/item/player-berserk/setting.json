@@ -1,0 +1,22 @@
+{
+  "data": {
+    "castEffect": {
+      "effect": {
+        "asset": "asset/effect/Surround_aura_red.effect"
+      }
+    },
+    "damagePct": 1,
+    "deadRemove": true,
+    "moveFactor": 0.5,
+    "name": {
+      "value": "buff_player-berserk"
+    },
+    "sync": "self"
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "cd22a7f3b5c1a472c198e5ace73d977d"
+    },
+    "VERSION": "0.22"
+  }
+}

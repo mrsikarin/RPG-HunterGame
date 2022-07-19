@@ -1,0 +1,21 @@
+{
+  "data": {
+    "castEffect": {
+      "effect": {
+        "asset": "asset/effect/Continuous_tp_light.effect"
+      }
+    },
+    "continueHeal": 5,
+    "deadRemove": true,
+    "name": {
+      "value": "buff_hp-recovery"
+    },
+    "sync": "self"
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "aaefb48f4e0251fb8b16f0d4395053a7"
+    },
+    "VERSION": "0.22"
+  }
+}

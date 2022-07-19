@@ -62,7 +62,7 @@
     "position": {
       "__OBJ_TYPE": "Vector3",
       "x": 0.0,
-      "y": 0,
+      "y": 0.0,
       "z": 1
     },
     "radius": 0.5,
@@ -109,7 +109,7 @@
     "pos": {
       "__OBJ_TYPE": "Vector3",
       "x": 0,
-      "y": 0,
+      "y": 1.5,
       "z": 1
     },
     "scale": {
@@ -142,7 +142,7 @@
   "cdAnimation": "",
   "cdTime": {
     "__OBJ_TYPE": "Time",
-    "value": 0
+    "value": 40
   },
   "damage": 5,
   "enableCdMask": false,

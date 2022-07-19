@@ -1,0 +1,45 @@
+{
+  "data": {
+    "castAction": "g2033_skill_chakra_06",
+    "castEffect": {
+      "effect": {
+        "asset": "asset/effect/Burst_ender_pearl.effect"
+      }
+    },
+    "cdTime": {
+      "value": 600
+    },
+    "consumeVp": 30,
+    "name": {
+      "value": "skill_c-player-teleport"
+    },
+    "skill": {
+      "type": "Base"
+    },
+    "skill_pre": {
+      "enable_pre": true,
+      "ignore_jump": true,
+      "ignore_move": true,
+      "time": {
+        "value": 28
+      }
+    },
+    "skillReleaseWay": {
+      "icon": {
+        "asset": "asset/Skill/teleport.png"
+      },
+      "icon_pushed": {
+        "asset": "asset/Skill/teleport_press.png"
+      },
+      "iconPos": {
+        "area_number": 9
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "50a11ca7e092e4ac883b815d8597bc2a"
+    },
+    "VERSION": "0.22"
+  }
+}

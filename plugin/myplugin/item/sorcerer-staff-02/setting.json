@@ -1,0 +1,23 @@
+{
+  "canAbandon": true,
+  "candrop": false,
+  "canEquipPlural": true,
+  "canUse": false,
+  "dropSpeed": 0.2,
+  "handItemBoneName": "s_hand_r",
+  "icon": "@asset/Item/R (6) (17).png",
+  "itemname": "item_sorcerer-staff-02",
+  "needSave": true,
+  "skill": [
+    "myplugin/c-player-magic-normal",
+    "myplugin/c-player-death-ball",
+    "myplugin/c-player-dark-hole",
+    "myplugin/c-player-shield"
+  ],
+  "stack_count_max": 1,
+  "syncGameData": {
+    "currentCapacity": true,
+    "extCapacity": true
+  },
+  "trap": false
+}

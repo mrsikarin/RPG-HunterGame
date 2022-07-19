@@ -1,0 +1,54 @@
+{
+  "data": {
+    "castAction": "g2033_skill_chakra_06",
+    "cdTime": {
+      "value": 600
+    },
+    "consumeVp": 40,
+    "name": {
+      "value": "skill_c-player-poison-fog"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_Missile",
+        "missile": [
+          {
+            "missileCfg": "myplugin/check-player-poison-fog",
+            "startPos": {
+              "y": 0
+            }
+          }
+        ],
+        "target": {
+          "type": "BodyYaw"
+        }
+      },
+      "type": "Missile"
+    },
+    "skill_pre": {
+      "enable_pre": true,
+      "ignore_jump": true,
+      "ignore_move": true,
+      "time": {
+        "value": 14
+      }
+    },
+    "skillReleaseWay": {
+      "icon": {
+        "asset": "asset/Skill/poison_fog.png"
+      },
+      "icon_pushed": {
+        "asset": "asset/Skill/poison_fog_press.png"
+      },
+      "iconPos": {
+        "area_number": 9
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "ce66ba397419da02256fa6b22e55c171"
+    },
+    "VERSION": "0.22"
+  }
+}

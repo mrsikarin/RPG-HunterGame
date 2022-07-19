@@ -1,0 +1,27 @@
+{
+  "data": {
+    "hitEntitySkill": "myplugin/8b847a11-f9ad-46db-b9b0-79d85e29aafc",
+    "hitInterval": {
+      "value": 20
+    },
+    "lifeTime": {
+      "value": 6
+    },
+    "moveSpeed": 0,
+    "name": {
+      "value": "missile_check-player-smash"
+    },
+    "vanishEffect": {
+      "effect": {
+        "asset": "asset/effect/Burst_brick_break.effect"
+      },
+      "once": true
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "a44ab9991935ab254b71f9dfdec2b797"
+    },
+    "VERSION": "0.22"
+  }
+}

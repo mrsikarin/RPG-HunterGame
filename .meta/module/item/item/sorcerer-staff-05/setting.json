@@ -1,0 +1,30 @@
+{
+  "data": {
+    "canAbandon": true,
+    "icon": {
+      "asset": "asset/Item/R (6) (17).png"
+    },
+    "item": {
+      "base": {
+        "__OBJ_TYPE": "ItemInHand",
+        "skill": [
+          "myplugin/c-player-magic-normal",
+          "myplugin/c-player-poison-ball",
+          "myplugin/c-player-power-ball",
+          "myplugin/c-player-poison-fog"
+        ]
+      },
+      "type": "InHand"
+    },
+    "name": {
+      "value": "item_sorcerer-staff-05"
+    },
+    "needSave": true
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "34132a46e80d4f0df116e0498744cc8b"
+    },
+    "VERSION": "0.22"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "data": {
+    "castAction": "g2033_skill_chakra_09",
+    "cdTime": {
+      "value": 600
+    },
+    "consumeVp": 20,
+    "name": {
+      "value": "skill_c-player-lion-heart"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_Buff",
+        "buffCfg": "myplugin/player-lion-heart",
+        "buffTime": {
+          "value": 200
+        },
+        "target": "self"
+      },
+      "type": "Buff"
+    },
+    "skill_pre": {
+      "enable_pre": true,
+      "ignore_jump": true,
+      "ignore_move": true,
+      "time": {
+        "value": 30
+      }
+    },
+    "skillReleaseWay": {
+      "icon": {
+        "asset": "asset/Skill/lion_heart.png"
+      },
+      "icon_pushed": {
+        "asset": "asset/Skill/lion_heart_press.png"
+      },
+      "iconPos": {
+        "area_number": 9
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "c326cd419127b712b267b0d755e5c723"
+    },
+    "VERSION": "0.22"
+  }
+}

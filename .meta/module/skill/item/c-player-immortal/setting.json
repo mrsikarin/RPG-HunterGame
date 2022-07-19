@@ -1,0 +1,48 @@
+{
+  "data": {
+    "castAction": "g2033_skill_chakra_10",
+    "cdTime": {
+      "value": 600
+    },
+    "consumeVp": 50,
+    "name": {
+      "value": "skill_c-player-immortal"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_Buff",
+        "buffCfg": "myplugin/player-immortal",
+        "buffTime": {
+          "value": 100
+        },
+        "target": "self"
+      },
+      "type": "Buff"
+    },
+    "skill_pre": {
+      "enable_pre": true,
+      "ignore_jump": true,
+      "ignore_move": true,
+      "time": {
+        "value": 50
+      }
+    },
+    "skillReleaseWay": {
+      "icon": {
+        "asset": "asset/Skill/immortal.png"
+      },
+      "icon_pushed": {
+        "asset": "asset/Skill/immortal_press.png"
+      },
+      "iconPos": {
+        "area_number": 9
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "2a90b78639f2b22eb87f6f2b22f683c9"
+    },
+    "VERSION": "0.22"
+  }
+}

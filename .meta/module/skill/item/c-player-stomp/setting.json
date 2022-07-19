@@ -1,0 +1,46 @@
+{
+  "data": {
+    "castAction": "app_selectable_action_9",
+    "cdTime": {
+      "value": 200
+    },
+    "consumeVp": 20,
+    "name": {
+      "value": "skill_c-player-stomp"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_Missile",
+        "missile": [
+          {
+            "missileCfg": "myplugin/check-player-stomp",
+            "startPos": {
+              "y": 0
+            }
+          }
+        ],
+        "target": {
+          "type": "CameraYaw"
+        }
+      },
+      "type": "Missile"
+    },
+    "skillReleaseWay": {
+      "icon": {
+        "asset": "asset/Skill/stomp.png"
+      },
+      "icon_pushed": {
+        "asset": "asset/Skill/stomp_press.png"
+      },
+      "iconPos": {
+        "area_number": 8
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "0c38ffae690a544a42cc568068f5f641"
+    },
+    "VERSION": "0.22"
+  }
+}

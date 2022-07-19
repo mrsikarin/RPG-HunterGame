@@ -1,0 +1,20 @@
+{
+  "canAbandon": true,
+  "candrop": false,
+  "canEquipPlural": true,
+  "canUse": true,
+  "dropSpeed": 0.2,
+  "handItemBoneName": "s_hand_r",
+  "icon": "@asset/Item/tile226.png",
+  "itemname": "item_return-wing",
+  "needSave": true,
+  "skill": [
+    "myplugin/c-player-teleport"
+  ],
+  "stack_count_max": 99,
+  "syncGameData": {
+    "currentCapacity": true,
+    "extCapacity": true
+  },
+  "trap": false
+}

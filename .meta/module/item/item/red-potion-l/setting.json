@@ -1,0 +1,30 @@
+{
+  "data": {
+    "canAbandon": true,
+    "canUse": true,
+    "icon": {
+      "asset": "asset/Item/R (6) (1).png"
+    },
+    "item": {
+      "base": {
+        "__OBJ_TYPE": "ItemUse",
+        "time": {
+          "value": 100
+        },
+        "useBuff": "myplugin/mana-recovery"
+      },
+      "type": "Use"
+    },
+    "name": {
+      "value": "item_red-potion-l"
+    },
+    "needSave": true,
+    "stack_count_max": 99
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "b61eb5d635376b4b3323fbbe5fc99ff2"
+    },
+    "VERSION": "0.22"
+  }
+}

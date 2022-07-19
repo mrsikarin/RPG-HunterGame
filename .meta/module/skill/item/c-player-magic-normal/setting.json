@@ -1,0 +1,29 @@
+{
+  "data": {
+    "castAction": "attack",
+    "consumeVp": 5,
+    "name": {
+      "value": "skill_c-player-magic-normal"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_Missile",
+        "missile": [
+          {
+            "missileCfg": "myplugin/check-player-magic-normal"
+          }
+        ],
+        "target": {
+          "type": "BodyYaw"
+        }
+      },
+      "type": "Missile"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "c1882f8c0437ac4c805aa181daae1e2d"
+    },
+    "VERSION": "0.22"
+  }
+}

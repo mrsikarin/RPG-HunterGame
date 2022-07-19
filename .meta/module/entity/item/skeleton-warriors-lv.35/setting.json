@@ -1,0 +1,31 @@
+{
+  "data": {
+    "actorName": {
+      "asset": "asset/Actor/Blue Metallic Monster/A Domineering Monster.actor"
+    },
+    "AI_attack": {
+      "enable": true,
+      "skillList": [
+        {
+          "fullName": "myplugin/c-monster-melee-knockback01"
+        }
+      ]
+    },
+    "AI_patrol": {
+      "patrolMode": "randomPath"
+    },
+    "damage": 600,
+    "enableAI": true,
+    "maxHp": 6250,
+    "name": {
+      "value": "entity_skeleton-warriors-lv.35"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "7887668743ac11bfa020d739211c1bda",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

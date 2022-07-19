@@ -1,6 +1,6 @@
 {
   "data": {
-    "md5": "a67ae533afc86a58ccf1073cb961a617",
+    "md5": "3fda0a326cb14e65f7b528a290c313f1",
     "path": "asset/Interface/playerUI.layout",
     "root": {
       "anchor": {
@@ -50,12 +50,16 @@
           },
           "size": {
             "UDim_X": {
-              "Offect": 70.0
+              "Offect": 70
             },
             "UDim_Y": {
-              "Offect": 70.0
+              "Offect": 70
             }
           },
+          "SoundFile": {
+            "asset": "asset/Sound/openui.mp3"
+          },
+          "SoundTriggerRange": "Click",
           "Text": "Status",
           "TextOffset": {
             "y": -5
@@ -152,9 +156,6 @@
                   "size": {
                     "UDim_X": {
                       "Offect": 139.55161976815
-                    },
-                    "UDim_Y": {
-                      "Offect": 128.0
                     }
                   },
                   "Text": "Lv.",
@@ -184,9 +185,6 @@
                   "size": {
                     "UDim_X": {
                       "Offect": 139.55161976815
-                    },
-                    "UDim_Y": {
-                      "Offect": 128.0
                     }
                   },
                   "Text": "EXP",
@@ -199,7 +197,7 @@
               "name": "expbar",
               "pos": {
                 "UDim_Y": {
-                  "Scale": -0.2
+                  "Scale": -0.35
                 }
               }
             }
@@ -282,7 +280,7 @@
                   "Offect": 99.999999999997
                 },
                 "UDim_Y": {
-                  "Offect": 50.0
+                  "Offect": 50
                 }
               },
               "Text": "Quest",
@@ -385,7 +383,7 @@
   },
   "meta": {
     "EXPORT": {
-      "layout": "a67ae533afc86a58ccf1073cb961a617",
+      "layout": "3fda0a326cb14e65f7b528a290c313f1",
       "triggers.bts": "d1fd7037f4941cd1b8cbfb94bb926990"
     },
     "VERSION": "0.22"

@@ -1,0 +1,27 @@
+{
+  "data": {
+    "canAbandon": true,
+    "icon": {
+      "asset": "asset/Item/tile230.png"
+    },
+    "item": {
+      "base": {
+        "__OBJ_TYPE": "ItemInHand",
+        "skill": [
+          "myplugin/c-player-magic-normal"
+        ]
+      },
+      "type": "InHand"
+    },
+    "name": {
+      "value": "item_wooden-staff-01"
+    },
+    "needSave": true
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "9385df9fa737c72e2abda6ebf9edd71d"
+    },
+    "VERSION": "0.22"
+  }
+}

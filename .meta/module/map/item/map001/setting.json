@@ -126,13 +126,13 @@
       },
       {
         "__OBJ_TYPE": "Instance_Entity",
-        "config": "myplugin/boss_asura",
-        "id": "8715825344000540673",
-        "name": "[BOSS]Asura",
+        "config": "myplugin/skeleton-warriors-lv.35",
+        "id": "8720102822386319361",
+        "name": "Skeleton Warriors Lv.35",
         "position": {
-          "x": 17.519842147827,
-          "y": 0.99989938735962,
-          "z": 34.853343963623
+          "x": -1.5841760635376,
+          "y": 0.99989914894104,
+          "z": 51.556587219238
         }
       }
     ],
@@ -146,7 +146,7 @@
   "meta": {
     "EXPORT": {
       "DataSet": [],
-      "setting.json": "d216294591d7aeb35e55d863466b1231"
+      "setting.json": "1f97133b6a904361a36677801de9b9b7"
     },
     "VERSION": "0.22"
   }

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "hitEntitySkill": "myplugin/8b847a11-f9ad-46db-b9b0-79d85e29aafc",
+    "lifeTime": {
+      "value": 40
+    },
+    "moveSpeed": 10.0,
+    "name": {
+      "value": "missile_check-player-tornado"
+    },
+    "startEffect": {
+      "effect": {
+        "asset": "asset/effect/Surround_tornado.effect"
+      }
+    },
+    "vanishTime": {
+      "value": 2
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "fcdafcdcfe76a2ff228292ac1621bd5d"
+    },
+    "VERSION": "0.22"
+  }
+}

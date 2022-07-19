@@ -1,6 +1,6 @@
 {
   "data": {
-    "md5": "f7f13cba0ca78d6358a902345a12896c",
+    "md5": "825ad5eaf7a99d098c1ce10c87bf5f6b",
     "path": "asset/Interface/PlayerStatus.layout",
     "root": {
       "anchor": {
@@ -147,6 +147,10 @@
                   "Scale": 0.1
                 }
               },
+              "SoundFile": {
+                "asset": "asset/Sound/exitui.mp3"
+              },
+              "SoundTriggerRange": "Click",
               "Text": "X",
               "TextOffset": {
                 "y": -5
@@ -631,6 +635,10 @@
                               "Offect": 60
                             }
                           },
+                          "SoundFile": {
+                            "asset": "asset/Sound/btn-upstatus.mp3"
+                          },
+                          "SoundTriggerRange": "Click",
                           "Text": "+"
                         }
                       ],
@@ -736,6 +744,10 @@
                               "Offect": 60
                             }
                           },
+                          "SoundFile": {
+                            "asset": "asset/Sound/btn-upstatus.mp3"
+                          },
+                          "SoundTriggerRange": "Click",
                           "Text": "+"
                         }
                       ],
@@ -841,6 +853,10 @@
                               "Offect": 60
                             }
                           },
+                          "SoundFile": {
+                            "asset": "asset/Sound/btn-upstatus.mp3"
+                          },
+                          "SoundTriggerRange": "Click",
                           "Text": "+"
                         }
                       ],
@@ -950,6 +966,10 @@
                               "Offect": 60
                             }
                           },
+                          "SoundFile": {
+                            "asset": "asset/Sound/btn-upstatus.mp3"
+                          },
+                          "SoundTriggerRange": "Click",
                           "Text": "+"
                         }
                       ],
@@ -1101,7 +1121,7 @@
   },
   "meta": {
     "EXPORT": {
-      "layout": "f7f13cba0ca78d6358a902345a12896c",
+      "layout": "825ad5eaf7a99d098c1ce10c87bf5f6b",
       "triggers.bts": "d1fd7037f4941cd1b8cbfb94bb926990"
     },
     "VERSION": "0.22"

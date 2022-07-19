@@ -1,0 +1,48 @@
+{
+  "data": {
+    "castAction": "g2033_skill_chakra_05",
+    "cdTime": {
+      "value": 600
+    },
+    "consumeVp": 20,
+    "name": {
+      "value": "skill_c-player-shield"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_Buff",
+        "buffCfg": "myplugin/player-shield",
+        "buffTime": {
+          "value": 200
+        },
+        "target": "self"
+      },
+      "type": "Buff"
+    },
+    "skill_pre": {
+      "enable_pre": true,
+      "ignore_jump": true,
+      "ignore_move": true,
+      "time": {
+        "value": 40
+      }
+    },
+    "skillReleaseWay": {
+      "icon": {
+        "asset": "asset/Skill/shield.png"
+      },
+      "icon_pushed": {
+        "asset": "asset/Skill/shield_press.png"
+      },
+      "iconPos": {
+        "area_number": 9
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "52c871383e9401b8593af06524023c02"
+    },
+    "VERSION": "0.22"
+  }
+}

@@ -28,6 +28,763 @@
       "max": 6,
       "min": 1
     },
+    "shops": [
+      {
+        "items": [
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "1d8a3d95-70fa-4bce-a7d6-2f0fc7999d90"
+            },
+            "item": {
+              "item": "wooden-sword-01"
+            },
+            "name": {
+              "value": "81021fb9-b7c1-41ab-8b0d-7fc3a6cca7cb"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "2cfa08db-02ec-47a5-9ce7-cbe2e85f31ee"
+            },
+            "item": {
+              "item": "wooden-sword-02"
+            },
+            "name": {
+              "value": "04f420ab-0643-49b8-89a5-3cebda039c34"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "6d7cc778-dd35-4345-8fdb-0ff7903e9c08"
+            },
+            "item": {
+              "item": "wooden-sword-03"
+            },
+            "name": {
+              "value": "edd91580-5a11-4b34-81e0-649d7438ee6a"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "0924414d-f3c1-4ac5-83d3-baec432da198"
+            },
+            "item": {
+              "item": "iron-sword-01"
+            },
+            "name": {
+              "value": "dea93afb-a4ee-45f7-841b-f9fdcb217e96"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "9d8eb446-0267-4759-8ade-5ba653647b25"
+            },
+            "item": {
+              "item": "iron-sword-02"
+            },
+            "name": {
+              "value": "fd4309e7-c9f3-4622-9c01-c5c595d7cb77"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "253e530a-5c8f-4791-b7e9-2ad466d142c3"
+            },
+            "item": {
+              "item": "iron-sword-03"
+            },
+            "name": {
+              "value": "4af4bd3d-90f4-4faf-a39d-c4efd931398a"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "0bfe4f41-1469-4391-b8e1-1f2daf4a2e70"
+            },
+            "item": {
+              "item": "iron-sword-04"
+            },
+            "name": {
+              "value": "f43eda78-cf27-46ff-8c98-9a5bc14ef7e3"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "358b77eb-ba21-42af-89ed-edfa4a10124e"
+            },
+            "item": {
+              "item": "iron-sword-05"
+            },
+            "name": {
+              "value": "6e64c41e-18c2-4d9f-8f36-c34cba84f795"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "4cf52581-e344-44a5-ae30-4ecaa171ca3f"
+            },
+            "item": {
+              "item": "iron-sword-06"
+            },
+            "name": {
+              "value": "b5f8c622-d8a2-4a87-9148-b1a9c5a38a06"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "a3cfea28-f044-4b07-804e-5e60a7a02f46"
+            },
+            "item": {
+              "item": "axe-01"
+            },
+            "name": {
+              "value": "62059c07-6716-4522-87e3-90e1b859d609"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "a6e67191-aef3-4666-b9bc-e5dfba30df68"
+            },
+            "item": {
+              "item": "axe-02"
+            },
+            "name": {
+              "value": "b6eca991-9883-465f-86ac-176864aa0afa"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "7ed959cf-5fd5-41a9-b0ab-1c734007ae93"
+            },
+            "item": {
+              "item": "axe-03"
+            },
+            "name": {
+              "value": "ed109c9d-d4df-4d11-b23b-309f725ed2ed"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "0183a747-26fb-49a3-bc1f-f017e3ff7e9c"
+            },
+            "item": {
+              "item": "axe-04"
+            },
+            "name": {
+              "value": "6cd7e2a3-d70d-4a96-b4ba-3c825054cd65"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "a2d98850-47d2-4b00-b0c8-ef5f02a069d9"
+            },
+            "item": {
+              "item": "axe-05"
+            },
+            "name": {
+              "value": "4c37b87e-7375-4f9f-8453-bf825605bf29"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "84e9c05f-35c8-4e69-8f05-13c71b9c3c8b"
+            },
+            "item": {
+              "item": "axe-06"
+            },
+            "name": {
+              "value": "65058f68-6c55-4092-b9a1-a194fe13f2a7"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "18936a86-5c22-40f5-936e-4bc22fc3aa7f"
+            },
+            "item": {
+              "item": "axe-07"
+            },
+            "name": {
+              "value": "1858651f-c3cc-4b4b-9be9-2743137529e3"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "ecd124a6-9c7f-4a2d-b076-6d8e75b894b9"
+            },
+            "item": {
+              "item": "axe-08"
+            },
+            "name": {
+              "value": "eaffdcca-fcd0-415a-bed9-c254ea4deb8c"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "6121242b-1871-4842-a28a-310f691427f5"
+            },
+            "item": {
+              "item": "axe-09"
+            },
+            "name": {
+              "value": "8f408f81-f004-4d6a-8709-6324883965f0"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "fd788b23-862a-4903-b228-37974c0bd75f"
+            },
+            "item": {
+              "item": "axe-10"
+            },
+            "name": {
+              "value": "2912d750-1833-449f-aee9-402635160462"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "13c23dab-e2e8-4a01-bbcb-cb54e3d1711d"
+            },
+            "item": {
+              "item": "axe-11"
+            },
+            "name": {
+              "value": "b016c19d-ad50-439e-90fc-0f3c73b18392"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "5fb9111e-6edf-4d59-a0b0-d0bf97b8eaa0"
+            },
+            "item": {
+              "item": "axe-12"
+            },
+            "name": {
+              "value": "b1658fb1-0b4e-4872-92b8-8c8fcfd64433"
+            }
+          }
+        ],
+        "name": {
+          "value": "dcadc4c5-5773-432e-ad70-c1b03eebd144"
+        }
+      },
+      {
+        "items": [
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "c46974f1-ad91-4195-b7db-feadb2bc3676"
+            },
+            "item": {
+              "item": "wooden-staff-01"
+            },
+            "name": {
+              "value": "8e78cf6a-ee98-41f7-92a0-cdf0eaecf7ce"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "62275597-9bbb-43ae-8688-a1cf022a8508"
+            },
+            "item": {
+              "item": "wizard-staff-02"
+            },
+            "name": {
+              "value": "60c92e00-d34d-4cae-81d4-8e1c5c163b50"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "a88f0eb0-53ca-4435-9f97-f18c57431ff7"
+            },
+            "item": {
+              "item": "wooden-staff-03"
+            },
+            "name": {
+              "value": "91940215-5f37-4f74-afc9-a0ba4f27d548"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "02660858-3a4b-44a6-a71a-fd3932ad585c"
+            },
+            "item": {
+              "item": "wizard-staff-01"
+            },
+            "name": {
+              "value": "388d225c-8044-4325-91a9-6807f033d116"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "b46a4243-20b0-4e52-a806-14d9abd290bc"
+            },
+            "item": {
+              "item": "wizard-staff-02"
+            },
+            "name": {
+              "value": "907151c2-1f9a-46bc-a7e8-4e10fbeb7f34"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "183aeac3-b08e-4089-a334-f334ec7cca7c"
+            },
+            "item": {
+              "item": "wizard-staff-03"
+            },
+            "name": {
+              "value": "950b515e-e7c0-4af0-b924-022f345b144b"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "3e8d76ec-07bd-4b63-a75e-7399bad4a37a"
+            },
+            "item": {
+              "item": "wizard-staff-04"
+            },
+            "name": {
+              "value": "e0256d30-8cfb-4cc2-ae8b-e57ec320a8cb"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "df1deb30-194a-426e-b8e2-0b954aa5e851"
+            },
+            "item": {
+              "item": "wizard-staff-05"
+            },
+            "name": {
+              "value": "b240a96e-d96a-47f2-9273-9208a469a477"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "a04cb691-3f3f-47a3-b9bd-0b6d5e1e6d8c"
+            },
+            "item": {
+              "item": "wizard-staff-06"
+            },
+            "name": {
+              "value": "f4053f05-5ea5-4e4f-89cf-3a5ae2999269"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "c92f68cb-4973-4c0e-b058-3b421aec489a"
+            },
+            "item": {
+              "item": "sorcerer-staff-01"
+            },
+            "name": {
+              "value": "d944839c-0ae7-4f1d-a63e-0733b55d7811"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "99561bce-85ee-4ae6-86ba-ec45193ec013"
+            },
+            "item": {
+              "item": "sorcerer-staff-02"
+            },
+            "name": {
+              "value": "afcaa2e4-9f4c-415a-bb11-5cffe1a39c68"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "b6f8057c-e3d5-40ae-a9a4-329a88f6bbea"
+            },
+            "item": {
+              "item": "sorcerer-staff-03"
+            },
+            "name": {
+              "value": "c1bf4dcd-b632-485a-81a9-dbc5de3da8d6"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "f3e3ed6b-3484-415a-b85a-398672a29a8e"
+            },
+            "item": {
+              "item": "sorcerer-staff-04"
+            },
+            "name": {
+              "value": "59809115-d0e7-4061-a38f-1f4041764d32"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "13063409-7882-4f8f-a198-580e59683c58"
+            },
+            "item": {
+              "item": "sorcerer-staff-05"
+            },
+            "name": {
+              "value": "bd732953-ee57-4c6c-a31b-770ec71fb7c8"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "3054b612-a9ce-4c4e-86ae-06de51799600"
+            },
+            "item": {
+              "item": "sorcerer-staff-06"
+            },
+            "name": {
+              "value": "bda8a740-6e61-4e2a-872d-f0dea4f7e9f9"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "4eee4110-1916-4b16-8cc7-370df2005049"
+            },
+            "item": {
+              "item": "sorcerer-staff-07"
+            },
+            "name": {
+              "value": "193f259b-8744-4e17-a38c-c245cfa298ec"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "d9ba2c13-e286-43b2-a986-4769f829cdb0"
+            },
+            "item": {
+              "item": "sorcerer-staff-08"
+            },
+            "name": {
+              "value": "be4fd180-9fbc-4fec-b1ff-ce357b0743a5"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "3fe0881f-83df-4989-9b3e-f16cbdb1469d"
+            },
+            "item": {
+              "item": "sorcerer-staff-09"
+            },
+            "name": {
+              "value": "a260d194-c393-4d7a-8f0c-980a55881995"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "a6956fdc-7ec8-4388-bc04-0bdb31c955e4"
+            },
+            "item": {
+              "item": "sorcerer-staff-10"
+            },
+            "name": {
+              "value": "ef1e042d-4f6d-44a1-b289-86a58ae3d08a"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "397b7d59-cc21-4554-9cf5-74372c290061"
+            },
+            "item": {
+              "item": "sorcerer-staff-11"
+            },
+            "name": {
+              "value": "63ad4c78-2f54-4c23-aa8f-0a3cd67edf19"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "b3c0c074-5f44-44c9-87af-96325235bb8c"
+            },
+            "item": {
+              "item": "sorcerer-staff-12"
+            },
+            "name": {
+              "value": "e2da2f71-5c73-488a-8201-1f1ea0b7e88f"
+            }
+          }
+        ],
+        "name": {
+          "value": "a1bf746e-ca1c-4e4b-8a94-ae81c2288c65"
+        }
+      },
+      {
+        "items": [
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "cac5ed19-0b27-412a-9962-8c90c8c07a83"
+            },
+            "item": {
+              "item": "red-potion-s"
+            },
+            "name": {
+              "value": "b6a38e69-4c7d-46ef-829a-e14623856e57"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "620bea4c-a4b3-436a-ab82-f4f47ea485f5"
+            },
+            "item": {
+              "item": "red-potion-m"
+            },
+            "name": {
+              "value": "fe55e402-9196-41fc-b772-03164aa4d6fd"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "c04f906f-51c4-47eb-841f-06da3840106a"
+            },
+            "item": {
+              "item": "red-potion-l"
+            },
+            "name": {
+              "value": "d63f78ae-6644-435c-bf73-f76282b3a827"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "b4b9f1ee-4c7d-414d-a388-b55652423a58"
+            },
+            "item": {
+              "item": "blue-potion-s"
+            },
+            "name": {
+              "value": "f02e778e-6695-409c-bf04-b5b3e70538e7"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "5cf39827-0012-458c-8dbd-6536f1d568d1"
+            },
+            "item": {
+              "item": "blue-potion-m"
+            },
+            "name": {
+              "value": "afba54c4-c606-4ee9-a1d6-d7fb5543fac0"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "56d1391e-305e-4b92-b7da-d514272d7591"
+            },
+            "item": {
+              "item": "blue-potion-l"
+            },
+            "name": {
+              "value": "41bfb9c2-e317-4bbf-ae17-a0c49273c262"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "de1c7862-d27e-4d0e-801b-2e673dd311f7"
+            },
+            "item": {
+              "item": "str-potion-s"
+            },
+            "name": {
+              "value": "6f18bf98-52e8-45a9-9834-e1a2c3e35396"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "3c52da61-da2d-41f4-88b1-c6ce21adbef0"
+            },
+            "item": {
+              "item": "str-potion-m"
+            },
+            "name": {
+              "value": "f434ee9e-a682-4480-a46f-732c05a73a91"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "169d5d69-e1d3-4394-a949-79301ec97d4d"
+            },
+            "item": {
+              "item": "str-potion-l"
+            },
+            "name": {
+              "value": "2d0aa2e2-d4db-4280-8b4c-fe1a1e7530ce"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "34c8f340-b7cd-4e4c-9665-95177fdf16c6"
+            },
+            "item": {
+              "item": "def-potion-s"
+            },
+            "name": {
+              "value": "1ff3e122-93ff-4945-a441-f1c8531a5809"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "0c28768d-6d6a-403d-9201-f9ddc57a76ba"
+            },
+            "item": {
+              "item": "def-potion-m"
+            },
+            "name": {
+              "value": "be2704e0-a307-4bdb-82d7-6210e30275e2"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "fb2815d9-9bd6-4634-9010-61accde1ced5"
+            },
+            "item": {
+              "item": "def-potion-l"
+            },
+            "name": {
+              "value": "9add0dc2-d616-4bb7-8531-a9f1d27f28ff"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "070d4805-10fc-4c0a-812b-1ab9c2263fb9"
+            },
+            "item": {
+              "item": "holy-potion"
+            },
+            "name": {
+              "value": "50d20c23-94e1-4a4f-92cc-5f051413e323"
+            }
+          }
+        ],
+        "name": {
+          "value": "80b5b1cb-98cc-4c33-b2df-6474b66127c9"
+        }
+      },
+      {
+        "items": [
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "4da8201d-5b54-453e-96e6-c7be3a4a861c"
+            },
+            "item": {
+              "item": "return-wing"
+            },
+            "name": {
+              "value": "a7b94b7d-44fc-40cb-8f24-585edaabd12c"
+            }
+          }
+        ],
+        "name": {
+          "value": "53cda648-d673-41ff-b8e1-6362e23f235d"
+        }
+      },
+      {
+        "items": [
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "7f9dba60-134b-43ad-a9e4-58e7b68bc7d7"
+            },
+            "item": {
+              "item": "bronze-coin"
+            },
+            "name": {
+              "value": "b9a0b59a-89e4-4c8d-9e16-5a6048c84729"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "4e82fb1d-da0b-4f84-9db0-3de8bdf91c24"
+            },
+            "item": {
+              "item": "silver-coin"
+            },
+            "name": {
+              "value": "3ef29c6c-2343-4236-a000-99937a5a4d34"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "5394b502-4099-44ea-a77f-5283d86ff26c"
+            },
+            "item": {
+              "item": "gold-coin"
+            },
+            "name": {
+              "value": "b013feb3-f757-4521-ba5a-09e47f14d401"
+            }
+          },
+          {
+            "coinId": "gDiamonds",
+            "detail": {
+              "value": "82e17560-36fc-4ee4-b7b8-4084773a4f9f"
+            },
+            "item": {
+              "item": "chaos-part"
+            },
+            "name": {
+              "value": "3338463a-dc71-472e-bcea-817bbfcbd5d4"
+            }
+          }
+        ],
+        "name": {
+          "value": "1871b91a-faba-4526-b4b2-0bc6a08128a4"
+        }
+      }
+    ],
     "startPos": {
       "map": "map001",
       "pos": {
@@ -166,7 +923,7 @@
   "meta": {
     "EXPORT": {
       "setting.json": "8c59fc8b139af5fd30b6072a52f02f67",
-      "shop.csv": "393e9a440b900b5690986ec2b0e57be5",
+      "shop.csv": "c256799f4dc6eeba0d8f4ab955cb0c18",
       "triggers.bts": "03957072b289bfabd1af1141ddd49379",
       "triggers_client.bts": "f43681c948d0a966a463e518b8ceec0d"
     },

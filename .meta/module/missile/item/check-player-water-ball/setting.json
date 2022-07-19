@@ -1,0 +1,30 @@
+{
+  "data": {
+    "hitCount": {
+      "hitEntityCount": 1,
+      "isValid": true
+    },
+    "hitEntitySkill": "myplugin/8b847a11-f9ad-46db-b9b0-79d85e29aafc",
+    "lifeTime": {
+      "value": 20
+    },
+    "moveSpeed": 20,
+    "name": {
+      "value": "missile_check-player-water-ball"
+    },
+    "startEffect": {
+      "effect": {
+        "asset": "asset/effect/Continuous_waterball_tail.effect"
+      }
+    },
+    "vanishTime": {
+      "value": 2
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "c15c61176b4c6f4175599cb8d7f060c3"
+    },
+    "VERSION": "0.22"
+  }
+}

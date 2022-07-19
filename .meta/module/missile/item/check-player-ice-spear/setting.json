@@ -1,0 +1,30 @@
+{
+  "data": {
+    "hitCount": {
+      "hitEntityCount": 1,
+      "isValid": true
+    },
+    "hitEntitySkill": "myplugin/8b847a11-f9ad-46db-b9b0-79d85e29aafc",
+    "lifeTime": {
+      "value": 20
+    },
+    "moveSpeed": 20,
+    "name": {
+      "value": "missile_check-player-ice-spear"
+    },
+    "startEffect": {
+      "effect": {
+        "asset": "asset/effect/Continuous_torpedo_tail.effect"
+      }
+    },
+    "vanishTime": {
+      "value": 2
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "d7733c9472f530fceb83b02fb9df09b5"
+    },
+    "VERSION": "0.22"
+  }
+}

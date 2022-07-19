@@ -1,0 +1,29 @@
+{
+  "data": {
+    "canAbandon": true,
+    "icon": {
+      "asset": "asset/Item/tile077.png"
+    },
+    "item": {
+      "base": {
+        "__OBJ_TYPE": "ItemInHand",
+        "skill": [
+          "myplugin/c-player-melee-normal",
+          "myplugin/dmg-player-spin",
+          "myplugin/c-player-stomp"
+        ]
+      },
+      "type": "InHand"
+    },
+    "name": {
+      "value": "item_iron-sword-05"
+    },
+    "needSave": true
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "73d4f408932f9a00ffae21146c79d42c"
+    },
+    "VERSION": "0.22"
+  }
+}

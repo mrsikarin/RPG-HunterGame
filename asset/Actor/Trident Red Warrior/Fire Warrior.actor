@@ -1,22 +1,25 @@
 <ActorTemplates>
-	<ActorTemplate Skeleton="g2030_Shikigami_zhentianxingcun.skel" SoundFileNum="0" SoundName1="" IsShowShadow="true" SelectedRingSize="1" AttackScale="1" SoundName2="" TextHeight="0" SoundName5="" SoundName3="" MaxDistance="16" Volume="0.8" Originalscale="1 1 1" SoundName4="" WoundBone="" name="pluspet_zhentxc.actor" WoundAngle="25" Alpha="1" MinDistance="1" IntervalTime="2">
-		<BodyParts>
-			<BodyPart DefaultUse="true" ColorParams="1 1 1 1" EdgeColor="1 1 1 1" SlaveName="1" MasterName="body">
-				<Skin SpecularCoef="0.1" SpecularColor="1 1 1 1" UVSpeed="0 0" LocalAlpha="0.7" DiscardAlpha="1" UseBloom="true" SpecularStrength="1" UseTransparentNearestSlice="true" MeshName="asset/Skin/Actor_skin/g2030_Shikigami_zhentianxingcun.skin" ChangeColor="7.58785e+31 3.03474e+32 4.51464e+16 2.93882e+29"/>
-			</BodyPart>
-		</BodyParts>
-		<Anims>
-			<Anim Name="asset/Anim/g2030_shikigami_zhentianxingcun_feixing.anim"/>
-			<Anim Name="asset/Anim/g2030_shikigami_zhentianxingcun_daiji.anim"/>
-			<Anim Name="asset/Anim/g2030_pluspet_zhentianxincun_idle.anim"/>
-		</Anims>
+	<ActorTemplate IntervalTime="2" AttackScale="1" SoundName1="" MinDistance="1" name="111.actor" Originalscale="1 1 1" SoundName4="" TextHeight="0" SoundName5="" SoundName3="" MaxDistance="16" Volume="0.8" IsShowShadow="true" SelectedRingSize="1" Alpha="1" SoundFileNum="0" WoundAngle="25" Skeleton="g2030_Shikigami_zhentianxingcun.skel" WoundBone="" SoundName2="">
 		<Skills>
-			<Skill Name="idle" UserDefineTime="-2" TextMode="0" EnableWound="false">
-				<Animation FadeTime="0.25" BeginTime="0" Name="asset/Anim/g2030_pluspet_zhentianxincun_idle.anim" Channel="" TimeScale="1" Length="7.966" Times="-1"/>
+			<Skill Name="idle" TextMode="0" UserDefineTime="-2" EnableWound="false">
+				<Animation Name="asset/Anim/g2030_pluspet_zhentianxincun_idle.anim" TimeScale="1" Length="7.966" FadeTime="0.25" Times="-1" BeginTime="0" Channel=""/>
 			</Skill>
-			<Skill Name="run" UserDefineTime="-2" TextMode="0" EnableWound="false">
-				<Animation FadeTime="0.25" BeginTime="0" Name="asset/Anim/g2030_shikigami_zhentianxingcun_feixing.anim" Channel="" TimeScale="1" Length="0.966" Times="-1"/>
+			<Skill Name="run" TextMode="0" UserDefineTime="-2" EnableWound="false">
+				<Animation Name="asset/Anim/g2030_shikigami_zhentianxingcun_feixing.anim" TimeScale="1" Length="0.966" FadeTime="0.25" Times="-1" BeginTime="0" Channel=""/>
+			</Skill>
+			<Skill Name="g2007_player_attack_01" TextMode="0" UserDefineTime="-2" EnableWound="false">
+				<Animation Name="asset/Actor/charactor/charactor_boy/anim/g2007_player_attack_01.anim" TimeScale="1" Length="1.5" FadeTime="0.25" Times="1" BeginTime="0" Channel=""/>
 			</Skill>
 		</Skills>
+		<Anims>
+			<Anim Name="asset/Anim/g2030_pluspet_zhentianxincun_idle.anim"/>
+			<Anim Name="asset/Actor/charactor/charactor_boy/anim/g2007_player_attack_01.anim"/>
+			<Anim Name="asset/Anim/g2030_shikigami_zhentianxingcun_feixing.anim"/>
+		</Anims>
+		<BodyParts>
+			<BodyPart ColorParams="1 1 1 1" EdgeColor="1 1 1 1" MasterName="body" DefaultUse="true" SlaveName="1">
+				<Skin UseBloom="true" SpecularStrength="1" UseOriginalcolor="false" UseOverlayColorReplaceMode="false" LocalAlpha="0.7" ChangeColor="1.4013e-45 -0.487196 0.0893673 -0.567287" UseEdge="false" SpecularColor="1.0 1.0 1.0 1.0" type_name="g2030_Shikigami_zhentianxingcun" UVSpeed="0 0" MeshName="asset/Skin/Actor_skin/g2030_Shikigami_zhentianxingcun.skin" EdgeColor="1.0 0 0 1.0" OverlayColor="1.0 1.0 1.0 1.0" UseReflect="false" SpecularCoef="0.1" UseTransparentNearestSlice="true" DiscardAlpha="1" LocalBrightnessScale="1.0"/>
+			</BodyPart>
+		</BodyParts>
 	</ActorTemplate>
 </ActorTemplates>

@@ -1,6 +1,6 @@
 {
   "data": {
-    "md5": "30b995ae6dbcff77c0b3aad1d26a6c40",
+    "md5": "348d8c393ef93ace1ac6c69e81ad58c5",
     "path": "asset/Interface/btnAtk.layout",
     "root": {
       "anchor": {
@@ -114,7 +114,7 @@
   },
   "meta": {
     "EXPORT": {
-      "layout": "30b995ae6dbcff77c0b3aad1d26a6c40",
+      "layout": "348d8c393ef93ace1ac6c69e81ad58c5",
       "triggers.bts": "d1fd7037f4941cd1b8cbfb94bb926990"
     },
     "VERSION": "0.22"

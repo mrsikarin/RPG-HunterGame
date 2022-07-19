@@ -1,0 +1,23 @@
+{
+  "data": {
+    "hitEntitySkill": "myplugin/8b847a11-f9ad-46db-b9b0-79d85e29aafc",
+    "lifeTime": {
+      "value": 40
+    },
+    "moveSpeed": 10.0,
+    "name": {
+      "value": "missile_check-player-huge-fire-ball"
+    },
+    "startEffect": {
+      "effect": {
+        "asset": "asset/effect/Continuous_fireball_l.effect"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "78ed2be07a02015b648f2d71e28390cb"
+    },
+    "VERSION": "0.22"
+  }
+}

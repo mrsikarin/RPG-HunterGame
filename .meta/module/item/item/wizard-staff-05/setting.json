@@ -1,0 +1,29 @@
+{
+  "data": {
+    "canAbandon": true,
+    "icon": {
+      "asset": "asset/Item/R (6) (17).png"
+    },
+    "item": {
+      "base": {
+        "__OBJ_TYPE": "ItemInHand",
+        "skill": [
+          "myplugin/c-player-magic-normal",
+          "myplugin/c-player-poison-ball",
+          "myplugin/c-player-power-ball"
+        ]
+      },
+      "type": "InHand"
+    },
+    "name": {
+      "value": "item_wizard-staff-05"
+    },
+    "needSave": true
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "f71586703dde98e8e1c1f32fe1320617"
+    },
+    "VERSION": "0.22"
+  }
+}

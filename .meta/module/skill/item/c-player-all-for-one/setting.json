@@ -1,0 +1,40 @@
+{
+  "data": {
+    "castAction": "g2033_skill_chakra_09",
+    "cdTime": {
+      "value": 600
+    },
+    "consumeVp": 30,
+    "name": {
+      "value": "skill_c-player-all-for-one"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_Buff",
+        "buffCfg": "myplugin/player-all-for-one",
+        "buffTime": {
+          "value": 220
+        },
+        "target": "self"
+      },
+      "type": "Buff"
+    },
+    "skillReleaseWay": {
+      "icon": {
+        "asset": "asset/Skill/all_for_one.png"
+      },
+      "icon_pushed": {
+        "asset": "asset/Skill/all_for_one_press.png"
+      },
+      "iconPos": {
+        "area_number": 9
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "a21a09948e957a7909e180e91fdda0a5"
+    },
+    "VERSION": "0.22"
+  }
+}

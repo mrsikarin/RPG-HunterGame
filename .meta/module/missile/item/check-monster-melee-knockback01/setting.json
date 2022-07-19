@@ -1,8 +1,33 @@
 {
   "data": {
+    "boundingVolume": {
+      "position": {
+        "z": 1
+      },
+      "size": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      }
+    },
+    "boundingVolumeMissileCfg": {
+      "position": {
+        "z": 1
+      },
+      "size": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      }
+    },
     "hitEntitySkill": "myplugin/dmg-monster-melee-knockback01",
+    "hitEntitySound": {
+      "sound": {
+        "asset": "asset/Sound/punchhit.mp3"
+      }
+    },
     "hitInterval": {
-      "value": 2
+      "value": 20
     },
     "lifeTime": {
       "value": 2
@@ -18,7 +43,8 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "f964e674d9d13f745b5e32d37d98f412"
+      "setting.json": "8c51b9787fa74ef1f66e66d12908f544",
+      "triggers.bts": ""
     },
     "VERSION": "0.22"
   }

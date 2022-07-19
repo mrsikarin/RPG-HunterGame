@@ -1,0 +1,28 @@
+{
+  "data": {
+    "canAbandon": true,
+    "icon": {
+      "asset": "asset/Item/R (6) (3).png"
+    },
+    "item": {
+      "base": {
+        "__OBJ_TYPE": "ItemInHand",
+        "skill": [
+          "myplugin/c-player-magic-normal",
+          "myplugin/c-player-fire-ball"
+        ]
+      },
+      "type": "InHand"
+    },
+    "name": {
+      "value": "item_wooden-staff-03"
+    },
+    "needSave": true
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "56e17b08df027155896e226d4a4dae23"
+    },
+    "VERSION": "0.22"
+  }
+}

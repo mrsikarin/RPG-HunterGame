@@ -4,13 +4,13 @@
   "collider": {
     "extent": {
       "x": 2,
-      "y": 2.2,
-      "z": 3
+      "y": 2,
+      "z": 2
     },
     "offset": {
       "x": 0.0,
       "y": 0.0,
-      "z": 1.5
+      "z": 1
     },
     "rotation": {
       "x": 0.0,
@@ -28,12 +28,19 @@
   },
   "gravity": 0.0,
   "hitEntitySkill": "myplugin/dmg-monster-melee-knockback01",
+  "hitEntitySound": {
+    "loop": false,
+    "path": "asset/Sound/punchhit.mp3",
+    "selfOnly": false,
+    "sound": "@Sound/punchhit.mp3",
+    "volume": 1
+  },
   "hitEntitysRoles": [
     "hitAllTeam",
-    "hitPlayer",
+    "hitAllEntitys",
     "hitAllConfigEntity"
   ],
-  "hitInterval": 2,
+  "hitInterval": 20,
   "isPitch": true,
   "lifeTime": 2,
   "lockRotateBodyPitch": 0,

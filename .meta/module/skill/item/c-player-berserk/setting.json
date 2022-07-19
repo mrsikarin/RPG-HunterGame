@@ -1,0 +1,56 @@
+{
+  "data": {
+    "castAction": "g2033_skill_chakra_01",
+    "castEffect": {
+      "effect": {
+        "asset": "asset/effect/Burst_car_explosion.effect"
+      },
+      "pos": {
+        "y": 0.5
+      }
+    },
+    "cdTime": {
+      "value": 600
+    },
+    "consumeVp": 30,
+    "name": {
+      "value": "skill_c-player-berserk"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_Buff",
+        "buffCfg": "myplugin/player-berserk",
+        "buffTime": {
+          "value": 200
+        },
+        "target": "self"
+      },
+      "type": "Buff"
+    },
+    "skill_pre": {
+      "enable_pre": true,
+      "ignore_jump": true,
+      "ignore_move": true,
+      "time": {
+        "value": 30
+      }
+    },
+    "skillReleaseWay": {
+      "icon": {
+        "asset": "asset/Skill/berserk.png"
+      },
+      "icon_pushed": {
+        "asset": "asset/Skill/berserk_press.png"
+      },
+      "iconPos": {
+        "area_number": 9
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "9bb993a304cfa17ca330c2262981ff59"
+    },
+    "VERSION": "0.22"
+  }
+}

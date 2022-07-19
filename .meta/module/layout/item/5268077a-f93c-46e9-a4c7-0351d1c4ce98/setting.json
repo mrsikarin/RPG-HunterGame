@@ -1,6 +1,6 @@
 {
   "data": {
-    "md5": "975e68ac5f823940650746ea63f62d35",
+    "md5": "068692f3f1411df70a633764fe103681",
     "path": "asset/Interface/QuestInfo.layout",
     "root": {
       "anchor": {
@@ -41,7 +41,7 @@
                 "r": 176
               },
               "id": {
-                "value": "bf7c5c8a-c0a9-4fa1-ba19-ddcff99c0785"
+                "value": "9f1ad7f9-00fd-4ad0-9058-4954bb881a1f"
               },
               "name": "CloseBtn",
               "NormalImage": {
@@ -84,7 +84,7 @@
               "__OBJ_TYPE": "StaticText",
               "Font_size": 18,
               "id": {
-                "value": "a8a3ed10-8fad-4cae-aa68-a51c1fd3ed50"
+                "value": "af12a69e-d614-46bc-a744-503a0ed8cc8d"
               },
               "name": "Detail_txt",
               "pos": {
@@ -109,7 +109,7 @@
               "__OBJ_TYPE": "StaticText",
               "Font_size": 18,
               "id": {
-                "value": "579a57eb-a341-4da9-b29d-0693fbe0bdc6"
+                "value": "ee587153-5a89-40fb-bd8e-2f0206a002a3"
               },
               "name": "Reward_txt",
               "pos": {
@@ -148,7 +148,7 @@
                 "selector": ""
               },
               "id": {
-                "value": "2c634ae7-e4dd-48c0-9c90-23835c25dc52"
+                "value": "21cb1d79-b619-44ad-bf82-d17f59326f5e"
               },
               "name": "SubmitBtn",
               "NormalImage": {
@@ -191,7 +191,7 @@
                 "selector": ""
               },
               "id": {
-                "value": "e0132a3b-f04b-434b-9ffb-40ea78e04323"
+                "value": "5a346fba-1579-442f-95ee-77b8941e4ab1"
               },
               "name": "AcceptBtn",
               "NormalImage": {
@@ -219,7 +219,7 @@
             }
           ],
           "id": {
-            "value": "70823f07-1292-417a-91c8-f4ed78149f54"
+            "value": "c723ea3d-16b8-4940-a30c-1ea1a1182d2b"
           },
           "Image": {
             "asset": "asset/Texture/output-onlinepngtools.png"
@@ -235,7 +235,7 @@
         }
       ],
       "id": {
-        "value": "48a000bd-24b5-4d0a-be7b-02f3ba2152dc"
+        "value": "0a586b9d-b78d-4f58-8996-5503e10c120a"
       },
       "size": {
         "UDim_X": {
@@ -251,7 +251,7 @@
   },
   "meta": {
     "EXPORT": {
-      "layout": "975e68ac5f823940650746ea63f62d35",
+      "layout": "068692f3f1411df70a633764fe103681",
       "triggers.bts": "d1fd7037f4941cd1b8cbfb94bb926990"
     },
     "VERSION": "0.22"

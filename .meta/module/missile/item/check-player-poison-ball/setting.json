@@ -1,0 +1,30 @@
+{
+  "data": {
+    "hitCount": {
+      "hitEntityCount": 1,
+      "isValid": true
+    },
+    "hitEntitySkill": "myplugin/8b847a11-f9ad-46db-b9b0-79d85e29aafc",
+    "lifeTime": {
+      "value": 20
+    },
+    "moveSpeed": 20,
+    "name": {
+      "value": "missile_check-player-poison-ball"
+    },
+    "startEffect": {
+      "effect": {
+        "asset": "asset/effect/Continuous_fireball_s.effect"
+      }
+    },
+    "vanishTime": {
+      "value": 2
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "ea74ebd65e8d2580562bd6081690ca9f"
+    },
+    "VERSION": "0.22"
+  }
+}

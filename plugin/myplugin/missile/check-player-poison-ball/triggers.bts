@@ -1,0 +1,3 @@
+HIT_ENTITY {
+	AddEntityBuff(buffTime = 60, cfg = "myplugin/poison", entity = $obj1)
+}

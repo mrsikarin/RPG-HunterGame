@@ -235,14 +235,14 @@
     },
     {
       "class": "Entity",
-      "config": "myplugin/boss_asura",
+      "config": "myplugin/skeleton-warriors-lv.35",
       "customProperties": [],
       "properties": {
         "batchType": "Static",
-        "id": "8715825344000540673",
-        "name": "[BOSS]Asura",
+        "id": "8720102822386319361",
+        "name": "Skeleton Warriors Lv.35",
         "needSync": "true",
-        "position": "x:17.519842147827 y:0.99989938735962 z:34.853343963623",
+        "position": "x:-1.5841760635376 y:0.99989914894104 z:51.556587219238",
         "rotation": "x:0 y:0 z:0",
         "scale": "x:1 y:1 z:1",
         "selectable": "true",

@@ -1,0 +1,30 @@
+{
+  "data": {
+    "canAbandon": true,
+    "icon": {
+      "asset": "asset/Item/tile144.png"
+    },
+    "item": {
+      "base": {
+        "__OBJ_TYPE": "ItemInHand",
+        "skill": [
+          "myplugin/c-player-melee-normal",
+          "myplugin/dmg-player-spin",
+          "myplugin/c-player-smash",
+          "myplugin/c-player-shield"
+        ]
+      },
+      "type": "InHand"
+    },
+    "name": {
+      "value": "item_axe-04"
+    },
+    "needSave": true
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "b4dc0decaa874eead262d43ae3d6806a"
+    },
+    "VERSION": "0.22"
+  }
+}

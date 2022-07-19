@@ -1,0 +1,23 @@
+{
+  "data": {
+    "hitEntitySkill": "myplugin/8b847a11-f9ad-46db-b9b0-79d85e29aafc",
+    "lifeTime": {
+      "value": 40
+    },
+    "moveSpeed": 10.0,
+    "name": {
+      "value": "missile_check-player-power-ball"
+    },
+    "startEffect": {
+      "effect": {
+        "asset": "asset/effect/Continuous_witch_ranged_attack.effect"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "38a804905ddd6745466c55312c615bb7"
+    },
+    "VERSION": "0.22"
+  }
+}

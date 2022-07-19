@@ -1,0 +1,27 @@
+{
+  "data": {
+    "icon": {
+      "asset": "asset/Item/tile076.png"
+    },
+    "item": {
+      "base": {
+        "__OBJ_TYPE": "ItemInHand",
+        "skill": [
+          "myplugin/c-player-melee-normal",
+          "myplugin/dmg-player-slash",
+          "myplugin/c-player-stomp"
+        ]
+      },
+      "type": "InHand"
+    },
+    "name": {
+      "value": "item_iron-sword-02"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "a467320a9293e6a01f79242320e66772"
+    },
+    "VERSION": "0.22"
+  }
+}

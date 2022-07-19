@@ -1,0 +1,39 @@
+{
+  "data": {
+    "castAction": "g2030_train_chakra",
+    "cdTime": {
+      "value": 200
+    },
+    "name": {
+      "value": "skill_c-player-mana-recovery"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_Buff",
+        "buffCfg": "myplugin/mana-recovery",
+        "buffTime": {
+          "value": 100
+        },
+        "target": "self"
+      },
+      "type": "Buff"
+    },
+    "skillReleaseWay": {
+      "icon": {
+        "asset": "asset/Skill/mana_recovery.png"
+      },
+      "icon_pushed": {
+        "asset": "asset/Skill/mana_recovery_press.png"
+      },
+      "iconPos": {
+        "area_number": 6
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "8e6ee83a48437b2fc7212e43c49a8f4e"
+    },
+    "VERSION": "0.22"
+  }
+}

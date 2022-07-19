@@ -1,0 +1,54 @@
+{
+  "data": {
+    "castAction": "g2033_skill_chakra_06",
+    "cdTime": {
+      "value": 600
+    },
+    "consumeVp": 30,
+    "name": {
+      "value": "skill_c-player-dark-hole"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_Missile",
+        "missile": [
+          {
+            "missileCfg": "myplugin/check-player-dark-hole",
+            "startPos": {
+              "y": 0.2
+            }
+          }
+        ],
+        "target": {
+          "type": "BodyYaw"
+        }
+      },
+      "type": "Missile"
+    },
+    "skill_pre": {
+      "enable_pre": true,
+      "ignore_jump": true,
+      "ignore_move": true,
+      "time": {
+        "value": 14
+      }
+    },
+    "skillReleaseWay": {
+      "icon": {
+        "asset": "asset/Skill/dark_hole.png"
+      },
+      "icon_pushed": {
+        "asset": "asset/Skill/dark_hole_press.png"
+      },
+      "iconPos": {
+        "area_number": 8
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "88a19410c2f26e414f06702f5c5d58ae"
+    },
+    "VERSION": "0.22"
+  }
+}

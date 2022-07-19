@@ -1,6 +1,6 @@
 {
   "data": {
-    "md5": "5aee32625134c9a71527fb881e0f1e13",
+    "md5": "8d5635fe052d2f0e874e8326edbbf877",
     "path": "asset/Interface/QuestBoard.layout",
     "root": {
       "anchor": {
@@ -29,7 +29,7 @@
                     "VerticalAlignment": "Centre"
                   },
                   "id": {
-                    "value": "cc6bc579-3a6a-4e28-a7fa-6588d6d57fe3"
+                    "value": "eae2b1c7-906f-4dda-b4e8-7973271a507b"
                   },
                   "Image": {
                     "asset": "asset/Texture/output-onlinepngtools.png"
@@ -48,13 +48,10 @@
                   "effectName": {
                     "asset": "asset/effect/Marker_exclamation_mark.effect"
                   },
-                  "EffectPosition": {
-                    "y": 60
-                  },
                   "effectScale": 0.5,
                   "effectYPosition": 60,
                   "id": {
-                    "value": "8d66ee40-44e3-48a4-8d4d-dedf17a05749"
+                    "value": "c751a687-c9d8-446c-8caa-aceccd9a532c"
                   }
                 },
                 {
@@ -73,7 +70,7 @@
                     "selector": ""
                   },
                   "id": {
-                    "value": "804c51ef-1f6e-44ff-a063-4235c6238157"
+                    "value": "d9e3e6dc-f2b6-49f2-a1d1-e9e7d8ef2140"
                   },
                   "name": "questBtn1",
                   "NormalImage": {
@@ -104,7 +101,7 @@
                 }
               ],
               "id": {
-                "value": "acf4f80e-0e29-44d8-8d93-e309e521f7bc"
+                "value": "0100ae7c-4862-4ea1-9c17-c6e83e986836"
               },
               "name": "Quest",
               "pos": {
@@ -138,7 +135,7 @@
                     "VerticalAlignment": "Centre"
                   },
                   "id": {
-                    "value": "61387921-ce93-4db3-98f6-51d426d7bc37"
+                    "value": "b85c4c29-1698-4909-8523-34e6bd96bd6e"
                   },
                   "Image": {
                     "asset": "asset/Texture/output-onlinepngtools.png"
@@ -157,13 +154,10 @@
                   "effectName": {
                     "asset": "asset/effect/Marker_exclamation_mark.effect"
                   },
-                  "EffectPosition": {
-                    "y": 60
-                  },
                   "effectScale": 0.5,
                   "effectYPosition": 60,
                   "id": {
-                    "value": "0f070ce4-1aae-4816-8282-632bec1b5270"
+                    "value": "3eff1ecc-3322-4439-9dc2-b4f02edae962"
                   }
                 },
                 {
@@ -182,7 +176,7 @@
                     "selector": ""
                   },
                   "id": {
-                    "value": "f7fed134-5240-435e-922e-a36c575339cb"
+                    "value": "8e164728-7dcb-44be-a7ea-26e64f3833f5"
                   },
                   "name": "questBtn2",
                   "NormalImage": {
@@ -213,7 +207,7 @@
                 }
               ],
               "id": {
-                "value": "d8e73201-9486-4098-b9ec-fc77c0fee874"
+                "value": "e16bdccc-a612-455a-bce8-80330f5e84dc"
               },
               "name": "Quest1",
               "pos": {
@@ -247,7 +241,7 @@
                     "VerticalAlignment": "Centre"
                   },
                   "id": {
-                    "value": "b8edf97a-82fb-4208-a0e0-bf3ef055568e"
+                    "value": "93c7c48d-5e2e-4ad9-acd6-d1a0130619cc"
                   },
                   "Image": {
                     "asset": "asset/Texture/output-onlinepngtools.png"
@@ -266,13 +260,10 @@
                   "effectName": {
                     "asset": "asset/effect/Marker_exclamation_mark.effect"
                   },
-                  "EffectPosition": {
-                    "y": 60
-                  },
                   "effectScale": 0.5,
                   "effectYPosition": 60,
                   "id": {
-                    "value": "0a0c2b60-62fc-4a35-b7e7-b5918abc6f5e"
+                    "value": "be8ba2ac-ff14-4c36-8dcd-4a7ce9c6143b"
                   }
                 },
                 {
@@ -291,7 +282,7 @@
                     "selector": ""
                   },
                   "id": {
-                    "value": "24a72ac6-8cca-46d8-b4ee-153088e486cb"
+                    "value": "ca671089-0bc6-4abe-8fba-31778e54439b"
                   },
                   "name": "questBtn3",
                   "NormalImage": {
@@ -322,7 +313,7 @@
                 }
               ],
               "id": {
-                "value": "0433c465-80ae-4e1b-8597-71232601bf31"
+                "value": "9fe3d579-fc81-4897-8325-b6a69a58be12"
               },
               "name": "Quest2",
               "pos": {
@@ -356,7 +347,7 @@
                     "VerticalAlignment": "Centre"
                   },
                   "id": {
-                    "value": "07afabe2-4d25-4baa-9149-75abadc3bd9e"
+                    "value": "8d727f13-3922-427f-a6d9-1de55f340a6a"
                   },
                   "Image": {
                     "asset": "asset/Texture/output-onlinepngtools.png"
@@ -375,13 +366,10 @@
                   "effectName": {
                     "asset": "asset/effect/Marker_exclamation_mark.effect"
                   },
-                  "EffectPosition": {
-                    "y": 60
-                  },
                   "effectScale": 0.5,
                   "effectYPosition": 60,
                   "id": {
-                    "value": "a4930050-453f-456d-92b0-88ed7bf11773"
+                    "value": "16bdd1ad-766b-492e-bfbf-5991f86a5ea3"
                   }
                 },
                 {
@@ -400,7 +388,7 @@
                     "selector": ""
                   },
                   "id": {
-                    "value": "b668da39-a525-458b-bb3d-08c664bb8974"
+                    "value": "2c4a571c-7789-44bb-acd6-8dc5f2fd2d56"
                   },
                   "name": "questBtn4",
                   "NormalImage": {
@@ -431,7 +419,7 @@
                 }
               ],
               "id": {
-                "value": "46a7047a-aa84-4b97-a8c9-9627a466318b"
+                "value": "6a9c77ef-9d98-4eeb-9c78-ff9008a90a8e"
               },
               "name": "Quest3",
               "pos": {
@@ -465,7 +453,7 @@
                     "VerticalAlignment": "Centre"
                   },
                   "id": {
-                    "value": "b864e809-1b00-4460-9271-b64c5fe6889e"
+                    "value": "83e5d5cc-2498-469b-a4d2-ab81fe6e6c2d"
                   },
                   "Image": {
                     "asset": "asset/Texture/output-onlinepngtools.png"
@@ -484,13 +472,10 @@
                   "effectName": {
                     "asset": "asset/effect/Marker_exclamation_mark.effect"
                   },
-                  "EffectPosition": {
-                    "y": 60
-                  },
                   "effectScale": 0.5,
                   "effectYPosition": 60,
                   "id": {
-                    "value": "7a263ccf-fa00-4814-9e0a-57c6945a396e"
+                    "value": "a0679d2c-bdb0-468d-9d33-6e11902270d9"
                   }
                 },
                 {
@@ -509,7 +494,7 @@
                     "selector": ""
                   },
                   "id": {
-                    "value": "477a9ead-4f4e-4f25-995c-0e8369766efd"
+                    "value": "78910dde-0c22-404d-98ff-ad064e74a88e"
                   },
                   "name": "questBtn5",
                   "NormalImage": {
@@ -540,7 +525,7 @@
                 }
               ],
               "id": {
-                "value": "a8d51f3f-7333-40e4-bf34-42c3f220fac1"
+                "value": "aed24595-0cb7-4355-8011-c23ed2c02f2f"
               },
               "name": "Quest4",
               "pos": {
@@ -586,7 +571,7 @@
                 "r": 170
               },
               "id": {
-                "value": "0614cd13-cd49-425b-b4c3-2e8edf608be3"
+                "value": "f21d9a09-8d0c-4438-bf5e-7f16550302d1"
               },
               "name": "CloseBtn",
               "NormalImage": {
@@ -628,7 +613,7 @@
             }
           ],
           "id": {
-            "value": "5e267843-ddf7-4eee-b4cc-12250e88d554"
+            "value": "97e0b566-7fc2-49ca-8561-c562eaab3558"
           },
           "Image": {
             "asset": "asset/Texture/output-onlinepngtools (1).png"
@@ -647,7 +632,7 @@
         }
       ],
       "id": {
-        "value": "21387197-dbb0-4817-b6dd-6ce1fb5e6aab"
+        "value": "e455944d-e464-4df5-be40-d9610f09b6dd"
       },
       "size": {
         "UDim_X": {
@@ -663,7 +648,7 @@
   },
   "meta": {
     "EXPORT": {
-      "layout": "5aee32625134c9a71527fb881e0f1e13",
+      "layout": "8d5635fe052d2f0e874e8326edbbf877",
       "triggers.bts": "d1fd7037f4941cd1b8cbfb94bb926990"
     },
     "VERSION": "0.22"

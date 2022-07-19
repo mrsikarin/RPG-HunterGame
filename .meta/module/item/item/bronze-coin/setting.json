@@ -1,0 +1,24 @@
+{
+  "data": {
+    "icon": {
+      "asset": "asset/Item/R (6) (12).png"
+    },
+    "item": {
+      "base": {
+        "__OBJ_TYPE": "ItemInHand"
+      },
+      "type": "InHand"
+    },
+    "name": {
+      "value": "item_bronze-coin"
+    },
+    "needSave": true,
+    "stack_count_max": 999
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "c2d451f14f314251f32308c10d1f37fd"
+    },
+    "VERSION": "0.22"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "castEffect": {
+      "effect": {
+        "asset": "asset/effect/Surround_warrior_aura.effect"
+      }
+    },
+    "deadRemove": true,
+    "deDmgPct": 1,
+    "name": {
+      "value": "buff_player-immortal"
+    },
+    "sync": "self"
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "1b2f52e58daa46886cc93692822b2016"
+    },
+    "VERSION": "0.22"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "castEffect": {
+      "effect": {
+        "asset": "asset/effect/Continuous_tp_light.effect"
+      },
+      "pos": {
+        "y": 0.5
+      }
+    },
+    "deadRemove": true,
+    "name": {
+      "value": "buff_mana-recovery"
+    },
+    "sync": "self"
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "9b642439db07cfa7e85475647db9cee9"
+    },
+    "VERSION": "0.22"
+  }
+}

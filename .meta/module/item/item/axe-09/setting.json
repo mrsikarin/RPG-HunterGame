@@ -1,0 +1,30 @@
+{
+  "data": {
+    "canAbandon": true,
+    "icon": {
+      "asset": "asset/Item/tile149.png"
+    },
+    "item": {
+      "base": {
+        "__OBJ_TYPE": "ItemInHand",
+        "skill": [
+          "myplugin/c-player-melee-normal",
+          "myplugin/dmg-player-slash",
+          "myplugin/c-player-combo",
+          "myplugin/c-player-all-for-one"
+        ]
+      },
+      "type": "InHand"
+    },
+    "name": {
+      "value": "item_axe-09"
+    },
+    "needSave": true
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "93009f89159da95cc63b5382fd8f1cca"
+    },
+    "VERSION": "0.22"
+  }
+}

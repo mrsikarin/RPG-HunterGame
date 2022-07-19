@@ -27,9 +27,13 @@
         "asset": "asset/effect/Track_footman_attack.effect"
       },
       "pos": {
+        "y": 1.5,
         "z": 1
       },
       "yaw": 90
+    },
+    "cdTime": {
+      "value": 40
     },
     "name": {
       "value": "skill_system_c-player-melee-normal"
@@ -37,7 +41,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "6bdd59aad3e644ca79db33d5fda40ea9",
+      "setting.json": "ae03dca50b0c66d2c2247e206349b4e7",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

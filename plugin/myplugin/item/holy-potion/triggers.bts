@@ -1,0 +1,9 @@
+REMOVE_ITEM_AT_COUNT {
+	StartTimer2(interval = 20, object = $obj1, time = 3, timer = "") {
+		Parallel {
+			RemoveBuffByFullName(buff = "myplugin/poison", entity = $obj1, toTeam = false)
+			RemoveBuffByFullName(buff = "myplugin/burn", entity = $obj1, toTeam = false)
+			RemoveBuffByFullName(buff = "myplugin/freeze", entity = $obj1, toTeam = false)
+		}
+	}
+}

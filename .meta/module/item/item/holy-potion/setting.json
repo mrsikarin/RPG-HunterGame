@@ -1,0 +1,30 @@
+{
+  "data": {
+    "canAbandon": true,
+    "canUse": true,
+    "icon": {
+      "asset": "asset/Item/tile034.png"
+    },
+    "item": {
+      "base": {
+        "__OBJ_TYPE": "ItemUse",
+        "time": {
+          "value": 60
+        },
+        "useBuff": "myplugin/mana-recovery"
+      },
+      "type": "Use"
+    },
+    "name": {
+      "value": "item_holy-potion"
+    },
+    "needSave": true,
+    "stack_count_max": 99
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "eee0a89dfdf5026c342eb69caf116ad1"
+    },
+    "VERSION": "0.22"
+  }
+}

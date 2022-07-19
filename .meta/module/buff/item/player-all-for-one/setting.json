@@ -1,0 +1,22 @@
+{
+  "data": {
+    "castEffect": {
+      "effect": {
+        "asset": "asset/effect/Continuous_ice_sword.effect"
+      }
+    },
+    "damagePct": 2,
+    "deadRemove": true,
+    "deDmgPct": 0.1,
+    "name": {
+      "value": "buff_player-all-for-one"
+    },
+    "sync": "self"
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "1d67aa3980a9d8bf7d12334572498412"
+    },
+    "VERSION": "0.22"
+  }
+}

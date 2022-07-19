@@ -1,0 +1,29 @@
+{
+  "data": {
+    "canAbandon": true,
+    "icon": {
+      "asset": "asset/Item/R (6) (20).png"
+    },
+    "item": {
+      "base": {
+        "__OBJ_TYPE": "ItemInHand",
+        "skill": [
+          "myplugin/c-player-magic-normal",
+          "myplugin/c-player-water-ball",
+          "myplugin/c-player-ice-spear"
+        ]
+      },
+      "type": "InHand"
+    },
+    "name": {
+      "value": "item_wizard-staff-04"
+    },
+    "needSave": true
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "6f441cfb80c9a4dad6d36e6d0686d625"
+    },
+    "VERSION": "0.22"
+  }
+}

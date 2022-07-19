@@ -1,0 +1,80 @@
+{
+  "area": [
+    [
+      0,
+      -58
+    ],
+    [
+      0,
+      -238
+    ],
+    [
+      0,
+      88
+    ],
+    [
+      0,
+      88
+    ]
+  ],
+  "area_number": 9,
+  "backSwingTime": 0,
+  "buffCfg": "myplugin/player-berserk",
+  "buffTime": 200,
+  "castAction": "g2033_skill_chakra_01",
+  "castActionTime": -1,
+  "castEffect": {
+    "effect": "asset/effect/Burst_car_explosion.effect",
+    "once": true,
+    "pos": {
+      "x": 0,
+      "y": 0.5,
+      "z": 0
+    },
+    "scale": {
+      "x": 0.5,
+      "y": 0.5,
+      "z": 0.5
+    },
+    "selfOnly": false,
+    "yaw": 0
+  },
+  "cdMaskConfig": {
+    "AntiClockwise": false,
+    "FillPosition": "Top_With360Degree",
+    "FillType": "With360Degree",
+    "horizontalAlignment": 1,
+    "verticalAlignment": 1
+  },
+  "cdTime": 600,
+  "consumeVp": 30,
+  "customizeSkill": true,
+  "draggingEnabled": false,
+  "enable_pre": true,
+  "enable_rear": false,
+  "enableCdMask": true,
+  "enableCdTip": false,
+  "enableMoveBrkBackS": false,
+  "enableMoveBrkPreS": false,
+  "frontSight": "",
+  "horizontalAlignment": 2,
+  "icon": "@asset/Skill/berserk.png",
+  "icon_pushed": "@asset/Skill/berserk_press.png",
+  "ignoreCastSkillBackS": false,
+  "ignoreCastSkillPreS": true,
+  "ignoreJumpBackS": false,
+  "ignoreJumpPreS": true,
+  "ignoreMoveBackS": false,
+  "ignoreMovePreS": true,
+  "isClick": false,
+  "isShowCdPoint": false,
+  "isTouch": false,
+  "preSwingTime": 30,
+  "sensitivityFactor": 1,
+  "startAction": "",
+  "startActionTime": 0,
+  "sustainAction": "",
+  "target": "self",
+  "type": "Buff",
+  "verticalAlignment": 2
+}

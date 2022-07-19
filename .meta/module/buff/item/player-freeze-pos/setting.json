@@ -1,0 +1,15 @@
+{
+  "data": {
+    "deadRemove": true,
+    "moveFactor": -1,
+    "name": {
+      "value": "buff_player-freeze-pos"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "a9e784512ae984a44f06d5dd9f42bbc7"
+    },
+    "VERSION": "0.22"
+  }
+}

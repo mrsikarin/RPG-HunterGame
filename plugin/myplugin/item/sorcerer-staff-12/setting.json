@@ -1,0 +1,23 @@
+{
+  "canAbandon": true,
+  "candrop": false,
+  "canEquipPlural": true,
+  "canUse": false,
+  "dropSpeed": 0.2,
+  "handItemBoneName": "s_hand_r",
+  "icon": "@asset/Item/R (6) (3).png",
+  "itemname": "item_sorcerer-staff-12",
+  "needSave": true,
+  "skill": [
+    "myplugin/c-player-magic-normal",
+    "myplugin/c-player-fire-ball",
+    "myplugin/c-player-power-ball",
+    "myplugin/c-player-huge-fire-ball"
+  ],
+  "stack_count_max": 1,
+  "syncGameData": {
+    "currentCapacity": true,
+    "extCapacity": true
+  },
+  "trap": false
+}

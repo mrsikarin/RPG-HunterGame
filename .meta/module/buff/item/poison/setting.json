@@ -1,0 +1,21 @@
+{
+  "data": {
+    "castEffect": {
+      "effect": {
+        "asset": "asset/effect/Continuous_green_light.effect"
+      }
+    },
+    "continueDamage": 10,
+    "deadRemove": true,
+    "fixTime": "reset",
+    "name": {
+      "value": "buff_poison"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "55815e332051ae819971a66f0cc281c6"
+    },
+    "VERSION": "0.22"
+  }
+}

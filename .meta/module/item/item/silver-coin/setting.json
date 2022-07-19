@@ -1,0 +1,24 @@
+{
+  "data": {
+    "icon": {
+      "asset": "asset/Item/R (6) (11).png"
+    },
+    "item": {
+      "base": {
+        "__OBJ_TYPE": "ItemInHand"
+      },
+      "type": "InHand"
+    },
+    "name": {
+      "value": "item_silver-coin"
+    },
+    "needSave": true,
+    "stack_count_max": 999
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "44e50ad011ce38ba96b2bcf3c3fdd193"
+    },
+    "VERSION": "0.22"
+  }
+}

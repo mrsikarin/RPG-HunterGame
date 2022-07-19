@@ -1,0 +1,34 @@
+{
+  "data": {
+    "hitEntitySkill": "myplugin/8b847a11-f9ad-46db-b9b0-79d85e29aafc",
+    "lifeTime": {
+      "value": 40
+    },
+    "moveSpeed": 0,
+    "name": {
+      "value": "missile_check-player-combo"
+    },
+    "startEffect": {
+      "effect": {
+        "asset": "asset/effect/Track_footman_triple_strike.effect"
+      },
+      "pos": {
+        "y": 1
+      },
+      "time": {
+        "value": 40
+      },
+      "timeLimit": true,
+      "yaw": 90
+    },
+    "vanishTime": {
+      "value": 2
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "baf9dcfb197c3430a1e4e60b6346a657"
+    },
+    "VERSION": "0.22"
+  }
+}

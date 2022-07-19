@@ -1,0 +1,29 @@
+{
+  "data": {
+    "canAbandon": true,
+    "canUse": true,
+    "icon": {
+      "asset": "asset/Item/tile226.png"
+    },
+    "item": {
+      "base": {
+        "__OBJ_TYPE": "ItemInHand",
+        "skill": [
+          "myplugin/c-player-teleport"
+        ]
+      },
+      "type": "InHand"
+    },
+    "name": {
+      "value": "item_return-wing"
+    },
+    "needSave": true,
+    "stack_count_max": 99
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "90150a87f4cf116da0763b963723a3ac"
+    },
+    "VERSION": "0.22"
+  }
+}

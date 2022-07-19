@@ -1,0 +1,24 @@
+{
+  "data": {
+    "icon": {
+      "asset": "asset/Item/tile240.png"
+    },
+    "item": {
+      "base": {
+        "__OBJ_TYPE": "ItemInHand"
+      },
+      "type": "InHand"
+    },
+    "name": {
+      "value": "item_chaos-part"
+    },
+    "needSave": true,
+    "stack_count_max": 7
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "03aea59c01b4a17d7f1ae08966a25762"
+    },
+    "VERSION": "0.22"
+  }
+}

@@ -15,6 +15,19 @@
     "AI_patrol": {
       "patrolMode": "randomPath"
     },
+    "boundingVolume": {
+      "height_c": 3.5,
+      "radius_c": 0.75,
+      "type": "Capsule"
+    },
+    "boundingVolumeEntityCfg": {
+      "height_c": 3.5,
+      "memory": {
+        "Cylinder": "1.000000-0.500000"
+      },
+      "radius_c": 1.5,
+      "type": "Capsule"
+    },
     "collision": true,
     "damage": 200,
     "enableAI": true,
@@ -28,7 +41,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "312253119ce69fdc9ab98ad7856f162b",
+      "setting.json": "0aee49f5c02648db0642397f92f30bf0",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

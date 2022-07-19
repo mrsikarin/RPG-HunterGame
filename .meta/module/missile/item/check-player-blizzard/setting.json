@@ -1,0 +1,26 @@
+{
+  "data": {
+    "hitEntitySkill": "myplugin/8b847a11-f9ad-46db-b9b0-79d85e29aafc",
+    "moveSpeed": 0,
+    "name": {
+      "value": "missile_check-player-blizzard"
+    },
+    "startEffect": {
+      "effect": {
+        "asset": "asset/effect/Burst_blizzard.effect"
+      },
+      "pos": {
+        "y": 0.2
+      }
+    },
+    "vanishTime": {
+      "value": 2
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "a9bbf7d0b3d6735fe9d20cbede6920ee"
+    },
+    "VERSION": "0.22"
+  }
+}

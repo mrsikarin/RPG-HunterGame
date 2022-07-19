@@ -1,0 +1,47 @@
+{
+  "data": {
+    "castAction": "g2033_skill_sword_05",
+    "cdTime": {
+      "value": 400
+    },
+    "consumeVp": 30,
+    "name": {
+      "value": "skill_c-player-combo"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_Missile",
+        "missile": [
+          {
+            "missileCfg": "myplugin/check-player-combo",
+            "startPos": {
+              "y": 0,
+              "z": 1
+            }
+          }
+        ],
+        "target": {
+          "type": "BodyYaw"
+        }
+      },
+      "type": "Missile"
+    },
+    "skillReleaseWay": {
+      "icon": {
+        "asset": "asset/Skill/combo.png"
+      },
+      "icon_pushed": {
+        "asset": "asset/Skill/combo_press.png"
+      },
+      "iconPos": {
+        "area_number": 9
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "4b3bbd3e3d6fe661da685967ad7c0c2b"
+    },
+    "VERSION": "0.22"
+  }
+}

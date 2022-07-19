@@ -1,0 +1,55 @@
+{
+  "data": {
+    "castAction": "g2033_skill_sword_09",
+    "cdTime": {
+      "value": 400
+    },
+    "consumeVp": 20,
+    "name": {
+      "value": "skill_c-player-smash"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_Missile",
+        "missile": [
+          {
+            "missileCfg": "myplugin/check-player-smash",
+            "startPos": {
+              "y": 0,
+              "z": 1
+            }
+          }
+        ],
+        "target": {
+          "type": "BodyYaw"
+        }
+      },
+      "type": "Missile"
+    },
+    "skill_pre": {
+      "enable_pre": true,
+      "ignore_jump": true,
+      "ignore_move": true,
+      "time": {
+        "value": 6
+      }
+    },
+    "skillReleaseWay": {
+      "icon": {
+        "asset": "asset/Skill/smash.png"
+      },
+      "icon_pushed": {
+        "asset": "asset/Skill/smash_press.png"
+      },
+      "iconPos": {
+        "area_number": 8
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "9562e440105e1cb6b0cbad129ba93d40"
+    },
+    "VERSION": "0.22"
+  }
+}
