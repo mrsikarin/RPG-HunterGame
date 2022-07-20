@@ -1,9 +1,13 @@
 {
   "data": {
     "castAction": "g2030_train_chakra",
+    "cdAnimation": "Clockwise",
     "cdTime": {
       "value": 200
     },
+    "enableCdMask": true,
+    "FillPosition": "Top_With360Degree",
+    "FillType": "With360Degree",
     "name": {
       "value": "skill_c-player-mana-recovery"
     },

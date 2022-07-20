@@ -1,6 +1,6 @@
 {
   "data": {
-    "md5": "476d1a51cd8ba5a6c3a145d438d9d381",
+    "md5": "7a3def159e229963e7e03e933287a1a0",
     "path": "asset/Interface/playerUI.layout",
     "root": {
       "anchor": {
@@ -26,7 +26,7 @@
             "r": 240
           },
           "id": {
-            "value": "28be07c5-c8fd-4535-b264-d2da6d20742e"
+            "value": "b8f91034-1763-4ca7-930b-d1dcb9283542"
           },
           "NormalImage": {
             "asset": "asset/texture2/icon_red_nor.png"
@@ -50,10 +50,10 @@
           },
           "size": {
             "UDim_X": {
-              "Offect": 70.0
+              "Offect": 70
             },
             "UDim_Y": {
-              "Offect": 70.0
+              "Offect": 70
             }
           },
           "SoundFile": {
@@ -85,7 +85,7 @@
                     "VerticalAlignment": "Centre"
                   },
                   "id": {
-                    "value": "c1c8214b-f5ea-42be-abc9-8ba63fddb62f"
+                    "value": "dd3f0099-d5b4-4d23-8bc5-51a1281bc753"
                   },
                   "Image": {
                     "asset": "asset/Texture/Gui/slider_bg.png"
@@ -106,7 +106,7 @@
                     "VerticalAlignment": "Centre"
                   },
                   "id": {
-                    "value": "bd0b5a2d-b47b-4be4-9620-2e855b3573b0"
+                    "value": "742eef84-8147-4aeb-aeba-ef9e109e2449"
                   },
                   "Image": {
                     "asset": "asset/Texture/Gui/slider_top_h.png"
@@ -127,7 +127,7 @@
                     "VerticalAlignment": "Centre"
                   },
                   "id": {
-                    "value": "15b75872-5d75-4096-9594-99f34d5f1581"
+                    "value": "37e9d411-6fc0-459e-b285-67fcea3a1155"
                   },
                   "name": "Handle",
                   "Visible": false
@@ -142,7 +142,7 @@
                   "Font_size": 20,
                   "HorzFormatting": "CentreAligned",
                   "id": {
-                    "value": "1d48cbf4-6a31-4edf-8206-47a95af23cc4"
+                    "value": "111c3dec-6ebe-4042-baec-66c3800083d5"
                   },
                   "name": "level",
                   "pos": {
@@ -156,9 +156,6 @@
                   "size": {
                     "UDim_X": {
                       "Offect": 139.55161976815
-                    },
-                    "UDim_Y": {
-                      "Offect": 128.0
                     }
                   },
                   "Text": "Lv.",
@@ -174,7 +171,7 @@
                   "Font_size": 20,
                   "HorzFormatting": "CentreAligned",
                   "id": {
-                    "value": "bfbc65f3-7a8b-4f6e-81a0-f9c8befce671"
+                    "value": "92a00d6b-e8b3-4c06-85c1-99a284834929"
                   },
                   "name": "textexp",
                   "pos": {
@@ -188,9 +185,6 @@
                   "size": {
                     "UDim_X": {
                       "Offect": 139.55161976815
-                    },
-                    "UDim_Y": {
-                      "Offect": 128.0
                     }
                   },
                   "Text": "EXP",
@@ -198,7 +192,7 @@
                 }
               ],
               "id": {
-                "value": "8438ad4e-8088-49d8-91b7-9d3f6e02be92"
+                "value": "3e81b151-ce1d-4e4c-919f-6891e71b2f1e"
               },
               "name": "expbar",
               "pos": {
@@ -209,7 +203,7 @@
             }
           ],
           "id": {
-            "value": "cc28866e-69fe-4930-9311-15459afeb403"
+            "value": "f0a9237e-3d79-4acc-bd7a-980040866339"
           },
           "pos": {
             "UDim_X": {
@@ -241,7 +235,7 @@
                 {
                   "__OBJ_TYPE": "StaticImage",
                   "id": {
-                    "value": "b42f9587-d453-4cbf-ac9f-51ea2fa5e618"
+                    "value": "e8ffb3dd-a670-40e8-a40c-60a526a79ad9"
                   },
                   "Image": {
                     "asset": "asset/Item/tile248.png"
@@ -256,16 +250,16 @@
                   },
                   "size": {
                     "UDim_X": {
-                      "Offect": 32.0
+                      "Offect": 32
                     },
                     "UDim_Y": {
-                      "Offect": 32.0
+                      "Offect": 32
                     }
                   }
                 }
               ],
               "id": {
-                "value": "9472d4e7-79dd-4404-aabc-e87393328f1b"
+                "value": "c2c4e9f3-6978-450e-a388-fc01fa7b1c94"
               },
               "Image": {
                 "asset": "asset/atlas.png"
@@ -291,7 +285,7 @@
               "__OBJ_TYPE": "StaticText",
               "Font_size": 18,
               "id": {
-                "value": "686c5074-baf7-47d3-87ab-ff2d48756a53"
+                "value": "1b4d34b6-f494-41f1-91bf-a1235b6a68a0"
               },
               "name": "quest_txt",
               "pos": {
@@ -307,7 +301,7 @@
                   "Offect": 99.999999999997
                 },
                 "UDim_Y": {
-                  "Offect": 50.0
+                  "Offect": 50
                 }
               },
               "Text": "Quest",
@@ -320,7 +314,7 @@
               "__OBJ_TYPE": "StaticText",
               "Font_size": 14,
               "id": {
-                "value": "efe114d6-2fcc-42e2-982d-5ec8c5672e06"
+                "value": "215d1a08-6d0d-4924-b7c1-3dd6feed0c2c"
               },
               "name": "detailTxt",
               "pos": {
@@ -349,7 +343,7 @@
             }
           ],
           "id": {
-            "value": "e50f910c-e8ea-45ed-9f1d-ed05ae728294"
+            "value": "ff04e06c-4255-4635-b201-3a6ca9e46289"
           },
           "name": "Quest",
           "pos": {
@@ -364,11 +358,12 @@
             "UDim_Y": {
               "Offect": 121.1782880202
             }
-          }
+          },
+          "Visible": false
         }
       ],
       "id": {
-        "value": "12bb299e-cbff-4593-b55b-f0cf09622ef3"
+        "value": "7eb614d6-a77f-475b-9e1a-7098dbd7bda2"
       },
       "pos": {
         "UDim_Y": {
@@ -387,7 +382,7 @@
   },
   "meta": {
     "EXPORT": {
-      "layout": "476d1a51cd8ba5a6c3a145d438d9d381",
+      "layout": "7a3def159e229963e7e03e933287a1a0",
       "triggers.bts": "d1fd7037f4941cd1b8cbfb94bb926990"
     },
     "VERSION": "0.22"

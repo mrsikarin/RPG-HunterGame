@@ -35,7 +35,7 @@
     "verticalAlignment": 1
   },
   "cdTime": 100,
-  "consumeVp": 0,
+  "consumeVp": 5,
   "customizeSkill": true,
   "draggingEnabled": false,
   "enable_pre": true,

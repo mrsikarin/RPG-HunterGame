@@ -1,8 +1,13 @@
 {
   "data": {
+    "_serverScript": [
+      {
+        "path": "server/server_script"
+      }
+    ],
     "actorModel": {
       "girlactor": {
-        "asset": ""
+        "asset": "asset/Actor/charactor/charactor_boy/character_boy.actor"
       },
       "modelType": "Customize"
     },
@@ -139,7 +144,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "93e9a946c83cc1d9e51045bc1319bf34",
+      "setting.json": "bc7287845d1f900ea9ed58aa9641e9d9",
       "triggers.bts": "7e6a3af0ea62ebda82bb55655ce50636"
     },
     "VERSION": "0.22"

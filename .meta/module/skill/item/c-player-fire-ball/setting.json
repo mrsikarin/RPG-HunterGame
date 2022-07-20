@@ -1,10 +1,14 @@
 {
   "data": {
     "castAction": "attack5",
+    "cdAnimation": "Clockwise",
     "cdTime": {
       "value": 100
     },
     "consumeVp": 5,
+    "enableCdMask": true,
+    "FillPosition": "Top_With360Degree",
+    "FillType": "With360Degree",
     "name": {
       "value": "skill_c-player-fire-ball"
     },
@@ -45,7 +49,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "f8cb30429e8d4765c3a03d7decbe4f0e",
+      "setting.json": "c79b757195e7f05914bd383f0e840a04",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

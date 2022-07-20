@@ -9,10 +9,14 @@
         "y": 0.5
       }
     },
+    "cdAnimation": "Clockwise",
     "cdTime": {
       "value": 600
     },
     "consumeVp": 30,
+    "enableCdMask": true,
+    "FillPosition": "Top_With360Degree",
+    "FillType": "With360Degree",
     "name": {
       "value": "skill_c-player-berserk"
     },

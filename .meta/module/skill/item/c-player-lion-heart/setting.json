@@ -1,10 +1,14 @@
 {
   "data": {
     "castAction": "g2033_skill_chakra_09",
+    "cdAnimation": "Clockwise",
     "cdTime": {
       "value": 600
     },
     "consumeVp": 20,
+    "enableCdMask": true,
+    "FillPosition": "Top_With360Degree",
+    "FillType": "With360Degree",
     "name": {
       "value": "skill_c-player-lion-heart"
     },
@@ -41,7 +45,8 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "c326cd419127b712b267b0d755e5c723"
+      "setting.json": "dc8dc92acdd3077f7e60aeac133ad709",
+      "triggers.bts": ""
     },
     "VERSION": "0.22"
   }

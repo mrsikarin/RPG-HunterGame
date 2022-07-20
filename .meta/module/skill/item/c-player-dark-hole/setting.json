@@ -1,10 +1,14 @@
 {
   "data": {
     "castAction": "g2033_skill_chakra_06",
+    "cdAnimation": "Clockwise",
     "cdTime": {
       "value": 600
     },
     "consumeVp": 30,
+    "enableCdMask": true,
+    "FillPosition": "Top_With360Degree",
+    "FillType": "With360Degree",
     "name": {
       "value": "skill_c-player-dark-hole"
     },

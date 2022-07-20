@@ -1,6 +1,6 @@
 {
   "data": {
-    "md5": "971aff9e8e656ea68ccce2aba1d681ea",
+    "md5": "c1f728545619e6d96337d114c796efea",
     "path": "asset/Interface/QuestBoard.layout",
     "root": {
       "anchor": {
@@ -29,7 +29,7 @@
                     "VerticalAlignment": "Centre"
                   },
                   "id": {
-                    "value": "3c929073-e288-4fcd-bc14-4ad818174b93"
+                    "value": "59138baa-992d-4097-8129-dd97aa98a802"
                   },
                   "Image": {
                     "asset": "asset/Texture/output-onlinepngtools.png"
@@ -51,7 +51,7 @@
                   "effectScale": 0.5,
                   "effectYPosition": 60,
                   "id": {
-                    "value": "da32b2c6-42a3-43d7-977a-39d728ca93da"
+                    "value": "6dacfc27-1862-49c4-9837-85976f63dafe"
                   }
                 },
                 {
@@ -70,7 +70,7 @@
                     "selector": ""
                   },
                   "id": {
-                    "value": "78b6b63b-2d99-4692-9123-25e817169c29"
+                    "value": "4baeec67-d581-40b9-b8ce-ab05d1596c2d"
                   },
                   "name": "QuestBtn1",
                   "NormalImage": {
@@ -101,7 +101,7 @@
                 }
               ],
               "id": {
-                "value": "52571f3e-07e1-4719-ac5c-3fee8e0820fb"
+                "value": "e4459a1f-f400-4569-b631-f524a5349217"
               },
               "name": "Quest",
               "pos": {
@@ -135,7 +135,7 @@
                     "VerticalAlignment": "Centre"
                   },
                   "id": {
-                    "value": "f119cb3f-1f41-49f2-a2cc-a530c643306f"
+                    "value": "9678e619-f608-4ec3-940d-120aaeed985d"
                   },
                   "Image": {
                     "asset": "asset/Texture/output-onlinepngtools.png"
@@ -157,7 +157,7 @@
                   "effectScale": 0.5,
                   "effectYPosition": 60,
                   "id": {
-                    "value": "2728e067-69e8-48a3-a0cb-296d8b5d123e"
+                    "value": "e9d956f6-4637-4507-9084-90f34d721160"
                   }
                 },
                 {
@@ -176,7 +176,7 @@
                     "selector": ""
                   },
                   "id": {
-                    "value": "884fd155-8d81-45d1-a603-6c05af9ef79b"
+                    "value": "0fb85dab-0f7c-4e77-88c4-68de52b533c9"
                   },
                   "name": "QuestBtn2",
                   "NormalImage": {
@@ -207,7 +207,7 @@
                 }
               ],
               "id": {
-                "value": "bd40276e-675c-4aef-be21-c2a703682a23"
+                "value": "ce5a3b73-100f-4eaf-9377-05ec9a94615a"
               },
               "name": "Quest1",
               "pos": {
@@ -241,7 +241,7 @@
                     "VerticalAlignment": "Centre"
                   },
                   "id": {
-                    "value": "294b4109-8750-4cab-9cc4-60084b120572"
+                    "value": "1c5df3db-f006-4051-a433-91bf55e1d37d"
                   },
                   "Image": {
                     "asset": "asset/Texture/output-onlinepngtools.png"
@@ -263,7 +263,7 @@
                   "effectScale": 0.5,
                   "effectYPosition": 60,
                   "id": {
-                    "value": "fc708aa7-0d24-4e9d-8e48-c40ef04e186a"
+                    "value": "97ce9bad-68c8-4d0c-8d64-ba89040dc806"
                   }
                 },
                 {
@@ -282,7 +282,7 @@
                     "selector": ""
                   },
                   "id": {
-                    "value": "2b0344fc-949d-46dd-9751-2e2b70f75a5d"
+                    "value": "298ac51c-99f7-4e9a-be68-aca4a52858a3"
                   },
                   "name": "QuestBtn3",
                   "NormalImage": {
@@ -313,7 +313,7 @@
                 }
               ],
               "id": {
-                "value": "8228680c-a3aa-4bdd-8ba4-264403b7d3e1"
+                "value": "f4b73e78-6096-4732-aad9-e12c2e64a283"
               },
               "name": "Quest2",
               "pos": {
@@ -347,7 +347,7 @@
                     "VerticalAlignment": "Centre"
                   },
                   "id": {
-                    "value": "b400a228-5c73-47fa-8350-948eaca3c9c6"
+                    "value": "9af0f9af-c59c-404f-a62c-388468cfdca1"
                   },
                   "Image": {
                     "asset": "asset/Texture/output-onlinepngtools.png"
@@ -369,7 +369,7 @@
                   "effectScale": 0.5,
                   "effectYPosition": 60,
                   "id": {
-                    "value": "830853f0-3278-471f-8857-80839c3469c7"
+                    "value": "0844e1e6-592e-434d-9c42-2adb269ce776"
                   }
                 },
                 {
@@ -388,7 +388,7 @@
                     "selector": ""
                   },
                   "id": {
-                    "value": "9664a97f-f78d-4704-9e35-479d4d24a13a"
+                    "value": "a6c2a879-0e83-41b0-8b35-dba98614dc30"
                   },
                   "name": "QuestBtn4",
                   "NormalImage": {
@@ -419,7 +419,7 @@
                 }
               ],
               "id": {
-                "value": "3e7dd436-f60c-4fbb-8706-3f666746a5f6"
+                "value": "b12a8cd2-66d3-46e2-8015-ba9533a98244"
               },
               "name": "Quest3",
               "pos": {
@@ -453,7 +453,7 @@
                     "VerticalAlignment": "Centre"
                   },
                   "id": {
-                    "value": "52844eef-b934-4f93-9037-c71eaca36a24"
+                    "value": "97c9b026-1854-4a19-ad64-d409273844c9"
                   },
                   "Image": {
                     "asset": "asset/Texture/output-onlinepngtools.png"
@@ -475,7 +475,7 @@
                   "effectScale": 0.5,
                   "effectYPosition": 60,
                   "id": {
-                    "value": "6b457746-1d08-43a8-8fd1-21777761dcdf"
+                    "value": "1c42a3e9-7b36-454b-8525-5b445686b0ec"
                   }
                 },
                 {
@@ -494,7 +494,7 @@
                     "selector": ""
                   },
                   "id": {
-                    "value": "a8727232-c222-4d27-938e-3d526ba4bcfd"
+                    "value": "f0807331-9298-4689-8512-612fe5d3ef36"
                   },
                   "name": "QuestBtn5",
                   "NormalImage": {
@@ -525,7 +525,7 @@
                 }
               ],
               "id": {
-                "value": "5314d57e-e080-4680-9f85-71743ce4c396"
+                "value": "fa70d5df-4abc-4707-9319-bead9009b1bc"
               },
               "name": "Quest4",
               "pos": {
@@ -571,7 +571,7 @@
                 "r": 170
               },
               "id": {
-                "value": "68817cd1-56e5-40d2-998d-6a5f374e61d1"
+                "value": "cfb1076a-8a6a-40e0-b732-a2fac6faf523"
               },
               "name": "CloseBtn",
               "NormalImage": {
@@ -613,7 +613,7 @@
             }
           ],
           "id": {
-            "value": "2b9d7316-2dea-43de-a151-7e5217a77201"
+            "value": "5d2a2e3d-7022-4ceb-9270-1d7d2bbaf9f5"
           },
           "Image": {
             "asset": "asset/Texture/output-onlinepngtools (1).png"
@@ -632,7 +632,7 @@
         }
       ],
       "id": {
-        "value": "ba58c91f-e3f2-4df0-aafb-07e874f6cd06"
+        "value": "e470be51-2f54-482d-9289-c4dba57459fd"
       },
       "size": {
         "UDim_X": {
@@ -648,7 +648,7 @@
   },
   "meta": {
     "EXPORT": {
-      "layout": "971aff9e8e656ea68ccce2aba1d681ea",
+      "layout": "c1f728545619e6d96337d114c796efea",
       "triggers.bts": "d1fd7037f4941cd1b8cbfb94bb926990"
     },
     "VERSION": "0.22"

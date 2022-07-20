@@ -6,14 +6,21 @@
         "asset": "asset/effect/Burst_ender_pearl.effect"
       }
     },
+    "cdAnimation": "Clockwise",
     "cdTime": {
       "value": 600
     },
     "consumeVp": 30,
+    "enableCdMask": true,
+    "FillPosition": "Top_With360Degree",
+    "FillType": "With360Degree",
     "name": {
       "value": "skill_c-player-teleport"
     },
     "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_MeleeAttack"
+      },
       "type": "Base"
     },
     "skill_pre": {

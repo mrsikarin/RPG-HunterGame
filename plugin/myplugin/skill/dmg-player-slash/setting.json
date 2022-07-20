@@ -24,7 +24,7 @@
   "bodyYawOffset": [
     0
   ],
-  "castAction": "attack5",
+  "castAction": "attack4",
   "castActionTime": -1,
   "cdMaskConfig": {
     "AntiClockwise": false,

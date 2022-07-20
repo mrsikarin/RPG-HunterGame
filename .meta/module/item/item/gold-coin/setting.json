@@ -13,11 +13,12 @@
       "value": "item_gold-coin"
     },
     "needSave": true,
-    "stack_count_max": 999
+    "stack_count_max": 9999
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "9c7409687700d14b5fc0a9d398dd51ff"
+      "setting.json": "082dab65e8e2c4f120a3f3a01c011698",
+      "triggers.bts": ""
     },
     "VERSION": "0.22"
   }

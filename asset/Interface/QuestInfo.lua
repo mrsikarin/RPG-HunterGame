@@ -5,17 +5,29 @@ local closeBtn = self:child("CloseBtn")
 local reward_txt = self:child("Reward_txt")
 local detail_txt = self:child("Detail_txt")
 
-local status = UI:openWindow("playerUI")
+--local status = UI:openWindow("playerUI")
 
-local quest = {
-  title = "Kill pig",
-  task = 1000,
-  progress = 0,
-  reward = 100
+local questInfo = {
+    {title = "Kill Pig",task = 100,progress = 0,reward = 100},
+    {title = "Kill Turtle Mage",task = 100,progress = 0,reward = 100},
+    {title = "Kill Toad",task = 100,progress = 0,reward = 100},
+    {title = "Kill Skeleton Warrior",task = 100,progress = 0,reward = 100},
+    {title = "Kill Boar",task = 1,progress = 0,reward = 100}
   }
 
-detail_txt:setText(quest.title)
-reward_txt:setText(quest.reward.." bronze coins, ".. quest.reward * 30 .. " exp")
+local quest = questInfo[Me:getValue("questNum")]
+
+
+
+--[[local quest = {
+  title = "Kill pig",
+  task = 100,
+  progress = 0,
+  reward = 100
+  }]]--
+
+detail_txt:setText("Task "..quest.title)
+reward_txt:setText("Reward "..quest.reward.." coins")
 
 
 

@@ -1,7 +1,9 @@
 {
   "_clientScript": [],
-  "_serverScript": [],
-  "actorGirlName": "empty.actor",
+  "_serverScript": [
+    "server/server_script"
+  ],
+  "actorGirlName": "asset/Actor/charactor/charactor_boy/character_boy.actor",
   "actorName": "asset/Actor/charactor/charactor_boy/character_boy.actor",
   "aiFixSpeedRate": 2,
   "attackNpc": false,

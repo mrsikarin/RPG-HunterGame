@@ -1,10 +1,32 @@
 {
   "data": {
-    "__OBJ_TYPE": "SkillSystemCfg"
+    "castAction": {
+      "castAction": "attack4"
+    },
+    "cdAnimation": "Clockwise",
+    "cdTime": {
+      "value": 100
+    },
+    "enableCdMask": true,
+    "FillPosition": "Top_With360Degree",
+    "FillType": "With360Degree",
+    "name": {
+      "value": "3817c404-4a7f-4924-97b7-1135f4e12442"
+    },
+    "skillIcon": {
+      "asset": "asset/Skill/slash.png"
+    },
+    "skillIconPos": {
+      "area_number": 7
+    },
+    "skillIconPushed": {
+      "asset": "asset/Skill/slash-press.png"
+    }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "049d5b98153fc01ed7e63e195ad337e3"
+      "setting.json": "9cc8fcacde8f2df5af47890eb8f612ae",
+      "triggers.bts": ""
     },
     "VERSION": "0.22"
   }

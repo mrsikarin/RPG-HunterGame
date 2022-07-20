@@ -1,9 +1,14 @@
 {
   "data": {
     "castAction": "attack5",
+    "cdAnimation": "Clockwise",
     "cdTime": {
       "value": 100
     },
+    "consumeVp": 5,
+    "enableCdMask": true,
+    "FillPosition": "Top_With360Degree",
+    "FillType": "With360Degree",
     "name": {
       "value": "skill_c-player-water-ball"
     },
@@ -44,7 +49,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "278ac4d259bc49881490f7a7cef64bb0",
+      "setting.json": "e3bcf71fcfa363b84534e4099512a8d4",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

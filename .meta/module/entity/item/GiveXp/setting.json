@@ -1,5 +1,11 @@
 {
   "data": {
+    "AI_attack": {
+      "enable": true
+    },
+    "AI_patrol": {
+      "patrolMode": "randomPath"
+    },
     "canClick": true,
     "name": {
       "value": "entity_GiveXp"
@@ -41,8 +47,8 @@
                 "value": "5497a50b-e00b-4ad4-ae1d-53a168dabf01"
               },
               "pos": {
-                "x": 840,
-                "y": 194
+                "x": 797,
+                "y": 218
               }
             },
             {
@@ -91,7 +97,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "0f2352a4494df6dce509a9f5237107f8",
+      "setting.json": "481035276a02c702564a5b3576ebb3af",
       "triggers.bts": "a5a43ae47929dbbce35db0a5b0170bab"
     },
     "VERSION": "0.22"

@@ -1,7 +1,14 @@
 {
   "data": {
     "castAction": "attack",
+    "cdAnimation": "Clockwise",
+    "cdTime": {
+      "value": 20
+    },
     "consumeVp": 5,
+    "enableCdMask": true,
+    "FillPosition": "Top_With360Degree",
+    "FillType": "With360Degree",
     "name": {
       "value": "skill_c-player-magic-normal"
     },
@@ -25,7 +32,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "e42453356f79611d91f6f9839f35ffae",
+      "setting.json": "aed27a4a3fcd96cc359ae4cc62a0cae5",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

@@ -91,7 +91,7 @@
   },
   "castAction": {
     "__OBJ_TYPE": "SkillReleaseAction",
-    "castAction": "attack5",
+    "castAction": "attack4",
     "castActionTime": {
       "__OBJ_TYPE": "Time",
       "value": 20
@@ -175,7 +175,7 @@
   "missile": "166fe1e7-e4ef-4574-a8bc-f9234319e1ea",
   "name": {
     "__OBJ_TYPE": "Text",
-    "value": "0c4628b3-1404-4817-86f6-4ae2b1d97161"
+    "value": "3817c404-4a7f-4924-97b7-1135f4e12442"
   },
   "preKillTime": {
     "__OBJ_TYPE": "Time",

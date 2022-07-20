@@ -42,8 +42,6 @@
   "enableMoveBrkPreS": false,
   "frontSight": "",
   "horizontalAlignment": 2,
-  "icon": "@asset/Skill/lion_heart.png",
-  "icon_pushed": "@asset/Skill/lion_heart_press.png",
   "ignoreCastSkillBackS": false,
   "ignoreCastSkillPreS": true,
   "ignoreJumpBackS": false,

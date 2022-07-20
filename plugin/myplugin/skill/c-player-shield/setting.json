@@ -42,8 +42,6 @@
   "enableMoveBrkPreS": false,
   "frontSight": "",
   "horizontalAlignment": 2,
-  "icon": "@asset/Skill/shield.png",
-  "icon_pushed": "@asset/Skill/shield_press.png",
   "ignoreCastSkillBackS": false,
   "ignoreCastSkillPreS": true,
   "ignoreJumpBackS": false,

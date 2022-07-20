@@ -1,0 +1,3 @@
+ENTITY_DIE {
+	SendToClient(msg = "client_5fdfb3bc_8340_46e3_8ec1_8ec3700d7ae8", p_quest = "Kill Skeleton Warrior", player = $obj2)
+}

@@ -1,9 +1,13 @@
 {
   "data": {
     "castAction": "attack",
+    "cdAnimation": "Clockwise",
     "cdTime": {
       "value": 20
     },
+    "enableCdMask": true,
+    "FillPosition": "Top_With360Degree",
+    "FillType": "With360Degree",
     "name": {
       "value": "skill_c-player-melee-normal"
     },
@@ -24,7 +28,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "13a663cf67a748127c6452de1e6b95d5",
+      "setting.json": "d09691ad7bab01ac10f4b955053fd3fa",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

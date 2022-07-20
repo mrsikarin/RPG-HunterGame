@@ -46,8 +46,6 @@
   "enableMoveBrkPreS": false,
   "frontSight": "",
   "horizontalAlignment": 2,
-  "icon": "@asset/Skill/power_ball.png",
-  "icon_pushed": "@asset/Skill/power_ball_press.png",
   "ignoreCastSkillBackS": false,
   "ignoreCastSkillPreS": true,
   "ignoreJumpBackS": false,

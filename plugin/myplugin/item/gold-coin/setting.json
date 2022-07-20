@@ -9,7 +9,7 @@
   "itemname": "item_gold-coin",
   "needSave": true,
   "skill": [],
-  "stack_count_max": 999,
+  "stack_count_max": 9999,
   "syncGameData": {
     "currentCapacity": true,
     "extCapacity": true

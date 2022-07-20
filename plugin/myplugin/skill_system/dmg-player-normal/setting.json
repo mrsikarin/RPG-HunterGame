@@ -91,7 +91,7 @@
   },
   "castAction": {
     "__OBJ_TYPE": "SkillReleaseAction",
-    "castAction": "",
+    "castAction": "comboAttack3",
     "castActionTime": {
       "__OBJ_TYPE": "Time",
       "value": 20
@@ -139,16 +139,16 @@
       "value": 1
     }
   },
-  "cdAnimation": "",
+  "cdAnimation": "Clockwise",
   "cdTime": {
     "__OBJ_TYPE": "Time",
-    "value": 0
+    "value": 100
   },
   "damage": 5,
-  "enableCdMask": false,
+  "enableCdMask": true,
   "enableCdTip": false,
-  "FillPosition": "",
-  "FillType": "Horizontal",
+  "FillPosition": "Top_With360Degree",
+  "FillType": "With360Degree",
   "hitEntitySound": {
     "__OBJ_TYPE": "CastSound",
     "loop": false,
@@ -185,16 +185,16 @@
   "skill2": "6a7e2aae-b1fe-4dca-b14d-80e6d7949eb1",
   "skillIcon": {
     "__OBJ_TYPE": "Resource_SkillTexture",
-    "asset": "",
+    "asset": "asset/Skill/spin.png",
     "selector": ""
   },
   "skillIconPos": {
     "__OBJ_TYPE": "SkillIconPos",
-    "area_number": 0
+    "area_number": 7
   },
   "skillIconPushed": {
     "__OBJ_TYPE": "Resource_SkillTexture",
-    "asset": "",
+    "asset": "asset/Skill/spin_press.png",
     "selector": ""
   }
 }

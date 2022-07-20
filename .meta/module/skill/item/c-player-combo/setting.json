@@ -1,10 +1,14 @@
 {
   "data": {
     "castAction": "g2033_skill_sword_05",
+    "cdAnimation": "Clockwise",
     "cdTime": {
       "value": 400
     },
     "consumeVp": 30,
+    "enableCdMask": true,
+    "FillPosition": "Top_With360Degree",
+    "FillType": "With360Degree",
     "name": {
       "value": "skill_c-player-combo"
     },

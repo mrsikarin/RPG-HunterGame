@@ -19,12 +19,96 @@
     "maxHp": 6250,
     "name": {
       "value": "entity_skeleton-warriors-lv.35"
+    },
+    "triggers": {
+      "list": [
+        {
+          "actions": [
+            {
+              "__OBJ_TYPE": "Action_Protocol_SendToClient",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Proto_Params_To_Client",
+                  "params": [
+                    {
+                      "data_type": "T_String",
+                      "key": "quest",
+                      "must": true,
+                      "value": {
+                        "__OBJ_TYPE": "T_String",
+                        "rawval": "Kill Skeleton Warrior"
+                      }
+                    }
+                  ],
+                  "params_default": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Entity",
+                        "action": "27854ccd-57b1-411d-b7b4-8e03b40239f4"
+                      }
+                    }
+                  ],
+                  "proto_id": "5fdfb3bc-8340-46e3-8ec1-8ec3700d7ae8",
+                  "proto_name": "checkQuest",
+                  "proto_type": "client"
+                }
+              ],
+              "id": {
+                "value": "0a77a62b-a226-4325-a27c-bcdce2604c12"
+              },
+              "pos": {
+                "x": 677,
+                "y": 334
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_GetContextVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Context",
+                  "key": "obj2"
+                }
+              ],
+              "id": {
+                "value": "27854ccd-57b1-411d-b7b4-8e03b40239f4"
+              },
+              "pos": {
+                "x": 1157,
+                "y": 352
+              },
+              "type": "T_Entity"
+            }
+          ],
+          "custom_trigger_data": {
+            "name": {
+              "value": "5c9ecb4c-e996-4f5e-93a4-0109e5530215"
+            },
+            "type": "Trigger_EntityDie"
+          },
+          "root": {
+            "components": [
+              {
+                "__OBJ_TYPE": "Component_Sequence",
+                "children": [
+                  {
+                    "action": "0a77a62b-a226-4325-a27c-bcdce2604c12"
+                  }
+                ]
+              }
+            ],
+            "id": {
+              "value": "9f64238a-ddfc-49e9-b051-aeba8ccafc00"
+            }
+          },
+          "type": "Trigger_EntityDie"
+        }
+      ]
     }
   },
   "meta": {
     "EXPORT": {
       "setting.json": "7887668743ac11bfa020d739211c1bda",
-      "triggers.bts": ""
+      "triggers.bts": "1647dacc46589d8e04b803f3b38d8304"
     },
     "VERSION": "0.22"
   }

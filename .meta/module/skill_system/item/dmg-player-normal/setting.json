@@ -1,12 +1,31 @@
 {
   "data": {
+    "castAction": {
+      "castAction": "comboAttack3"
+    },
+    "cdAnimation": "Clockwise",
+    "cdTime": {
+      "value": 100
+    },
+    "enableCdMask": true,
+    "FillPosition": "Top_With360Degree",
+    "FillType": "With360Degree",
     "name": {
       "value": "skill_system_dmg-player-normal"
+    },
+    "skillIcon": {
+      "asset": "asset/Skill/spin.png"
+    },
+    "skillIconPos": {
+      "area_number": 7
+    },
+    "skillIconPushed": {
+      "asset": "asset/Skill/spin_press.png"
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "50b1927d21c5ae13d925150e2bf5922b",
+      "setting.json": "10d2e1a2a19e9feaaa4dc8686b2d2597",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

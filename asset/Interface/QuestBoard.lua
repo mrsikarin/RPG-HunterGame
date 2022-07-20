@@ -12,27 +12,31 @@ end
 
 questBtn1.onMouseClick = function()
   print("open1")
-  
+  Me:setValue("questNum",1,true)
   UI:openWindow("Interface/QuestInfo")
 end
 
 questBtn2.onMouseClick = function()
   print("open2")
+  Me:setValue("questNum",2,true)
   UI:openWindow("Interface/QuestInfo")
 end
 
 questBtn3.onMouseClick = function()
   print("open3")
+  Me:setValue("questNum",3,true)
   UI:openWindow("Interface/QuestInfo")
 end
 
 questBtn4.onMouseClick = function()
   print("open4")
+  Me:setValue("questNum",4,true)
   UI:openWindow("Interface/QuestInfo")
 end
 
 questBtn5.onMouseClick = function()
   print("open5")
+  Me:setValue("questNum",5,true)
   UI:openWindow("Interface/QuestInfo")
 end
 

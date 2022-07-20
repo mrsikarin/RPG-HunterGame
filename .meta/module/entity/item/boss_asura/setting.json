@@ -19,12 +19,8 @@
         }
       ]
     },
-    "boundingVolume": {
-      "size": {
-        "x": 2,
-        "y": 4,
-        "z": 2
-      }
+    "AI_patrol": {
+      "patrolMode": "randomPath"
     },
     "boundingVolumeEntityCfg": {
       "size": {
@@ -37,7 +33,7 @@
     "damage": 500,
     "enableAI": true,
     "girlactor": {
-      "asset": ""
+      "asset": "empty.actor"
     },
     "maxHp": 20000,
     "name": {
@@ -46,7 +42,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "f868ddda4c436ee730473396e90b9043",
+      "setting.json": "40903ba9f0e8d4a648fb46b12aebbc51",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

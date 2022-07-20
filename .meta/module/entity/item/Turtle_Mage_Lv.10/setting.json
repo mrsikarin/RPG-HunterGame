@@ -25,12 +25,96 @@
     "maxHp": 1000,
     "name": {
       "value": "entity_Turtle_Mage_Lv.10"
+    },
+    "triggers": {
+      "list": [
+        {
+          "actions": [
+            {
+              "__OBJ_TYPE": "Action_Protocol_SendToClient",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Proto_Params_To_Client",
+                  "params": [
+                    {
+                      "data_type": "T_String",
+                      "key": "quest",
+                      "must": true,
+                      "value": {
+                        "__OBJ_TYPE": "T_String",
+                        "rawval": "Kill Turtle Mage"
+                      }
+                    }
+                  ],
+                  "params_default": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Entity",
+                        "action": "8ba103f1-d2eb-455d-9db9-99e9ab0324bc"
+                      }
+                    }
+                  ],
+                  "proto_id": "5fdfb3bc-8340-46e3-8ec1-8ec3700d7ae8",
+                  "proto_name": "checkQuest",
+                  "proto_type": "client"
+                }
+              ],
+              "id": {
+                "value": "8467cb2f-57b9-4af1-bbbe-f52f5de012f9"
+              },
+              "pos": {
+                "x": 704,
+                "y": 335
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_GetContextVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Context",
+                  "key": "obj2"
+                }
+              ],
+              "id": {
+                "value": "8ba103f1-d2eb-455d-9db9-99e9ab0324bc"
+              },
+              "pos": {
+                "x": 1225,
+                "y": 347
+              },
+              "type": "T_Entity"
+            }
+          ],
+          "custom_trigger_data": {
+            "name": {
+              "value": "3893c837-7eb6-41f8-be95-f87803be0001"
+            },
+            "type": "Trigger_EntityDie"
+          },
+          "root": {
+            "components": [
+              {
+                "__OBJ_TYPE": "Component_Sequence",
+                "children": [
+                  {
+                    "action": "8467cb2f-57b9-4af1-bbbe-f52f5de012f9"
+                  }
+                ]
+              }
+            ],
+            "id": {
+              "value": "508bd3dc-384e-4f3e-bcd8-03ce25a573ff"
+            }
+          },
+          "type": "Trigger_EntityDie"
+        }
+      ]
     }
   },
   "meta": {
     "EXPORT": {
       "setting.json": "ceb5e6e1a223ef855496920546af586a",
-      "triggers.bts": ""
+      "triggers.bts": "c14aab79915deaee75cc3150f2f5309b"
     },
     "VERSION": "0.22"
   }

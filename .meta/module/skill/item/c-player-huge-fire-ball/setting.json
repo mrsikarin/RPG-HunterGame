@@ -1,10 +1,14 @@
 {
   "data": {
     "castAction": "g2033_skill_chakra_04",
+    "cdAnimation": "Clockwise",
     "cdTime": {
       "value": 600
     },
     "consumeVp": 40,
+    "enableCdMask": true,
+    "FillPosition": "Top_With360Degree",
+    "FillType": "With360Degree",
     "name": {
       "value": "skill_c-player-huge-fire-ball"
     },

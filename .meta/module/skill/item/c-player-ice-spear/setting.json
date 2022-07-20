@@ -1,10 +1,14 @@
 {
   "data": {
     "castAction": "attack5",
+    "cdAnimation": "Clockwise",
     "cdTime": {
       "value": 200
     },
     "consumeVp": 10,
+    "enableCdMask": true,
+    "FillPosition": "Top_With360Degree",
+    "FillType": "With360Degree",
     "name": {
       "value": "skill_c-player-ice-spear"
     },

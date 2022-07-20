@@ -1,10 +1,14 @@
 {
   "data": {
     "castAction": "attack5",
+    "cdAnimation": "Clockwise",
     "cdTime": {
       "value": 100
     },
     "consumeVp": 5,
+    "enableCdMask": true,
+    "FillPosition": "Top_With360Degree",
+    "FillType": "With360Degree",
     "name": {
       "value": "skill_c-player-poison-ball"
     },

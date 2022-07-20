@@ -32,7 +32,7 @@
     "damage": 10,
     "enableAI": true,
     "girlactor": {
-      "asset": ""
+      "asset": "empty.actor"
     },
     "hideHp": false,
     "hpBarHeight": 0.1,
@@ -205,6 +205,60 @@
                 "x": 638,
                 "y": 239
               }
+            },
+            {
+              "__OBJ_TYPE": "Action_Protocol_SendToClient",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Proto_Params_To_Client",
+                  "params": [
+                    {
+                      "data_type": "T_String",
+                      "key": "quest",
+                      "must": true,
+                      "value": {
+                        "__OBJ_TYPE": "T_String",
+                        "rawval": "Kill Pig"
+                      }
+                    }
+                  ],
+                  "params_default": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Entity",
+                        "action": "b82086f8-bb9f-40da-aeb0-16f5ddc14506"
+                      }
+                    }
+                  ],
+                  "proto_id": "5fdfb3bc-8340-46e3-8ec1-8ec3700d7ae8",
+                  "proto_name": "checkQuest",
+                  "proto_type": "client"
+                }
+              ],
+              "id": {
+                "value": "3f9e899f-5ee2-463f-85e3-5a4ee26487ee"
+              },
+              "pos": {
+                "x": 657,
+                "y": 508
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_GetContextVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Context",
+                  "key": "obj2"
+                }
+              ],
+              "id": {
+                "value": "b82086f8-bb9f-40da-aeb0-16f5ddc14506"
+              },
+              "pos": {
+                "x": 1170,
+                "y": 514
+              },
+              "type": "T_Entity"
             }
           ],
           "custom_trigger_data": {
@@ -220,6 +274,9 @@
                 "children": [
                   {
                     "action": "ec5e80da-b431-4554-b13a-e5781dd45be1"
+                  },
+                  {
+                    "action": "3f9e899f-5ee2-463f-85e3-5a4ee26487ee"
                   }
                 ]
               }
@@ -236,7 +293,7 @@
   "meta": {
     "EXPORT": {
       "setting.json": "f200cd20c25e01965e05f6ccd4e5f647",
-      "triggers.bts": "76d0f82937701b2a1ba353c88463e52c"
+      "triggers.bts": "7d80080b6267771603786a7679790c95"
     },
     "VERSION": "0.22"
   }

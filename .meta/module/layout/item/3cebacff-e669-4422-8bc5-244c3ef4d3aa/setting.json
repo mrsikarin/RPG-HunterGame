@@ -1,6 +1,6 @@
 {
   "data": {
-    "md5": "348d8c393ef93ace1ac6c69e81ad58c5",
+    "md5": "7da29d14308d197e515b0a03d5d5f754",
     "path": "asset/Interface/btnAtk.layout",
     "root": {
       "anchor": {
@@ -23,13 +23,14 @@
                 "VerticalAlignment": "Centre"
               },
               "DisabledImage": {
-                "asset": ""
+                "asset": "",
+                "selector": ""
               },
               "HoverImage": {
                 "asset": "asset/Texture/Skill/common/icon_近战攻击_act.png"
               },
               "id": {
-                "value": "6a36d6e5-f820-4ec1-b046-2cfdfc8befcc"
+                "value": "f6e8facd-59a9-40a7-8e6e-a2ab5d82a821"
               },
               "name": "btn_melee",
               "NormalImage": {
@@ -49,7 +50,7 @@
                   "Scale": 0.4
                 },
                 "UDim_Y": {
-                  "Offect": 0,
+                  "Offect": 0.0,
                   "Scale": 0.5
                 }
               },
@@ -62,13 +63,14 @@
                 "VerticalAlignment": "Centre"
               },
               "DisabledImage": {
-                "asset": ""
+                "asset": "",
+                "selector": ""
               },
               "HoverImage": {
                 "asset": "asset/Texture/Skill/common/icon_火球_act.png"
               },
               "id": {
-                "value": "6b495f0d-aa42-4dec-91c5-c5c7ad0dcde1"
+                "value": "e393866c-74d4-4b31-af20-9004d7d85ac2"
               },
               "name": "btn_magic",
               "NormalImage": {
@@ -91,13 +93,13 @@
             }
           ],
           "id": {
-            "value": "f038c6a3-25a4-42dd-b06f-331c8510e441"
+            "value": "56954682-e076-4f8d-ac0f-459890ad50d0"
           },
           "WindowTouchThroughMode": "MousePassThroughAlpha"
         }
       ],
       "id": {
-        "value": "155e3977-f7b9-47fb-81f6-43ba41cd33c5"
+        "value": "b762f5d5-fa0b-45f1-a75a-3ec70f1d9e00"
       },
       "size": {
         "UDim_X": {
@@ -114,7 +116,7 @@
   },
   "meta": {
     "EXPORT": {
-      "layout": "348d8c393ef93ace1ac6c69e81ad58c5",
+      "layout": "7da29d14308d197e515b0a03d5d5f754",
       "triggers.bts": "d1fd7037f4941cd1b8cbfb94bb926990"
     },
     "VERSION": "0.22"

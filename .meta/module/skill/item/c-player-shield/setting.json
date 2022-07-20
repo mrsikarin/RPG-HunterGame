@@ -1,10 +1,14 @@
 {
   "data": {
     "castAction": "g2033_skill_chakra_05",
+    "cdAnimation": "Clockwise",
     "cdTime": {
       "value": 600
     },
     "consumeVp": 20,
+    "enableCdMask": true,
+    "FillPosition": "Top_With360Degree",
+    "FillType": "With360Degree",
     "name": {
       "value": "skill_c-player-shield"
     },
@@ -41,7 +45,8 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "52c871383e9401b8593af06524023c02"
+      "setting.json": "cd12d3482585c83e164671c959a27308",
+      "triggers.bts": ""
     },
     "VERSION": "0.22"
   }
