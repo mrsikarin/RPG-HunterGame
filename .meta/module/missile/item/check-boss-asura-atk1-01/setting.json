@@ -1,15 +1,5 @@
 {
   "data": {
-    "boundingVolume": {
-      "position": {
-        "y": -1
-      },
-      "size": {
-        "x": 1,
-        "y": 2,
-        "z": 1
-      }
-    },
     "boundingVolumeMissileCfg": {
       "position": {
         "y": -1
@@ -37,7 +27,7 @@
     "lifeTime": {
       "value": 20
     },
-    "moveSpeed": 25,
+    "moveSpeed": 25.0,
     "name": {
       "value": "missile_check-boss-asura-atk1-01"
     },
@@ -50,7 +40,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "01b603d3c3d234dd76be4a9e2a0de340",
+      "setting.json": "b614e00c877a35d4503b2b53fa4300e9",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

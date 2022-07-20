@@ -1,0 +1,35 @@
+{
+  "data": {
+    "castAction": "attack",
+    "cdTime": {
+      "value": 20
+    },
+    "name": {
+      "value": "skill_c-player-melee-normal"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_Missile",
+        "missile": [
+          {
+            "missileCfg": "myplugin/check-player-melee-normal01",
+            "startWait": {
+              "value": 5
+            }
+          }
+        ],
+        "target": {
+          "type": "Self"
+        }
+      },
+      "type": "Missile"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "09808646d144b50a087badbbe883628e",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

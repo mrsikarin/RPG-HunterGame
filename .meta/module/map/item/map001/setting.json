@@ -16,7 +16,15 @@
         "id": "8712104223751454721",
         "ID": 1,
         "lightType": "GlobalLight",
-        "name": "EnvironmentLight"
+        "name": "EnvironmentLight",
+        "skyColor": {
+          "b": 141,
+          "g": 133
+        },
+        "skyLineColor": {
+          "g": 60,
+          "r": 62
+        }
       },
       {
         "__OBJ_TYPE": "Instance_Light",
@@ -29,6 +37,14 @@
         },
         "rotation": {
           "y": -90
+        },
+        "skyColor": {
+          "b": 141,
+          "g": 133
+        },
+        "skyLineColor": {
+          "g": 60,
+          "r": 62
         }
       },
       {
@@ -37,11 +53,6 @@
         "density": 2.2,
         "friction": 0.37,
         "id": "8712723761132552193",
-        "massCenter": {
-          "x": -0.43722677230835,
-          "y": 1.4998989105225,
-          "z": 0.5340404510498
-        },
         "position": {
           "x": -0.43722677230835,
           "y": 1.4998989105225,
@@ -146,7 +157,7 @@
   "meta": {
     "EXPORT": {
       "DataSet": [],
-      "setting.json": "1f97133b6a904361a36677801de9b9b7"
+      "setting.json": "39765fd9f0233d884dd8bf5fcd681193"
     },
     "VERSION": "0.22"
   }

@@ -1,0 +1,72 @@
+{
+  "data": {
+    "boundingVolume": {
+      "position": {
+        "z": 2
+      },
+      "size": {
+        "x": 4,
+        "y": 4,
+        "z": 4
+      }
+    },
+    "boundingVolumeMissileCfg": {
+      "position": {
+        "z": 2
+      },
+      "size": {
+        "x": 4,
+        "y": 4,
+        "z": 4
+      }
+    },
+    "followTarget": true,
+    "hitEntityEffect": {
+      "effect": {
+        "asset": "asset/effect/Burst_death2.effect"
+      }
+    },
+    "hitEntitySkill": "myplugin/dmg-player-normal",
+    "hitEntitySound": {
+      "sound": {
+        "asset": "asset/Sound/punchhit.mp3"
+      }
+    },
+    "missileModel": {
+      "modelMesh": {
+        "asset": "asset/Mesh/item/Blue Frost Sword/crystal_sword.mesh"
+      },
+      "modelSizeScale": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "type": "mesh"
+    },
+    "moveSpeed": 0,
+    "name": {
+      "value": "missile_check-player-melee-normal01"
+    },
+    "startEffect": {
+      "once": true,
+      "scale": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "yaw": 90
+    },
+    "startSound": {
+      "sound": {
+        "asset": "asset/Sound/karate-chop-6357 (mp3cut.net).mp3"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "3d87fbd74c5cec2741284239a0fa3200",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

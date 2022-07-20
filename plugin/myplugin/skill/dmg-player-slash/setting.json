@@ -24,24 +24,8 @@
   "bodyYawOffset": [
     0
   ],
-  "castAction": "g2033_train_sword_01",
+  "castAction": "attack5",
   "castActionTime": -1,
-  "castEffect": {
-    "effect": "asset/effect/Track_footman_attack.effect",
-    "once": true,
-    "pos": {
-      "x": 0,
-      "y": 1,
-      "z": 1
-    },
-    "scale": {
-      "x": 1.5,
-      "y": 1.5,
-      "z": 1.5
-    },
-    "selfOnly": false,
-    "yaw": 90
-  },
   "cdMaskConfig": {
     "AntiClockwise": false,
     "FillPosition": "Top_With360Degree",

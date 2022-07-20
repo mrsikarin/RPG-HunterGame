@@ -1,0 +1,33 @@
+<ActorTemplates>
+	<ActorTemplate TextHeight="0" WoundAngle="25" IsShowShadow="true" name="111.actor" WoundBone="" Skeleton="bone001.skel" MinDistance="1" Originalscale="1 1 1" SoundName1="" AttackScale="1" Alpha="1" SoundFileNum="0" SelectedRingSize="1" SoundName3="" IntervalTime="2" SoundName4="" Volume="0.8" MaxDistance="16" SoundName5="" SoundName2="">
+		<Anims/>
+		<BodyParts>
+			<BodyPart SlaveName="1" MasterName="1" ColorParams="1 1 1 1" EdgeColor="1 1 1 1" DefaultUse="true">
+				<StaticMesh DiscardAlpha="0" type_name="g2044_1020_gate02" LocalAlpha="1">
+					<pitch value="0"/>
+					<UseOriginalcolor value="false"/>
+					<SpecularCoef value="0.15"/>
+					<FileName value="g2044_1020_gate02.mesh"/>
+					<UseOverlayColorReplaceMode value="false"/>
+					<Position_Z value="0"/>
+					<SocketName value="bone001"/>
+					<Position_X value="0"/>
+					<roll value="0"/>
+					<SpecularColor value="1.0 1.0 1.0 1.0"/>
+					<Position_Y value="0"/>
+					<UseBloom value="false"/>
+					<scale value="1.0"/>
+					<LocalBrightnessScale value="1"/>
+					<OverlayColor value="1.0 1.0 1.0 1.0"/>
+					<SpecularStrength value="1.0"/>
+					<EdgeColor value="1.0 0 0 1.0"/>
+					<UseReflect value="false"/>
+					<UseTransparentNearestSlice value="false"/>
+					<UseEdge value="false"/>
+					<yaw value="0"/>
+				</StaticMesh>
+			</BodyPart>
+		</BodyParts>
+		<Skills/>
+	</ActorTemplate>
+</ActorTemplates>

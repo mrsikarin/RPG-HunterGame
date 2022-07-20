@@ -21,7 +21,7 @@
       "__OBJ_TYPE": "Vector3",
       "x": 0.0,
       "y": 0.0,
-      "z": 1
+      "z": 0.0
     },
     "preview_dialog": {
       "__OBJ_TYPE": "CollisionboxPreview",
@@ -63,7 +63,7 @@
       "__OBJ_TYPE": "Vector3",
       "x": 0.0,
       "y": 0.0,
-      "z": 1
+      "z": 0.0
     },
     "radius": 0.5,
     "radius_c": 0.5,
@@ -91,7 +91,7 @@
   },
   "castAction": {
     "__OBJ_TYPE": "SkillReleaseAction",
-    "castAction": "g2033_train_sword_01",
+    "castAction": "attack5",
     "castActionTime": {
       "__OBJ_TYPE": "Time",
       "value": 20
@@ -102,24 +102,24 @@
     "__OBJ_TYPE": "EntityEffect",
     "effect": {
       "__OBJ_TYPE": "Resource_Effect",
-      "asset": "asset/effect/Track_footman_attack.effect",
+      "asset": "",
       "selector": ""
     },
     "once": true,
     "pos": {
       "__OBJ_TYPE": "Vector3",
       "x": 0,
-      "y": 1,
-      "z": 1
+      "y": 0,
+      "z": 0
     },
     "scale": {
       "__OBJ_TYPE": "Vector3",
-      "x": 1.5,
-      "y": 1.5,
-      "z": 1.5
+      "x": 1,
+      "y": 1,
+      "z": 1
     },
     "selfOnly": false,
-    "yaw": 90
+    "yaw": 0
   },
   "castInterval": {
     "__OBJ_TYPE": "Time",
@@ -175,7 +175,7 @@
   "missile": "166fe1e7-e4ef-4574-a8bc-f9234319e1ea",
   "name": {
     "__OBJ_TYPE": "Text",
-    "value": "skill_system_dmg-player-slash"
+    "value": "0c4628b3-1404-4817-86f6-4ae2b1d97161"
   },
   "preKillTime": {
     "__OBJ_TYPE": "Time",

@@ -46,6 +46,8 @@
   "enableMoveBrkPreS": false,
   "frontSight": "",
   "horizontalAlignment": 1,
+  "icon": "",
+  "icon_pushed": "",
   "ignoreCastSkillBackS": false,
   "ignoreCastSkillPreS": true,
   "ignoreJumpBackS": false,

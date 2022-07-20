@@ -1,3 +1,0 @@
-SKILL_CAST {
-	AddEntityBuff(buffTime = 30, cfg = "myplugin/player-freeze-pos", entity = $obj1)
-}

@@ -22,7 +22,7 @@
   "buffCfg": "myplugin/mana-recovery",
   "buffTime": 100,
   "castAction": "g2030_train_chakra",
-  "castActionTime": 100,
+  "castActionTime": -1,
   "cdMaskConfig": {
     "AntiClockwise": false,
     "FillPosition": "Top_With360Degree",

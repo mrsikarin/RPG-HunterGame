@@ -6,7 +6,7 @@ Trigger.RegisterHandler(cfg, "HAND_ITEM_CHANGED", function(context)
     local index = 0
     print("Change")
     if newItem ~= nil then 
-      if string.match(newItem:full_name(),"Sword") then                        
+      if string.match(newItem:full_name(),"sword") then                        
         index = 1
       end     
     end

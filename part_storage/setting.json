@@ -1,0 +1,69 @@
+[
+  {
+    "children": [
+      {
+        "class": "EffectPart",
+        "customProperties": [],
+        "properties": {
+          "batchType": "Static",
+          "effectFilePath": "asset/effect/Marker_exclamation_mark.effect",
+          "id": "8721593991720763393",
+          "loopCount": "1",
+          "loopInterval": "0.0",
+          "loopReset": "false",
+          "name": "EffectPart",
+          "needSync": "true",
+          "position": "x:25.836198806763 y:5.3505902290344 z:26.011720657349",
+          "rotation": "x:0 y:0 z:0",
+          "scale": "x:0.999999 y:0.999999 z:1",
+          "selectable": "true",
+          "useAnchor": "false",
+          "visible": "true"
+        }
+      }
+    ],
+    "class": "MeshPart",
+    "customProperties": [],
+    "properties": {
+      "angleVelocity": "x:0 y:0 z:0",
+      "autoAnchor": "true",
+      "batchType": "Static",
+      "bloom": "false",
+      "booleanOperation": "0",
+      "btsKey": "4da96bef-7b4f-4e54-be66-1a8751d35787",
+      "cameraCollideEnable": "true",
+      "collisionFidelity": "0",
+      "collisionUniqueKey": "8721593991719665665",
+      "customThreshold": "1",
+      "density": "2.2",
+      "discardAlpha": "0.0",
+      "friction": "0.37",
+      "id": "8721593991719665665",
+      "isLockedInEditor": "false",
+      "isVisibleInEditor": "true",
+      "lineVelocity": "x:0 y:0 z:0",
+      "mass": "40.545711135864",
+      "materialAlpha": "1.0",
+      "materialColor": "r:1.0 g:1.0 b:1.0 a:1.0",
+      "materialOffset": "x:1 y:1 z:1.0",
+      "materialTexture": "part_suliao.tga",
+      "mesh": "asset/Mesh/Wooden Notice Board/g2021_xinshoucun_zhaopai.mesh",
+      "metalness": "0",
+      "name": "Quest_board",
+      "needSync": "true",
+      "partNavMeshType": "1",
+      "position": "x:25.836099624634 y:2.8505947589874 z:26.01171875",
+      "restitution": "0.3",
+      "rotation": "x:0 y:0 z:0",
+      "roughness": "0.9",
+      "scale": "x:1 y:1 z:1",
+      "selectable": "true",
+      "staticBatchNo": "1",
+      "staticObject": "false",
+      "useAnchor": "true",
+      "useCollide": "true",
+      "useGravity": "true",
+      "useTextureAlpha": "false"
+    }
+  }
+]

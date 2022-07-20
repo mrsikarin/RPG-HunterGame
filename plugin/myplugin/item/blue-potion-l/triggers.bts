@@ -1,5 +1,5 @@
 REMOVE_ITEM_AT_COUNT {
 	StartTimer2(interval = 20, object = $obj1, time = 5, timer = "") {
-		AddEntityVp(entity = $obj1, step = 100)
+		AddEntityVp(entity = $obj1, step = 50)
 	}
 }

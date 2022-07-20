@@ -1,0 +1,27 @@
+{
+  "data": {
+    "actorName": {
+      "asset": "asset/Actor/Goggles Breaded Man/Blue Mario Without Hat.actor"
+    },
+    "AI_attack": {
+      "enable": true
+    },
+    "AI_patrol": {
+      "patrolMode": "randomPath"
+    },
+    "girlactor": {
+      "asset": "asset/Actor/Goggles Breaded Man/Blue Mario Without Hat.actor"
+    },
+    "name": {
+      "value": "entity_Merchant"
+    },
+    "unAssailable": true,
+    "unDamageable": true
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "761630aaa4ee42120c0d00a43551aa46"
+    },
+    "VERSION": "0.22"
+  }
+}

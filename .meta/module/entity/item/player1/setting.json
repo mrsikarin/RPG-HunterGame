@@ -1,12 +1,10 @@
 {
   "data": {
     "actorModel": {
-      "actorName": {
-        "asset": ""
-      },
       "girlactor": {
         "asset": ""
-      }
+      },
+      "modelType": "Customize"
     },
     "AI_attack": {
       "enable": true
@@ -18,8 +16,7 @@
       "patrolMode": "randomPath"
     },
     "boundingVolume": {
-      "height": 1.7,
-      "radius": 0.43,
+      "height": 1.5,
       "type": "Capsule"
     },
     "canRevive": true,
@@ -44,6 +41,10 @@
     "reviveTime": {
       "value": 40
     },
+    "skill": [
+      "myplugin/c-player-hp-recovery",
+      "myplugin/c-player-mana-recovery"
+    ],
     "triggers": {
       "list": [
         {
@@ -138,7 +139,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "ec55bdf6d6d56bc39d9ed60ea5b40dab",
+      "setting.json": "93e9a946c83cc1d9e51045bc1319bf34",
       "triggers.bts": "7e6a3af0ea62ebda82bb55655ce50636"
     },
     "VERSION": "0.22"

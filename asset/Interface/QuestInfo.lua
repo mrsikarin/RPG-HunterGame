@@ -9,9 +9,9 @@ local status = UI:openWindow("playerUI")
 
 local quest = {
   title = "Kill pig",
-  task = 1,
+  task = 1000,
   progress = 0,
-  reward = 10
+  reward = 100
   }
 
 detail_txt:setText(quest.title)

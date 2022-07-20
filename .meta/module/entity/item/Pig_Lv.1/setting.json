@@ -32,7 +32,7 @@
     "damage": 10,
     "enableAI": true,
     "girlactor": {
-      "asset": "empty.actor"
+      "asset": ""
     },
     "hideHp": false,
     "hpBarHeight": 0.1,

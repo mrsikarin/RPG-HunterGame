@@ -1,15 +1,5 @@
 {
   "data": {
-    "boundingVolume": {
-      "position": {
-        "y": -1
-      },
-      "size": {
-        "x": 1,
-        "y": 2,
-        "z": 1
-      }
-    },
     "boundingVolumeMissileCfg": {
       "position": {
         "y": -1
@@ -37,7 +27,7 @@
     "lifeTime": {
       "value": 20
     },
-    "moveSpeed": 25,
+    "moveSpeed": 25.0,
     "name": {
       "value": "4d8dfa2f-3679-4941-a280-fc3b8566ca8a"
     },
@@ -50,7 +40,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "fcd51df5f4d772154eb9cba8c340ff38",
+      "setting.json": "848bf85798a210858782b8529ea01dda",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

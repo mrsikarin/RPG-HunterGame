@@ -17,9 +17,9 @@ PackageHandlers.registerServerHandler("refreshBar", function(player, packet)
   PackageHandlers.sendServerHandler(player,"refreshBar",{})
 end)
 
---[[PackageHandlers.registerServerHandler("questUpdate", function(player, packet)
+PackageHandlers.registerServerHandler("questUpdate", function(player, packet)
   PackageHandlers.sendServerHandler(player,"questUpdate",{})
-end)]]--
+end)
 
 PackageHandlers.registerServerHandler("CreatePopUp", function(player, packet)
   local map = player.map

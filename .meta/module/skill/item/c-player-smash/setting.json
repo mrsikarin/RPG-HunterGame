@@ -43,12 +43,14 @@
       },
       "iconPos": {
         "area_number": 8
-      }
+      },
+      "isClickIcon": true
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "9562e440105e1cb6b0cbad129ba93d40"
+      "setting.json": "9562e440105e1cb6b0cbad129ba93d40",
+      "triggers.bts": ""
     },
     "VERSION": "0.22"
   }

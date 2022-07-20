@@ -10,16 +10,12 @@
     "startEffect": {
       "effect": {
         "asset": "asset/effect/Marker_circle.effect"
-      },
-      "scale": {
-        "x": 4,
-        "z": 4
       }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "06b126dcda4ba632201d62949c52ceea",
+      "setting.json": "f2f89262868756336f7f1a2d9e0bd53b",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

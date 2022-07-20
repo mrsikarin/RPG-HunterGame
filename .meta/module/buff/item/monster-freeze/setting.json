@@ -5,14 +5,14 @@
         "asset": "asset/effect/Continuous_frozen.effect"
       }
     },
-    "moveSpeed": -10,
+    "moveSpeed": -10.0,
     "name": {
       "value": "buff_monster-freeze"
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "4785806805495f0ca64ad92f3f1d8663"
+      "setting.json": "c4a13969b728b23b41a2cde3cc2829a1"
     },
     "VERSION": "0.22"
   }

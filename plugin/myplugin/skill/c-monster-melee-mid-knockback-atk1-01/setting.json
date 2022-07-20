@@ -29,8 +29,8 @@
   "castActionTime": -1,
   "cdMaskConfig": {
     "AntiClockwise": false,
-    "FillPosition": "",
-    "FillType": "Horizontal",
+    "FillPosition": "Top_With360Degree",
+    "FillType": "With360Degree",
     "horizontalAlignment": 1,
     "verticalAlignment": 1
   },
@@ -40,7 +40,7 @@
   "draggingEnabled": false,
   "enable_pre": false,
   "enable_rear": false,
-  "enableCdMask": false,
+  "enableCdMask": true,
   "enableCdTip": false,
   "enableMoveBrkBackS": false,
   "enableMoveBrkPreS": false,

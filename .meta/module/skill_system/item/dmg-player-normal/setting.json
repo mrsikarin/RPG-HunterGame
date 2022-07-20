@@ -1,0 +1,14 @@
+{
+  "data": {
+    "name": {
+      "value": "skill_system_dmg-player-normal"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "50b1927d21c5ae13d925150e2bf5922b",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}
