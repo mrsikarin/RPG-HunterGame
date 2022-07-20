@@ -26,22 +26,20 @@
         "asset": "asset/effect/Burst_death2.effect"
       }
     },
-    "hitEntitySkill": "myplugin/dmg-player-normal",
     "hitEntitySound": {
       "sound": {
         "asset": "asset/Sound/punchhit.mp3"
       }
     },
+    "lifeTime": {
+      "value": 4
+    },
     "missileModel": {
-      "modelMesh": {
-        "asset": "asset/Mesh/item/Blue Frost Sword/crystal_sword.mesh"
-      },
       "modelSizeScale": {
         "x": 2,
         "y": 2,
         "z": 2
-      },
-      "type": "mesh"
+      }
     },
     "moveSpeed": 0,
     "name": {
@@ -64,7 +62,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "3d87fbd74c5cec2741284239a0fa3200",
+      "setting.json": "bdc74a338805b7ff59354037b5fdbc49",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

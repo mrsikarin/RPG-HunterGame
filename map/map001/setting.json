@@ -41,8 +41,8 @@
         "shadowsOffset": "0.02",
         "shadowsPresicion": "1024",
         "shadowsType": "null",
-        "skyColor": "r:0.49803921568627 g:0.51764705882353 b:0.54901960784314 a:1.0",
-        "skyLineColor": "r:0.24313725490196 g:0.23137254901961 b:0.2078431372549 a:1.0",
+        "skyColor": "r:0.49803921568627 g:0.52156862745098 b:0.55294117647059 a:1.0",
+        "skyLineColor": "r:0.24313725490196 g:0.23529411764706 b:0.2078431372549 a:1.0",
         "useAnchor": "false"
       }
     },
@@ -72,8 +72,8 @@
         "shadowsOffset": "0.02",
         "shadowsPresicion": "1024",
         "shadowsType": "null",
-        "skyColor": "r:0.49803921568627 g:0.51764705882353 b:0.54901960784314 a:1.0",
-        "skyLineColor": "r:0.24313725490196 g:0.23137254901961 b:0.2078431372549 a:1.0",
+        "skyColor": "r:0.49803921568627 g:0.52156862745098 b:0.55294117647059 a:1.0",
+        "skyLineColor": "r:0.24313725490196 g:0.23529411764706 b:0.2078431372549 a:1.0",
         "useAnchor": "false"
       }
     },
@@ -117,40 +117,6 @@
         "useCollide": "true",
         "useGravity": "true",
         "useTextureAlpha": "false"
-      }
-    },
-    {
-      "class": "DropItem",
-      "config": "myplugin/Sword_Lv.1",
-      "customProperties": [],
-      "properties": {
-        "batchType": "Static",
-        "fixRotation": false,
-        "id": "8712782691736813569",
-        "name": "DropItem",
-        "needSync": "true",
-        "position": "x:2.8635430335999 y:0.99990081787109 z:7.1375532150269",
-        "rotation": "x:0 y:0 z:0",
-        "scale": "x:1 y:1 z:1",
-        "selectable": "true",
-        "useAnchor": "false"
-      }
-    },
-    {
-      "class": "DropItem",
-      "config": "myplugin/Sword_Lv.1",
-      "customProperties": [],
-      "properties": {
-        "batchType": "Static",
-        "fixRotation": false,
-        "id": "8712782703747678209",
-        "name": "DropItem",
-        "needSync": "true",
-        "position": "x:-2.2054991722107 y:0.99989902973175 z:5.152250289917",
-        "rotation": "x:0 y:0 z:0",
-        "scale": "x:1 y:1 z:1",
-        "selectable": "true",
-        "useAnchor": "false"
       }
     },
     {
@@ -243,6 +209,74 @@
         "name": "Skeleton Warriors Lv.35",
         "needSync": "true",
         "position": "x:-1.5841760635376 y:0.99989914894104 z:51.556587219238",
+        "rotation": "x:0 y:0 z:0",
+        "scale": "x:1 y:1 z:1",
+        "selectable": "true",
+        "useAnchor": "false"
+      }
+    },
+    {
+      "class": "DropItem",
+      "config": "myplugin/Sword_Lv.1",
+      "customProperties": [],
+      "properties": {
+        "batchType": "Static",
+        "fixRotation": false,
+        "id": "8722565542844350465",
+        "name": "DropItem",
+        "needSync": "true",
+        "position": "x:10.544006347656 y:0.99990081787109 z:32.316108703613",
+        "rotation": "x:0 y:0 z:0",
+        "scale": "x:1 y:1 z:1",
+        "selectable": "true",
+        "useAnchor": "false"
+      }
+    },
+    {
+      "class": "DropItem",
+      "config": "myplugin/Sword_Lv.1",
+      "customProperties": [],
+      "properties": {
+        "batchType": "Static",
+        "fixRotation": false,
+        "id": "8722565553537908737",
+        "name": "DropItem",
+        "needSync": "true",
+        "position": "x:9.9240484237671 y:0.99990093708038 z:27.257801055908",
+        "rotation": "x:0 y:0 z:0",
+        "scale": "x:1 y:1 z:1",
+        "selectable": "true",
+        "useAnchor": "false"
+      }
+    },
+    {
+      "class": "DropItem",
+      "config": "myplugin/iron-sword-05",
+      "customProperties": [],
+      "properties": {
+        "batchType": "Static",
+        "fixRotation": false,
+        "id": "8722566854749618177",
+        "name": "DropItem",
+        "needSync": "true",
+        "position": "x:7.9166436195374 y:0.99990081787109 z:32.504928588867",
+        "rotation": "x:0 y:0 z:0",
+        "scale": "x:1 y:1 z:1",
+        "selectable": "true",
+        "useAnchor": "false"
+      }
+    },
+    {
+      "class": "DropItem",
+      "config": "myplugin/iron-sword-05",
+      "customProperties": [],
+      "properties": {
+        "batchType": "Static",
+        "fixRotation": false,
+        "id": "8722566860691161089",
+        "name": "DropItem",
+        "needSync": "true",
+        "position": "x:7.1661233901978 y:0.99989712238312 z:29.173614501953",
         "rotation": "x:0 y:0 z:0",
         "scale": "x:1 y:1 z:1",
         "selectable": "true",

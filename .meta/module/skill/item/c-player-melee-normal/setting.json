@@ -12,10 +12,7 @@
         "__OBJ_TYPE": "Skill_Missile",
         "missile": [
           {
-            "missileCfg": "myplugin/check-player-melee-normal01",
-            "startWait": {
-              "value": 5
-            }
+            "missileCfg": "myplugin/check-player-melee-normal01"
           }
         ],
         "target": {
@@ -27,7 +24,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "09808646d144b50a087badbbe883628e",
+      "setting.json": "13a663cf67a748127c6452de1e6b95d5",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

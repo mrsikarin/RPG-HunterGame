@@ -13,11 +13,11 @@
     },
     "follow_viewFovAngle": 90,
     "initPos": {
-      "map": "Town01",
+      "map": "map001",
       "pos": {
-        "x": 0.64407444000244,
+        "x": 7.5491962432861,
         "y": 1.0399008178711,
-        "z": -8.1055450439453
+        "z": 23.399381637573
       }
     },
     "nowTime": {
@@ -786,11 +786,11 @@
       }
     ],
     "startPos": {
-      "map": "Town01",
+      "map": "map001",
       "pos": {
-        "x": 0.19260692596436,
+        "x": 8.953067779541,
         "y": 1.0399008178711,
-        "z": -8.168514251709
+        "z": 23.041791915894
       }
     },
     "triggers": {
@@ -922,7 +922,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "cd242f44d9efb1c792bdc4a734932c11",
+      "setting.json": "b12d6c4946d6981aded5a0fd4971791e",
       "shop.csv": "c256799f4dc6eeba0d8f4ab955cb0c18",
       "triggers.bts": "03957072b289bfabd1af1141ddd49379",
       "triggers_client.bts": "f43681c948d0a966a463e518b8ceec0d"

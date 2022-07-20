@@ -42,7 +42,6 @@
     },
     "yaw": 0
   },
-  "hitEntitySkill": "myplugin/dmg-player-normal",
   "hitEntitySound": {
     "loop": false,
     "path": "asset/Sound/punchhit.mp3",
@@ -57,11 +56,10 @@
   ],
   "hitInterval": 10,
   "isPitch": true,
-  "lifeTime": 100,
+  "lifeTime": 4,
   "lockRotateBodyPitch": 0,
   "lockRotateBodyRoll": 0,
   "lockRotateBodyYaw": 0,
-  "modelMesh": "asset/Mesh/item/Blue Frost Sword/crystal_sword.mesh",
   "modelSizeScale": {
     "x": 2,
     "y": 2,

@@ -61,26 +61,6 @@
         "restitution": 0.3
       },
       {
-        "__OBJ_TYPE": "Instance_DropItem",
-        "config": "myplugin/Sword_Lv.1",
-        "id": "8712782691736813569",
-        "position": {
-          "x": 2.8635430335999,
-          "y": 0.99990081787109,
-          "z": 7.1375532150269
-        }
-      },
-      {
-        "__OBJ_TYPE": "Instance_DropItem",
-        "config": "myplugin/Sword_Lv.1",
-        "id": "8712782703747678209",
-        "position": {
-          "x": -2.2054991722107,
-          "y": 0.99989902973175,
-          "z": 5.152250289917
-        }
-      },
-      {
         "__OBJ_TYPE": "Instance_Entity",
         "config": "myplugin/Blue_Fluffy_Lv.5",
         "id": "8712802402836381697",
@@ -145,6 +125,46 @@
           "y": 0.99989914894104,
           "z": 51.556587219238
         }
+      },
+      {
+        "__OBJ_TYPE": "Instance_DropItem",
+        "config": "myplugin/Sword_Lv.1",
+        "id": "8722565542844350465",
+        "position": {
+          "x": 10.544006347656,
+          "y": 0.99990081787109,
+          "z": 32.316108703613
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_DropItem",
+        "config": "myplugin/Sword_Lv.1",
+        "id": "8722565553537908737",
+        "position": {
+          "x": 9.9240484237671,
+          "y": 0.99990093708038,
+          "z": 27.257801055908
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_DropItem",
+        "config": "myplugin/iron-sword-05",
+        "id": "8722566854749618177",
+        "position": {
+          "x": 7.9166436195374,
+          "y": 0.99990081787109,
+          "z": 32.504928588867
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_DropItem",
+        "config": "myplugin/iron-sword-05",
+        "id": "8722566860691161089",
+        "position": {
+          "x": 7.1661233901978,
+          "y": 0.99989712238312,
+          "z": 29.173614501953
+        }
       }
     ],
     "name": {
@@ -157,7 +177,7 @@
   "meta": {
     "EXPORT": {
       "DataSet": [],
-      "setting.json": "39765fd9f0233d884dd8bf5fcd681193"
+      "setting.json": "4f7e8bc55cb8fafbeccb9bc968b98505"
     },
     "VERSION": "0.22"
   }
