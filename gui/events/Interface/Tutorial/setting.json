@@ -1,0 +1,19 @@
+{
+  "widget": [
+    {
+      "btsKey": "80647ea5-6f92-49a7-9eea-47faaa4711bb",
+      "md5": "23df26c7532bcbb031e346bf2c96af67",
+      "name": "BG/backBtn"
+    },
+    {
+      "btsKey": "54068456-4d3b-4e06-98e3-9b80abc4d967",
+      "md5": "dea9ffb30fd77b22640d7bff198986ca",
+      "name": "BG/closeBtn"
+    },
+    {
+      "btsKey": "ca256afd-2b64-4cb1-b29b-0cd07d7718eb",
+      "md5": "b4fb8377eba7e3ed90db69ab6ce34631",
+      "name": "BG/nextBtn"
+    }
+  ]
+}

@@ -768,38 +768,6 @@
         "z": -14
       }
     },
-    "triggers": {
-      "list": [
-        {
-          "custom_trigger_data": {
-            "name": {
-              "value": "178bbfd1-8f7d-4913-bf66-f072973d3344"
-            },
-            "type": "Trigger_RegisterServerProto"
-          },
-          "func_name": "serverMessage_1",
-          "proto_uuid": "b00630f5-3a4d-4a9a-8716-826f6fa10603",
-          "root": {
-            "components": [
-              {
-                "__OBJ_TYPE": "Component_Sequence",
-                "children": [
-                  []
-                ]
-              }
-            ],
-            "id": {
-              "value": "6d854761-da1a-4a6f-a85e-8f31918ce0b0"
-            },
-            "pos": {
-              "x": 589,
-              "y": 250
-            }
-          },
-          "type": "Trigger_RegisterServerProto"
-        }
-      ]
-    },
     "triggers_client": {
       "list": [
         {
@@ -1043,15 +1011,26 @@
       ]
     },
     "unlimitedPlayTime": true,
+    "vars": {
+      "ui": [
+        {
+          "key": "page",
+          "run_type": "client",
+          "value": {
+            "rawval": 1
+          }
+        }
+      ]
+    },
     "waitGoTime": {
       "value": 20
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "ce2531220ac5f72e92d8702aa7205242",
+      "setting.json": "10c75217e10be5a3cca1bd60598f8edd",
       "shop.csv": "f93e4c457525927bfd596a340c62b16f",
-      "triggers.bts": "03957072b289bfabd1af1141ddd49379",
+      "triggers.bts": "",
       "triggers_client.bts": "e11103eded792282992e4f52a5c539ce"
     },
     "VERSION": "0.22"

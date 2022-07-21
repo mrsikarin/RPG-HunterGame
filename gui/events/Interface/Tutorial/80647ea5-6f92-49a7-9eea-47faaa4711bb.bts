@@ -1,0 +1,35 @@
+WIDGET_CLICKED {
+	If (GetUIVar(instance = $rootInstance, key = "page") > 1) {
+		SetUIVar(instance = $rootInstance, key = "page", value = GetUIVar(instance = $rootInstance, key = "page") - 1)
+						If (GetUIVar(instance = $rootInstance, key = "page") == 2) {
+			SetShowImage(
+				image = "gameres|asset/Untitled presentation (6).png",
+				instance = GetWidgetByHierarchy(hierarchy = "BG/Image", instance = $rootInstance)
+			)
+			SetTextContext(
+				instance = GetWidgetByHierarchy(hierarchy = "BG/Text", instance = $rootInstance),
+				text = "2b775b85-61ea-40d4-9ecf-da6704342cb3"
+			)
+		} ElseIf (GetUIVar(instance = $rootInstance, key = "page") == 3) {
+			SetShowImage(
+				image = "gameres|asset/Untitled presentation (7).png",
+				instance = GetWidgetByHierarchy(hierarchy = "BG/Image", instance = $rootInstance)
+			)
+			SetTextContext(
+				instance = GetWidgetByHierarchy(hierarchy = "BG/Text", instance = $rootInstance),
+				text = "a5260123-f672-44c7-b57f-9c7ac6d477ff"
+			)
+			SetWindowAlpha(alpha = 100, instance = GetWidgetByHierarchy(hierarchy = "BG/nextBtn", instance = $rootInstance))
+		} ElseIf (GetUIVar(instance = $rootInstance, key = "page") == 1) {
+			SetShowImage(
+				image = "gameres|asset/Untitled presentation (8).png",
+				instance = GetWidgetByHierarchy(hierarchy = "BG/Image", instance = $rootInstance)
+			)
+			SetTextContext(
+				instance = GetWidgetByHierarchy(hierarchy = "BG/Text", instance = $rootInstance),
+				text = "363ef4a1-4144-4b4f-86bd-6475c446ca84"
+			)
+			SetWindowAlpha(alpha = 0, instance = $instance)
+		}
+	}
+}

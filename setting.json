@@ -281,7 +281,14 @@
     "__OBJ_TYPE": [],
     "entity": [],
     "global": [],
-    "ui": []
+    "ui": [
+      {
+        "key": "page",
+        "run_type": "client",
+        "save": false,
+        "value": 1
+      }
+    ]
   },
   "waitAtInitPos": true,
   "waitGoTime": 20,
