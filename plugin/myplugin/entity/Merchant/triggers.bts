@@ -1,3 +1,0 @@
-ENTITY_TOUCH_ALL {
-	ShowShop(entity = $obj2, showType = "shop")
-}

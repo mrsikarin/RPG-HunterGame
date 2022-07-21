@@ -1,3 +1,0 @@
-ENTITY_DAMAGE {
-	ExecScript(dmg = $damage, player = $obj1, script_name = "ScriptableNode_3")
-}

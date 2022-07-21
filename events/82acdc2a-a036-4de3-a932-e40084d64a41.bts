@@ -1,3 +1,0 @@
-PART_TOUCH_ENTITY_BEGIN {
-	SetEntityPosition(entity = $obj2, map = "SouthForest01", pos = { x = 0, y = 1.04, z = -55 }, rp = 0, ry = 0)
-}
