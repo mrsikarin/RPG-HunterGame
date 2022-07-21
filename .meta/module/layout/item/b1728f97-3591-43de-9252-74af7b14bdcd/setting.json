@@ -1,0 +1,396 @@
+{
+  "data": {
+    "md5": "0fe82e9049a9504bee77395e5631fb6c",
+    "path": "asset/Interface/playerUI.layout",
+    "root": {
+      "anchor": {
+        "HorizontalAlignment": "Right",
+        "VerticalAlignment": "Centre"
+      },
+      "children": [
+        {
+          "__OBJ_TYPE": "Button",
+          "anchor": {
+            "HorizontalAlignment": "Right",
+            "VerticalAlignment": "Centre"
+          },
+          "DisabledImage": {
+            "asset": "asset/texture2/icon_red_act.png"
+          },
+          "HoverImage": {
+            "asset": "asset/texture2/icon_red_nor.png"
+          },
+          "HoverTextColour": {
+            "b": 106,
+            "g": 75,
+            "r": 240
+          },
+          "id": {
+            "value": "62624ae1-e479-4cb5-be72-cabe9a7999dd"
+          },
+          "NormalImage": {
+            "asset": "asset/texture2/icon_red_nor.png"
+          },
+          "NormalTextColour": {
+            "b": 106,
+            "g": 75,
+            "r": 240
+          },
+          "pos": {
+            "UDim_X": {
+              "Offect": -5.0000542402268
+            },
+            "UDim_Y": {
+              "Offect": 23.34470728701,
+              "Scale": -0.3
+            }
+          },
+          "PushedImage": {
+            "asset": "asset/texture2/icon_red_act.png"
+          },
+          "size": {
+            "UDim_X": {
+              "Offect": 70.0
+            },
+            "UDim_Y": {
+              "Offect": 70.0
+            }
+          },
+          "SoundFile": {
+            "asset": "asset/Sound/openui.mp3"
+          },
+          "SoundTriggerRange": "Click",
+          "Text": "Status",
+          "TextOffset": {
+            "y": -5
+          }
+        },
+        {
+          "__OBJ_TYPE": "DefaultWindow",
+          "anchor": {
+            "HorizontalAlignment": "Centre",
+            "VerticalAlignment": "Bottom"
+          },
+          "children": [
+            {
+              "__OBJ_TYPE": "CustomHorizontalSlider",
+              "anchor": {
+                "HorizontalAlignment": "Centre",
+                "VerticalAlignment": "Centre"
+              },
+              "children": [
+                {
+                  "__OBJ_TYPE": "StaticImage",
+                  "anchor": {
+                    "VerticalAlignment": "Centre"
+                  },
+                  "id": {
+                    "value": "1e39a888-ae2c-41e7-8597-ab5048352c05"
+                  },
+                  "Image": {
+                    "asset": "asset/Texture/Gui/slider_bg.png"
+                  },
+                  "name": "Background",
+                  "size": {
+                    "UDim_X": {
+                      "Offect": 256
+                    },
+                    "UDim_Y": {
+                      "Offect": 20
+                    }
+                  }
+                },
+                {
+                  "__OBJ_TYPE": "StaticImage",
+                  "anchor": {
+                    "VerticalAlignment": "Centre"
+                  },
+                  "id": {
+                    "value": "7293ff2f-c31a-4f3c-ab09-2d3596b1e67d"
+                  },
+                  "Image": {
+                    "asset": "asset/Texture/Gui/slider_top_h.png"
+                  },
+                  "name": "Fill",
+                  "size": {
+                    "UDim_X": {
+                      "Offect": 256
+                    },
+                    "UDim_Y": {
+                      "Offect": 16
+                    }
+                  }
+                },
+                {
+                  "__OBJ_TYPE": "SliderThumb",
+                  "anchor": {
+                    "VerticalAlignment": "Centre"
+                  },
+                  "id": {
+                    "value": "591a6f27-1c20-45e4-8696-e2efb8287c89"
+                  },
+                  "name": "Handle",
+                  "Visible": false
+                },
+                {
+                  "__OBJ_TYPE": "StaticText",
+                  "anchor": {
+                    "HorizontalAlignment": "Centre",
+                    "VerticalAlignment": "Centre"
+                  },
+                  "Font": "HarmonyOS_Sans_SC_Bold",
+                  "Font_size": 20,
+                  "HorzFormatting": "CentreAligned",
+                  "id": {
+                    "value": "9e54ae86-70ff-453a-ad17-f45d6015b5aa"
+                  },
+                  "name": "level",
+                  "pos": {
+                    "UDim_X": {
+                      "Offect": -29.76912967987
+                    },
+                    "UDim_Y": {
+                      "Offect": -25.999956422988
+                    }
+                  },
+                  "size": {
+                    "UDim_X": {
+                      "Offect": 139.55161976815
+                    },
+                    "UDim_Y": {
+                      "Offect": 128.0
+                    }
+                  },
+                  "Text": "Lv.",
+                  "VertFormatting": "CentreAligned"
+                },
+                {
+                  "__OBJ_TYPE": "StaticText",
+                  "anchor": {
+                    "HorizontalAlignment": "Centre",
+                    "VerticalAlignment": "Centre"
+                  },
+                  "Font": "HarmonyOS_Sans_SC_Bold",
+                  "Font_size": 20,
+                  "HorzFormatting": "CentreAligned",
+                  "id": {
+                    "value": "7e586770-83a4-48fe-bb7a-f24e87df7815"
+                  },
+                  "name": "textexp",
+                  "pos": {
+                    "UDim_X": {
+                      "Offect": -169.25631863655
+                    },
+                    "UDim_Y": {
+                      "Offect": -0.1589293578082
+                    }
+                  },
+                  "size": {
+                    "UDim_X": {
+                      "Offect": 139.55161976815
+                    },
+                    "UDim_Y": {
+                      "Offect": 128.0
+                    }
+                  },
+                  "Text": "EXP",
+                  "VertFormatting": "CentreAligned"
+                }
+              ],
+              "id": {
+                "value": "3093d7d5-6df9-46c1-8e50-06d106149643"
+              },
+              "name": "expbar",
+              "pos": {
+                "UDim_Y": {
+                  "Scale": -0.35
+                }
+              }
+            }
+          ],
+          "id": {
+            "value": "e7594a5c-b7e5-4fb0-ae28-609336be5ac3"
+          },
+          "pos": {
+            "UDim_X": {
+              "Scale": -8
+            },
+            "UDim_Y": {
+              "Scale": 6
+            }
+          },
+          "size": {
+            "UDim_Y": {
+              "Offect": 70
+            }
+          }
+        },
+        {
+          "__OBJ_TYPE": "DefaultWindow",
+          "anchor": {
+            "VerticalAlignment": "Centre"
+          },
+          "children": [
+            {
+              "__OBJ_TYPE": "StaticImage",
+              "anchor": {
+                "HorizontalAlignment": "Centre",
+                "VerticalAlignment": "Centre"
+              },
+              "children": [
+                {
+                  "__OBJ_TYPE": "StaticImage",
+                  "id": {
+                    "value": "fa9f8a0c-f3da-44d2-b897-d496cd556d07"
+                  },
+                  "Image": {
+                    "asset": "asset/Item/tile248.png"
+                  },
+                  "pos": {
+                    "UDim_X": {
+                      "Offect": 112.45638513565
+                    },
+                    "UDim_Y": {
+                      "Offect": 28.244692325592
+                    }
+                  },
+                  "size": {
+                    "UDim_X": {
+                      "Offect": 32.0
+                    },
+                    "UDim_Y": {
+                      "Offect": 32.0
+                    }
+                  }
+                }
+              ],
+              "id": {
+                "value": "4bcb965b-cb30-4b93-bdcc-bc918291ec8f"
+              },
+              "Image": {
+                "asset": "asset/atlas.png"
+              },
+              "pos": {
+                "UDim_X": {
+                  "Offect": -6.9597313106059
+                },
+                "UDim_Y": {
+                  "Offect": -2.085383653638
+                }
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 339.80712157487
+                },
+                "UDim_Y": {
+                  "Offect": 122.83607560396
+                }
+              }
+            },
+            {
+              "__OBJ_TYPE": "StaticText",
+              "Font_size": 18,
+              "id": {
+                "value": "97c3ad95-3e6f-4866-bdd4-a64a825309e6"
+              },
+              "name": "quest_txt",
+              "pos": {
+                "UDim_X": {
+                  "Offect": 20.879127297623
+                },
+                "UDim_Y": {
+                  "Offect": 25.802025437353
+                }
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 99.999999999997
+                },
+                "UDim_Y": {
+                  "Offect": 50.0
+                }
+              },
+              "Text": "Quest",
+              "TextColours": {
+                "g": 255,
+                "r": 255
+              }
+            },
+            {
+              "__OBJ_TYPE": "StaticText",
+              "Font_size": 14,
+              "id": {
+                "value": "11685c03-e18b-4b95-ae5d-5523c3d306c4"
+              },
+              "name": "detailTxt",
+              "pos": {
+                "UDim_X": {
+                  "Offect": 20.879125578279
+                },
+                "UDim_Y": {
+                  "Offect": 60.20469287273
+                }
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 279.40110802656
+                },
+                "UDim_Y": {
+                  "Offect": 47.80066299439
+                }
+              },
+              "Text": "Detail",
+              "TextColours": {
+                "b": 255,
+                "g": 255,
+                "r": 255
+              },
+              "VertFormatting": "CentreAligned"
+            }
+          ],
+          "id": {
+            "value": "29a6c602-c298-45da-863b-085909df3b46"
+          },
+          "name": "Quest",
+          "pos": {
+            "UDim_X": {
+              "Scale": -16
+            }
+          },
+          "size": {
+            "UDim_X": {
+              "Offect": 330.2181008658
+            },
+            "UDim_Y": {
+              "Offect": 121.1782880202
+            }
+          },
+          "Visible": false
+        }
+      ],
+      "id": {
+        "value": "d067572e-a022-40bf-b3c3-01a22fd75ceb"
+      },
+      "pos": {
+        "UDim_Y": {
+          "Scale": -0.3
+        }
+      },
+      "size": {
+        "UDim_X": {
+          "Offect": 74.528775483364
+        },
+        "UDim_Y": {
+          "Offect": 77.305212090022
+        }
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "layout": "0fe82e9049a9504bee77395e5631fb6c",
+      "triggers.bts": "d1fd7037f4941cd1b8cbfb94bb926990"
+    },
+    "VERSION": "0.22"
+  }
+}

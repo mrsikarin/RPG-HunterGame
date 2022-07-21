@@ -1,0 +1,17 @@
+{
+  "data": {
+    "attackTarget": {
+      "targetType": "hitPlayer"
+    },
+    "name": {
+      "value": "3fa7310b-928e-4ef6-a5c4-e27cea555a2f"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "842b1cf6f7d7a3907749889253560dbf",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

@@ -1,0 +1,38 @@
+<ActorTemplates>
+	<ActorTemplate AttackScale="1" SoundName3="" SoundName5="" Alpha="1" Skeleton="asset/Actor/g2043_pet_31401/g2043_pet_31401.skel" WoundAngle="25" TextHeight="0" SoundName4="" Originalscale="2 2 2" IsShowShadow="true" IntervalTime="2" MaxDistance="16" SoundFileNum="0" Volume="0.8" SelectedRingSize="1" WoundBone="" SoundName2="" SoundName1="" MinDistance="1" name="111.actor">
+		<Anims>
+			<Anim Name="g2043_pet_31401_run.anim"/>
+			<Anim Name="g2043_pet_31401_show.anim"/>
+			<Anim Name="g2043_pet_31401_idle.anim"/>
+			<Anim Name="g2043_pet_31401_hit.anim"/>
+			<Anim Name="g2043_pet_31401_attack1.anim"/>
+			<Anim Name="g2043_pet_31401_attack2.anim"/>
+		</Anims>
+		<SubActors/>
+		<Skills>
+			<Skill UserDefineTime="-2" Name="attack1" EnableWound="false" TextMode="0">
+				<Animation FadeTime="0.05" Channel="upper" TimeScale="1" BeginTime="0" Name="g2043_pet_31401_attack1.anim" Times="1" Length="1.8"/>
+			</Skill>
+			<Skill UserDefineTime="-2" Name="attack2" EnableWound="false" TextMode="0">
+				<Animation FadeTime="0.05" Channel="upper" TimeScale="2.5" BeginTime="0" Name="g2043_pet_31401_attack2.anim" Times="1" Length="4.033"/>
+			</Skill>
+			<Skill UserDefineTime="-2" Name="hurt" EnableWound="false" TextMode="0">
+				<Animation FadeTime="0.05" Channel="upper" TimeScale="1" BeginTime="0" Name="g2043_pet_31401_hit.anim" Times="1" Length="0.533"/>
+			</Skill>
+			<Skill UserDefineTime="-2" Name="idle" EnableWound="false" TextMode="0">
+				<Animation FadeTime="0.05" Channel="upper" TimeScale="1" BeginTime="0" Name="g2043_pet_31401_idle.anim" Times="-1" Length="1.366"/>
+			</Skill>
+			<Skill UserDefineTime="-2" Name="run" EnableWound="false" TextMode="0">
+				<Animation FadeTime="0.05" Channel="upper" TimeScale="1" BeginTime="0" Name="g2043_pet_31401_run.anim" Times="-1" Length="0.966"/>
+			</Skill>
+			<Skill UserDefineTime="-2" Name="show" EnableWound="false" TextMode="0">
+				<Animation FadeTime="0.05" Channel="upper" TimeScale="1" BeginTime="0" Name="g2043_pet_31401_show.anim" Times="1" Length="3.6"/>
+			</Skill>
+		</Skills>
+		<BodyParts>
+			<BodyPart MasterName="mutex_name0" SlaveName="group0" EdgeColor="1 1 1 1" ColorParams="1 1 1 1" DefaultUse="true">
+				<Skin UseTransparentNearestSlice="false" SpecularCoef="0.15" EdgeColor="1.0 0 0 1.0" SpecularColor="1.0 1.0 1.0 1.0" MeshName="asset/Actor/g2043_pet_31401/g2043_pet_31401.skin" UVSpeed="0 0" ChangeColor="1.4013e-45 -0.487196 0.0893673 -0.567287" UseOverlayColorReplaceMode="false" OverlayColor="1 1 1 1" type_name="g2043_pet_31401" UseReflect="false" DiscardAlpha="0" UseEdge="false" LocalBrightnessScale="1" UseBloom="false" SpecularStrength="1" LocalAlpha="1" UseOriginalcolor="false"/>
+			</BodyPart>
+		</BodyParts>
+	</ActorTemplate>
+</ActorTemplates>

@@ -1,0 +1,60 @@
+{
+  "data": {
+    "castAction": "g2033_skill_chakra_07",
+    "cdAnimation": "Clockwise",
+    "cdTime": {
+      "value": 600
+    },
+    "consumeVp": 40,
+    "enableCdMask": true,
+    "FillPosition": "Top_With360Degree",
+    "FillType": "With360Degree",
+    "name": {
+      "value": "skill_c-player-blizzard"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_Missile",
+        "missile": [
+          {
+            "missileCfg": "myplugin/check-player-blizzard",
+            "startPos": {
+              "y": 0
+            }
+          }
+        ],
+        "target": {
+          "type": "Self"
+        }
+      },
+      "type": "Missile"
+    },
+    "skill_pre": {
+      "enable_pre": true,
+      "ignore_jump": true,
+      "ignore_move": true,
+      "time": {
+        "value": 14
+      }
+    },
+    "skillReleaseWay": {
+      "icon": {
+        "asset": "asset/Skill/blizzard.png"
+      },
+      "icon_pushed": {
+        "asset": "asset/Skill/blizzard_press.png"
+      },
+      "iconPos": {
+        "area_number": 9
+      },
+      "isClickIcon": true
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "70b9604e7f27e997f6dbce0bb141235b",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

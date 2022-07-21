@@ -1,0 +1,46 @@
+{
+  "data": {
+    "castAction": "g2033_skill_chakra_penhuo",
+    "cdAnimation": "Clockwise",
+    "cdTime": {
+      "value": 600
+    },
+    "consumeVp": 30,
+    "enableCdMask": true,
+    "FillPosition": "Top_With360Degree",
+    "FillType": "With360Degree",
+    "name": {
+      "value": "skill_c-player-all-for-one"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_Buff",
+        "buffCfg": "myplugin/player-all-for-one",
+        "buffTime": {
+          "value": 220
+        },
+        "target": "self"
+      },
+      "type": "Buff"
+    },
+    "skillReleaseWay": {
+      "icon": {
+        "asset": "asset/Skill/all_for_one.png"
+      },
+      "icon_pushed": {
+        "asset": "asset/Skill/all_for_one_press.png"
+      },
+      "iconPos": {
+        "area_number": 9
+      },
+      "isClickIcon": true
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "c6be6b9cdffc0f1ab429f7b75d7635b8",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

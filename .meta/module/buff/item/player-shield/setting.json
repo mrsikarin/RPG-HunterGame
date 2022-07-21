@@ -1,0 +1,24 @@
+{
+  "data": {
+    "castEffect": {
+      "effect": {
+        "asset": "asset/effect/Surround_magic_light_shield2.effect"
+      },
+      "pos": {
+        "y": 1
+      }
+    },
+    "deadRemove": true,
+    "deDmgPct": 0.3,
+    "name": {
+      "value": "buff_player-shield"
+    },
+    "sync": "self"
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "db8db2329ffdc9fbf976c61b227cb58a"
+    },
+    "VERSION": "0.22"
+  }
+}

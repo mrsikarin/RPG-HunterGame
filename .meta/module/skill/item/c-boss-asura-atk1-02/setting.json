@@ -1,0 +1,33 @@
+{
+  "data": {
+    "cdTime": {
+      "value": 60
+    },
+    "name": {
+      "value": "ea65cdc4-4b06-4bb9-87b1-a4216fc8368e"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_Missile",
+        "missile": [
+          {
+            "startPos": {
+              "z": 0.5
+            }
+          }
+        ],
+        "target": {
+          "type": "Self"
+        }
+      },
+      "type": "Missile"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "a1cafcebc28a31886a68661d34d7cd92",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

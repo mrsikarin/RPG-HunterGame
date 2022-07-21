@@ -1,0 +1,15 @@
+{
+  "data": {
+    "id": {
+      "value": "2da38da7-1c75-48bf-8156-e55a886be1a6"
+    },
+    "name": "openQuestBoard",
+    "register_object": "game/0/triggers_client/list/3",
+    "save": true,
+    "type": "client"
+  },
+  "meta": {
+    "EXPORT": [],
+    "VERSION": "0.22"
+  }
+}

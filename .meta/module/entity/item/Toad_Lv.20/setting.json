@@ -1,0 +1,132 @@
+{
+  "data": {
+    "actorName": {
+      "asset": "asset/Actor/Brown Vicious Toad Monster/A Bit Fierce Toad.actor"
+    },
+    "AI_attack": {
+      "attackMode": "autoAttack",
+      "enable": true,
+      "skillList": [
+        {
+          "fullName": "myplugin/c-monster-lv.20"
+        }
+      ]
+    },
+    "AI_patrol": {
+      "patrolMode": "randomPath"
+    },
+    "boundingVolume": {
+      "height": 1.5,
+      "type": "Capsule"
+    },
+    "boundingVolumeEntityCfg": {
+      "height_c": 3.5,
+      "memory": {
+        "Cylinder": "1.000000-0.500000"
+      },
+      "radius_c": 1.5,
+      "type": "Capsule"
+    },
+    "collision": true,
+    "damage": 200,
+    "enableAI": true,
+    "girlactor": {
+      "asset": "empty.actor"
+    },
+    "maxHp": 3250,
+    "name": {
+      "value": "entity_Toad_Lv.20"
+    },
+    "triggers": {
+      "list": [
+        {
+          "actions": [
+            {
+              "__OBJ_TYPE": "Action_Protocol_SendToClient",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Proto_Params_To_Client",
+                  "params": [
+                    {
+                      "data_type": "T_String",
+                      "key": "quest",
+                      "must": true,
+                      "value": {
+                        "__OBJ_TYPE": "T_String",
+                        "rawval": "Kill Toad"
+                      }
+                    }
+                  ],
+                  "params_default": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Entity",
+                        "action": "965526fb-7868-4406-87fb-89e29d7fe3da"
+                      }
+                    }
+                  ],
+                  "proto_id": "5fdfb3bc-8340-46e3-8ec1-8ec3700d7ae8",
+                  "proto_name": "checkQuest",
+                  "proto_type": "client"
+                }
+              ],
+              "id": {
+                "value": "6291ddec-52f9-4534-8358-1aa7126f985a"
+              },
+              "pos": {
+                "x": 729,
+                "y": 322
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_GetContextVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Context",
+                  "key": "obj2"
+                }
+              ],
+              "id": {
+                "value": "965526fb-7868-4406-87fb-89e29d7fe3da"
+              },
+              "pos": {
+                "x": 1217,
+                "y": 338
+              },
+              "type": "T_Entity"
+            }
+          ],
+          "custom_trigger_data": {
+            "name": {
+              "value": "3466eded-ca11-49eb-9173-a0b6e29dc9b8"
+            },
+            "type": "Trigger_EntityDie"
+          },
+          "root": {
+            "components": [
+              {
+                "__OBJ_TYPE": "Component_Sequence",
+                "children": [
+                  {
+                    "action": "6291ddec-52f9-4534-8358-1aa7126f985a"
+                  }
+                ]
+              }
+            ],
+            "id": {
+              "value": "e64f46c0-d7f2-48d5-be08-ebd802ee13b8"
+            }
+          },
+          "type": "Trigger_EntityDie"
+        }
+      ]
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "74d2003b0ba599d614943881e704da01",
+      "triggers.bts": "fccffe492b98aa0a01b4f58875546b52"
+    },
+    "VERSION": "0.22"
+  }
+}

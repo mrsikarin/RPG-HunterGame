@@ -1,0 +1,83 @@
+{
+  "autoRotateColliderBox": true,
+  "collideEntity": 6,
+  "collider": {
+    "extent": {
+      "x": 4,
+      "y": 4,
+      "z": 4
+    },
+    "offset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 2
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "type": "Box"
+  },
+  "followTarget": true,
+  "followTargetRotation": true,
+  "followTargetRotationOffset": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "gravity": 0.0,
+  "hitEntityEffect": {
+    "effect": "@asset/effect/Burst_death2.effect",
+    "once": false,
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "yaw": 0
+  },
+  "hitEntitySkill": "myplugin/dmg-player-melee01",
+  "hitEntitySound": {
+    "loop": false,
+    "path": "asset/Sound/punchhit.mp3",
+    "selfOnly": false,
+    "sound": "@Sound/punchhit.mp3",
+    "volume": 1
+  },
+  "hitEntitysRoles": [
+    "hitAllTeam",
+    "hitAllEntitys",
+    "hitAllConfigEntity"
+  ],
+  "hitInterval": 10,
+  "isPitch": true,
+  "lifeTime": 4,
+  "lockRotateBodyPitch": 0,
+  "lockRotateBodyRoll": 0,
+  "lockRotateBodyYaw": 0,
+  "modelSizeScale": {
+    "x": 2,
+    "y": 2,
+    "z": 2
+  },
+  "moveAcc": 0.0,
+  "moveSpeed": 0.0,
+  "rotateFree": true,
+  "rotateSpeed": 0.0,
+  "startSound": {
+    "loop": false,
+    "path": "asset/Sound/karate-chop-6357 (mp3cut.net).mp3",
+    "selfOnly": false,
+    "sound": "@Sound/karate-chop-6357 (mp3cut.net).mp3",
+    "volume": 1
+  },
+  "startWithMoveAcc": true,
+  "vanishShow": false,
+  "vanishTime": 10
+}

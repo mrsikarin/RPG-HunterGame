@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": {
+      "value": "5fdfb3bc-8340-46e3-8ec1-8ec3700d7ae8"
+    },
+    "name": "checkQuest",
+    "params": [
+      {
+        "param_name": "quest",
+        "param_type": "T_String",
+        "param_type_old": "T_String",
+        "value": {
+          "__OBJ_TYPE": "T_String"
+        }
+      }
+    ],
+    "register_object": "game/0/triggers_client/list/2",
+    "save": true,
+    "type": "client"
+  },
+  "meta": {
+    "EXPORT": [],
+    "VERSION": "0.22"
+  }
+}

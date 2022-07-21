@@ -1,0 +1,24 @@
+{
+  "data": {
+    "hitEntitySkill": "myplugin/dmg-player-melee01",
+    "lifeTime": {
+      "value": 40
+    },
+    "moveSpeed": 10,
+    "name": {
+      "value": "missile_check-player-power-ball"
+    },
+    "startEffect": {
+      "effect": {
+        "asset": "asset/effect/Continuous_witch_ranged_attack.effect"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "27ba89edf4957b6deb889a9a0d767476",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

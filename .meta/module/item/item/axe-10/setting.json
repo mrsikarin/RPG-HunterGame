@@ -1,0 +1,30 @@
+{
+  "data": {
+    "canAbandon": true,
+    "icon": {
+      "asset": "asset/Item/tile150.png"
+    },
+    "item": {
+      "base": {
+        "__OBJ_TYPE": "ItemInHand",
+        "skill": [
+          "myplugin/c-player-melee-normal",
+          "myplugin/dmg-player-spin",
+          "myplugin/c-player-smash",
+          "myplugin/c-player-berserk"
+        ]
+      },
+      "type": "InHand"
+    },
+    "name": {
+      "value": "item_axe-10"
+    },
+    "needSave": true
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "95167828fd1d76a99c4d6f792577ed7c"
+    },
+    "VERSION": "0.22"
+  }
+}

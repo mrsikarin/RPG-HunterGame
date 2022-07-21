@@ -1,0 +1,30 @@
+{
+  "data": {
+    "canAbandon": true,
+    "canUse": true,
+    "icon": {
+      "asset": "asset/Item/tile029.png"
+    },
+    "item": {
+      "base": {
+        "__OBJ_TYPE": "ItemUse",
+        "time": {
+          "value": 400
+        },
+        "useBuff": "myplugin/buff-str"
+      },
+      "type": "Use"
+    },
+    "name": {
+      "value": "item_str-potion-l"
+    },
+    "needSave": true,
+    "stack_count_max": 99
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "8b00cfec90e892123da0c6a3b5b13467"
+    },
+    "VERSION": "0.22"
+  }
+}

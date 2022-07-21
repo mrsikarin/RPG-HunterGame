@@ -1,0 +1,21 @@
+{
+  "data": {
+    "castEffect": {
+      "effect": {
+        "asset": "asset/effect/Continuous_fire_arrow.effect"
+      }
+    },
+    "continueDamage": 10,
+    "deadRemove": true,
+    "fixTime": "reset",
+    "name": {
+      "value": "buff_burn"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "261232a7836d9d3f3e7f67ff7bbc3ff2"
+    },
+    "VERSION": "0.22"
+  }
+}

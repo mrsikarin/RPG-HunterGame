@@ -1,0 +1,103 @@
+{
+  "data": {
+    "actorName": {
+      "asset": "asset/Actor/Goggles Breaded Man/Blue Mario Without Hat.actor"
+    },
+    "AI_attack": {
+      "enable": true
+    },
+    "AI_patrol": {
+      "patrolMode": "randomPath"
+    },
+    "girlactor": {
+      "asset": "asset/Actor/Goggles Breaded Man/Blue Mario Without Hat.actor"
+    },
+    "name": {
+      "value": "entity_Merchant"
+    },
+    "triggers": {
+      "list": [
+        {
+          "actions": [
+            {
+              "__OBJ_TYPE": "Action_ShowShop",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Entity",
+                        "action": "cd407a15-792a-416a-af72-b9dd0a107d82"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_String"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "9f3477dd-ac4c-439d-84b0-814d9bc855d3"
+              },
+              "pos": {
+                "x": 833,
+                "y": 367
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_GetContextVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Context",
+                  "key": "obj2"
+                }
+              ],
+              "id": {
+                "value": "cd407a15-792a-416a-af72-b9dd0a107d82"
+              },
+              "pos": {
+                "x": 1203,
+                "y": 357
+              },
+              "type": "T_Entity"
+            }
+          ],
+          "custom_trigger_data": {
+            "name": {
+              "value": "2894acfa-4e50-4b1b-b51f-fdea62421691"
+            },
+            "type": "Trigger_ENTITY_TOUCH_ALL"
+          },
+          "root": {
+            "components": [
+              {
+                "__OBJ_TYPE": "Component_Sequence",
+                "children": [
+                  {
+                    "action": "9f3477dd-ac4c-439d-84b0-814d9bc855d3"
+                  }
+                ]
+              }
+            ],
+            "id": {
+              "value": "c2879604-096d-47cc-bdc4-65df510a7d3e"
+            }
+          },
+          "type": "Trigger_ENTITY_TOUCH_ALL"
+        }
+      ]
+    },
+    "unAssailable": true,
+    "unDamageable": true
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "b45ecddee4acb91218b89abdd04161a4",
+      "triggers.bts": "74153f6a1236084446cc37df5b233521"
+    },
+    "VERSION": "0.22"
+  }
+}

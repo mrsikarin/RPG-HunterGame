@@ -1,0 +1,36 @@
+{
+  "data": {
+    "actorName": {
+      "asset": "asset/Actor/Three-Eyed Green Stone Monster/A Graffiti Wall Monster.actor"
+    },
+    "AI_attack": {
+      "attackMode": "autoAttack",
+      "enable": true,
+      "skillList": [
+        {
+          "fullName": "myplugin/c-monster-lv.15"
+        }
+      ]
+    },
+    "AI_patrol": {
+      "patrolMode": "randomPath"
+    },
+    "collision": true,
+    "damage": 100,
+    "enableAI": true,
+    "girlactor": {
+      "asset": "empty.actor"
+    },
+    "maxHp": 2250,
+    "name": {
+      "value": "entity_Graffiti_Wall_Lv.15"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "da37da94e3da0e9da7d3507b86513d0a",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

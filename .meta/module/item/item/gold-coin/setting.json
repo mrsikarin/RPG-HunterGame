@@ -1,0 +1,25 @@
+{
+  "data": {
+    "icon": {
+      "asset": "asset/Item/R (6) (10).png"
+    },
+    "item": {
+      "base": {
+        "__OBJ_TYPE": "ItemInHand"
+      },
+      "type": "InHand"
+    },
+    "name": {
+      "value": "item_gold-coin"
+    },
+    "needSave": true,
+    "stack_count_max": 9999
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "01eaa440eaf4067257c38542efd68681",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

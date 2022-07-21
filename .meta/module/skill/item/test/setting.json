@@ -1,0 +1,43 @@
+{
+  "data": {
+    "castAction": "app_selectable_action_34",
+    "cdAnimation": "Clockwise",
+    "cdTime": {
+      "value": 80
+    },
+    "enableCdMask": true,
+    "enableCdTip": true,
+    "FillPosition": "Top_With360Degree",
+    "FillType": "With360Degree",
+    "name": {
+      "value": "skill_test"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_Buff",
+        "buffCfg": "myplugin/mana-recovery",
+        "target": "self"
+      },
+      "type": "Buff"
+    },
+    "skillReleaseWay": {
+      "icon": {
+        "asset": "asset/Skill/combo.png"
+      },
+      "icon_pushed": {
+        "asset": "asset/Skill/combo_press.png"
+      },
+      "iconPos": {
+        "area_number": 6
+      },
+      "isClickIcon": true
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "2382fb7112ee9a688aa8c482fba005d4",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

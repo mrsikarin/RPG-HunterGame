@@ -1,0 +1,41 @@
+{
+  "data": {
+    "boundingVolume": {
+      "size": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    "boundingVolumeMissileCfg": {
+      "size": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    "hitEntitySkill": "myplugin/dmg-player-melee01",
+    "lifeTime": {
+      "value": 40
+    },
+    "moveSpeed": 10,
+    "name": {
+      "value": "missile_check-player-tornado"
+    },
+    "startEffect": {
+      "effect": {
+        "asset": "asset/effect/Surround_tornado.effect"
+      }
+    },
+    "vanishTime": {
+      "value": 2
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "5d746cedfa7533bfe6f9e038bdd26ae2",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

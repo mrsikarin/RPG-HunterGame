@@ -1,0 +1,17 @@
+{
+  "data": {
+    "castAction": {
+      "castAction": "spin"
+    },
+    "name": {
+      "value": "88a01e00-4b4d-4c82-a59f-96f7debca13d"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "0a13380dff6841a8d16efdd74e15e4ae",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

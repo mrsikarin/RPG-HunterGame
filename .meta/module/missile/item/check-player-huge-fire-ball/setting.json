@@ -1,0 +1,38 @@
+{
+  "data": {
+    "boundingVolume": {
+      "size": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      }
+    },
+    "boundingVolumeMissileCfg": {
+      "size": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      }
+    },
+    "hitEntitySkill": "myplugin/dmg-player-melee01",
+    "lifeTime": {
+      "value": 40
+    },
+    "moveSpeed": 10,
+    "name": {
+      "value": "missile_check-player-huge-fire-ball"
+    },
+    "startEffect": {
+      "effect": {
+        "asset": "asset/effect/Continuous_fireball_l.effect"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "a3a8c0d27b3a79c9cfb4be73046bd17b",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

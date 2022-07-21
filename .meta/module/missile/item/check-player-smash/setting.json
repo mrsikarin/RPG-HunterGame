@@ -1,0 +1,48 @@
+{
+  "data": {
+    "boundingVolume": {
+      "position": {
+        "z": 2
+      },
+      "size": {
+        "x": 4,
+        "y": 4,
+        "z": 4
+      }
+    },
+    "boundingVolumeMissileCfg": {
+      "position": {
+        "z": 2
+      },
+      "size": {
+        "x": 4,
+        "y": 4,
+        "z": 4
+      }
+    },
+    "hitEntitySkill": "myplugin/dmg-player-melee01",
+    "hitInterval": {
+      "value": 20
+    },
+    "lifeTime": {
+      "value": 6
+    },
+    "moveSpeed": 0,
+    "name": {
+      "value": "missile_check-player-smash"
+    },
+    "vanishEffect": {
+      "effect": {
+        "asset": "asset/effect/Burst_brick_break.effect"
+      },
+      "once": true
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "a67c3c17dd22a47134aa51dd2bfaceac",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

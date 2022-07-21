@@ -1,0 +1,45 @@
+{
+  "data": {
+    "actorName": {
+      "asset": "asset/Actor/Blue Archer Monster/Bow Shocker.actor"
+    },
+    "AI_attack": {
+      "attackMode": "autoAttack",
+      "enable": true,
+      "skillList": [
+        {
+          "attackDis": 10,
+          "fullName": "myplugin/c-monster-lv.30"
+        },
+        {
+          "attackDis": 10,
+          "fullName": "myplugin/c-monster-lv.30-2"
+        }
+      ]
+    },
+    "AI_patrol": {
+      "patrolMode": "randomPath"
+    },
+    "boundingVolumeEntityCfg": {
+      "size": {
+        "x": 1.6,
+        "y": 2.8,
+        "z": 1.6
+      }
+    },
+    "collision": true,
+    "damage": 300,
+    "enableAI": true,
+    "maxHp": 5250,
+    "name": {
+      "value": "entity_Bow_Shocker_Lv.30"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "161fd0efa462da60cefb00bfecf00d7a",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

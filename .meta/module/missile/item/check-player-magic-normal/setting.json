@@ -1,0 +1,24 @@
+{
+  "data": {
+    "hitEntitySkill": "myplugin/dmg-player-melee01",
+    "lifeTime": {
+      "value": 40
+    },
+    "moveSpeed": 20,
+    "name": {
+      "value": "missile_check-player-magic-normal"
+    },
+    "startEffect": {
+      "effect": {
+        "asset": "asset/effect/Continuous_magic_shot.effect"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "4d606f6d24c0b66a0ee084ea02281aa1",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

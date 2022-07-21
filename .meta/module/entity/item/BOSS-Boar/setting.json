@@ -1,0 +1,135 @@
+{
+  "data": {
+    "actorName": {
+      "asset": "asset/Actor/monster/White-Haired Black Boar/Flamboyant Wild Boar.actor"
+    },
+    "AI_attack": {
+      "attackMode": "autoAttack",
+      "enable": true,
+      "skillList": [
+        {
+          "attackDis": 6,
+          "fullName": "myplugin/c-boss-boar-atk1"
+        }
+      ]
+    },
+    "AI_patrol": {
+      "idle": {
+        "prob": {
+          "value": 0.5
+        }
+      },
+      "patrolMode": "randomPath"
+    },
+    "boundingVolumeEntityCfg": {
+      "size": {
+        "x": 3,
+        "y": 4,
+        "z": 4
+      }
+    },
+    "collision": true,
+    "damage": 50,
+    "enableAI": true,
+    "girlactor": {
+      "asset": "empty.actor"
+    },
+    "hpBarHeight": 0.1,
+    "maxHp": 500,
+    "name": {
+      "value": "c9045651-1639-444e-a1f2-a916cdf4e1d3"
+    },
+    "textHeight": 5.3,
+    "triggers": {
+      "list": [
+        {
+          "actions": [
+            {
+              "__OBJ_TYPE": "Action_Protocol_SendToClient",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Proto_Params_To_Client",
+                  "params": [
+                    {
+                      "data_type": "T_String",
+                      "key": "quest",
+                      "must": true,
+                      "value": {
+                        "__OBJ_TYPE": "T_String",
+                        "rawval": "Kill Boar"
+                      }
+                    }
+                  ],
+                  "params_default": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Entity",
+                        "action": "7b0526a8-c153-42eb-9387-7136255a0f50"
+                      }
+                    }
+                  ],
+                  "proto_id": "5fdfb3bc-8340-46e3-8ec1-8ec3700d7ae8",
+                  "proto_name": "checkQuest",
+                  "proto_type": "client"
+                }
+              ],
+              "id": {
+                "value": "5e828982-8a1a-4f7a-a535-115ede87e326"
+              },
+              "pos": {
+                "x": 711,
+                "y": 321
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_GetContextVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Context",
+                  "key": "obj2"
+                }
+              ],
+              "id": {
+                "value": "7b0526a8-c153-42eb-9387-7136255a0f50"
+              },
+              "pos": {
+                "x": 1205,
+                "y": 320
+              },
+              "type": "T_Entity"
+            }
+          ],
+          "custom_trigger_data": {
+            "name": {
+              "value": "b748bca6-606c-4211-a422-4e396d2920e3"
+            },
+            "type": "Trigger_EntityDie"
+          },
+          "root": {
+            "components": [
+              {
+                "__OBJ_TYPE": "Component_Sequence",
+                "children": [
+                  {
+                    "action": "5e828982-8a1a-4f7a-a535-115ede87e326"
+                  }
+                ]
+              }
+            ],
+            "id": {
+              "value": "5894574e-1d60-4f61-9002-653418ee3490"
+            }
+          },
+          "type": "Trigger_EntityDie"
+        }
+      ]
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "dfd18d429b8b264d2f5f94bc066234e3",
+      "triggers.bts": "6aace0650707dd7d6862b0bc94b7e15a"
+    },
+    "VERSION": "0.22"
+  }
+}

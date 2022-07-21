@@ -1,0 +1,57 @@
+{
+  "data": {
+    "castAction": "skll_fire-ball",
+    "cdAnimation": "Clockwise",
+    "cdTime": {
+      "value": 100
+    },
+    "consumeVp": 5,
+    "enableCdMask": true,
+    "FillPosition": "Top_With360Degree",
+    "FillType": "With360Degree",
+    "name": {
+      "value": "skill_c-player-fire-ball"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_Missile",
+        "missile": [
+          {
+            "missileCfg": "myplugin/check-player-fire-ball"
+          }
+        ],
+        "target": {
+          "type": "CameraYaw"
+        }
+      },
+      "type": "Missile"
+    },
+    "skill_pre": {
+      "enable_pre": true,
+      "ignore_jump": true,
+      "ignore_move": true,
+      "time": {
+        "value": 6
+      }
+    },
+    "skillReleaseWay": {
+      "icon": {
+        "asset": "asset/Skill/fire_ball.png"
+      },
+      "icon_pushed": {
+        "asset": "asset/Skill/fire_ball_press.png"
+      },
+      "iconPos": {
+        "area_number": 7
+      },
+      "isClickIcon": true
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "c8a6f4efa8df5cd795ba1012df117477",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

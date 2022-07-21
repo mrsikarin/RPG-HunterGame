@@ -1,0 +1,1958 @@
+{
+  "data": {
+    "box": {
+      "base": {
+        "__OBJ_TYPE": "SkyBoxStatic"
+      }
+    },
+    "instances": [
+      {
+        "__OBJ_TYPE": "Instance_VoxelTerrain",
+        "id": "8721612603313700865"
+      },
+      {
+        "__OBJ_TYPE": "Instance_Light",
+        "id": "8721612603379564545",
+        "ID": 5,
+        "lightType": "GlobalLight",
+        "name": "EnvironmentLight",
+        "skyColor": {
+          "b": 140,
+          "g": 132
+        },
+        "skyLineColor": {
+          "g": 59,
+          "r": 62
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Light",
+        "id": "8721612603470888961",
+        "ID": 6,
+        "lightType": "DirectionalLight",
+        "name": "DirectionalLight",
+        "position": {
+          "y": 5
+        },
+        "rotation": {
+          "y": -90
+        },
+        "skyColor": {
+          "b": 140,
+          "g": 132
+        },
+        "skyLineColor": {
+          "g": 59,
+          "r": 62
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "317cedbc-3157-497a-a547-243acf1b0bda",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721612911508078593",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": -10.349995613098,
+          "y": 7.8426766395569,
+          "z": -85.92700958252
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": 90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "c5265062-93cd-4503-b130-0a25c2bc0395",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721614460966158337",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": -30.090993881226,
+          "y": 7.8426766395569,
+          "z": -85.92700958252
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": -90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "bcef97de-7c83-4db5-a645-da2c04367e83",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721614835824525313",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": -67.384994506836,
+          "y": 7.8426766395569,
+          "z": -85.92700958252
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": -90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "c4d9dce5-802c-4a91-83f9-a41bb9447138",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721614835828817921",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": -47.643989562988,
+          "y": 7.8426766395569,
+          "z": -85.92700958252
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": 90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "8d02cb56-05bb-49e6-b873-efa2c08bcbbc",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721614954022748161",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": 45.01798248291,
+          "y": 7.8426766395569,
+          "z": -85.927001953125
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": -90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "3d225b0c-baa0-4da5-8359-87693c71bef5",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721614954025811969",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": 7.7239799499512,
+          "y": 7.8426766395569,
+          "z": -85.927001953125
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": -90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "227f936f-ba38-4025-82f1-5ea4b1586d11",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721614954028613633",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": 27.464990615845,
+          "y": 7.8426766395569,
+          "z": -85.927001953125
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": 90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "d2d530b2-a427-4b48-82e9-5371b119d243",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721614954031300609",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": 64.758979797363,
+          "y": 7.8426766395569,
+          "z": -85.927001953125
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": 90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "e4ba5590-c527-4703-bd69-c33f0f862a81",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721615185982259201",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": -45.130977630615,
+          "y": 7.8426766395569,
+          "z": -65.744018554688
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": -90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "011efdec-0241-482d-a211-95f84a409e6d",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721615185987026945",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": -82.425003051758,
+          "y": 7.8426766395569,
+          "z": -65.744018554688
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": -90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "10d2ca20-f555-41af-82a5-8064df186c3e",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721615185991319553",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": 49.718997955322,
+          "y": 7.8426766395569,
+          "z": -65.744003295898
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": 90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "403efba8-07b5-4a30-bfba-bf054902961e",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721615185995497473",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": 12.424993515015,
+          "y": 7.8426766395569,
+          "z": -65.744003295898
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": 90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "40329f6f-8031-47e3-ab9a-ec397241d6a5",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721615185999642625",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": -62.683971405029,
+          "y": 7.8426766395569,
+          "z": -65.744018554688
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": 90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "ec44ce00-2d5f-4457-9f04-527089082347",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721615186003902465",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": 29.978004455566,
+          "y": 7.8426766395569,
+          "z": -65.744003295898
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": -90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "7e900efd-3d46-4793-987e-1f4331f55141",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721615186008113153",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": -7.3160238265991,
+          "y": 7.8426766395569,
+          "z": -65.744003295898
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": -90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "80ee1227-cfff-4e69-ab6f-201859ed8a5c",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721615186012225537",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": -25.389995574951,
+          "y": 7.8426766395569,
+          "z": -65.744018554688
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": 90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "772d28a2-eb63-4075-812f-5a97fdef69f1",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721615461992448001",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": -82.425033569336,
+          "y": 7.8426766395569,
+          "z": 83.35693359375
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": -90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "8f2f9b3a-d45b-4b35-bc8a-bac5651c83e0",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721615461999017985",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": -30.091049194336,
+          "y": 7.8426766395569,
+          "z": 63.173957824707
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": -90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "2b8b11d4-1697-4819-87a3-5d57c649098c",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721615462005211137",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": -67.385025024414,
+          "y": 7.8426766395569,
+          "z": 63.173957824707
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": -90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "26545762-f8c0-4173-8673-d16b1d4cb330",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721615462010535937",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": 64.758949279785,
+          "y": 7.8426766395569,
+          "z": 63.173957824707
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": 90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "cdfd7f65-6e88-461d-931e-9e41ef360a86",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721615462015778817",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": -47.644046783447,
+          "y": 7.8426766395569,
+          "z": 40.756958007812
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": 90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "c5a5a534-bb6d-4398-8825-3c03034518d7",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721615462021038081",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": 27.464935302734,
+          "y": 7.8426766395569,
+          "z": 63.173957824707
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": 90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "e75818d4-02b7-434f-9db7-7f939e286a24",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721615462026231809",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": -62.684028625488,
+          "y": 7.8426766395569,
+          "z": 83.35693359375
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": 90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "bafa4ada-619d-4ecc-acdc-7e81395c1332",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721615462031540225",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": 12.42494392395,
+          "y": 7.8426766395569,
+          "z": 83.356948852539
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": 90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "4aa38984-1feb-47e7-a60f-d29a439fb161",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721615462036799489",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": -45.131034851074,
+          "y": 7.8426766395569,
+          "z": 83.35693359375
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": -90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "394e36f4-6aa8-4cd2-8dde-9c5f1f33f5e8",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721615462042157057",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": 29.977949142456,
+          "y": 7.8426766395569,
+          "z": 83.356948852539
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": -90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "6083eb59-3999-44aa-bb83-1c97e0f45d77",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721615462047399937",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": 45.017925262451,
+          "y": 7.8426766395569,
+          "z": 61.229953765869
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": -90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "d2ada1f6-f2e9-427e-83d8-67ed3ac1669a",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721615462052216833",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": 7.7239284515381,
+          "y": 7.8426766395569,
+          "z": 63.173957824707
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": -90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "b7d6fa36-2010-4ab3-9a02-b4f50ca7e7a2",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721615462057508865",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": -7.3160753250122,
+          "y": 7.8426766395569,
+          "z": 83.356948852539
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": -90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "0f1f1349-c2a5-4133-bc2f-5eb841df13ae",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721615462062768129",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": -25.390050888062,
+          "y": 7.8426766395569,
+          "z": 83.35693359375
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": 90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "87c4f80a-b7e8-4376-8388-76ceb6de7fde",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721615462068125697",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": -10.350045204163,
+          "y": 7.8426766395569,
+          "z": 63.173957824707
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": 90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "020b7e54-3288-480b-b357-e97acddd5f7b",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721615462073434113",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": 49.718940734863,
+          "y": 7.8426766395569,
+          "z": 83.356948852539
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": 90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Model",
+        "children": [
+          {
+            "__OBJ_TYPE": "Instance_MeshPart",
+            "btsKey": "a7dc1463-0a7d-4244-85bc-afdd56d5796a",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8721615861459091457",
+            "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+            "mesh_selector": {
+              "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+              "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+            },
+            "name": "g2038_tree_07.mesh",
+            "position": {
+              "x": -70.709983825684,
+              "y": 7.8426661491394,
+              "z": 34.671989440918
+            },
+            "restitution": 0.3,
+            "rotation": {
+              "y": 5.0089561227651e-06
+            },
+            "staticBatchNo": "1",
+            "useAnchor": true
+          },
+          {
+            "__OBJ_TYPE": "Instance_MeshPart",
+            "btsKey": "6919c42d-93aa-4882-9bb6-f412cbb96f36",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8721615861463367681",
+            "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+            "mesh_selector": {
+              "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+              "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+            },
+            "name": "g2038_tree_07.mesh",
+            "position": {
+              "x": -70.709983825684,
+              "y": 7.8426661491394,
+              "z": -22.883975982666
+            },
+            "restitution": 0.3,
+            "rotation": {
+              "y": -179.99998474121
+            },
+            "staticBatchNo": "1",
+            "useAnchor": true
+          },
+          {
+            "__OBJ_TYPE": "Instance_MeshPart",
+            "btsKey": "5436d0c3-5ddd-4cd1-9fd8-3a8d21fdd86c",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8721615861467447297",
+            "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+            "mesh_selector": {
+              "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+              "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+            },
+            "name": "g2038_tree_07.mesh",
+            "position": {
+              "x": -70.709983825684,
+              "y": 7.8426661491394,
+              "z": -40.436988830566
+            },
+            "restitution": 0.3,
+            "rotation": {
+              "y": 5.0089561227651e-06
+            },
+            "staticBatchNo": "1",
+            "useAnchor": true
+          },
+          {
+            "__OBJ_TYPE": "Instance_MeshPart",
+            "btsKey": "aca1ef52-f9c6-4ce1-ac37-fbd4b563457f",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8721615861471313921",
+            "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+            "mesh_selector": {
+              "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+              "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+            },
+            "name": "g2038_tree_07.mesh",
+            "position": {
+              "x": -70.709983825684,
+              "y": 7.8426661491394,
+              "z": 71.965980529785
+            },
+            "restitution": 0.3,
+            "rotation": {
+              "y": 5.0089561227651e-06
+            },
+            "staticBatchNo": "1",
+            "useAnchor": true
+          },
+          {
+            "__OBJ_TYPE": "Instance_MeshPart",
+            "btsKey": "1afab7ad-e3e3-4ce8-87ee-f04c261c7187",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8721615861474803713",
+            "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+            "mesh_selector": {
+              "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+              "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+            },
+            "name": "g2038_tree_07.mesh",
+            "position": {
+              "x": -70.709983825684,
+              "y": 7.8426661491394,
+              "z": 52.224998474121
+            },
+            "restitution": 0.3,
+            "rotation": {
+              "y": -179.99998474121
+            },
+            "staticBatchNo": "1",
+            "useAnchor": true
+          },
+          {
+            "__OBJ_TYPE": "Instance_MeshPart",
+            "btsKey": "817ee233-00cf-4179-a90d-eed7e5c2392d",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8721615861478965249",
+            "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+            "mesh_selector": {
+              "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+              "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+            },
+            "name": "g2038_tree_07.mesh",
+            "position": {
+              "x": -70.709983825684,
+              "y": 7.8426661491394,
+              "z": -60.177993774414
+            },
+            "restitution": 0.3,
+            "rotation": {
+              "y": -179.99998474121
+            },
+            "staticBatchNo": "1",
+            "useAnchor": true
+          },
+          {
+            "__OBJ_TYPE": "Instance_MeshPart",
+            "btsKey": "81a1d51d-981c-4453-aed4-f945925bdfa9",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8721615861483110401",
+            "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+            "mesh_selector": {
+              "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+              "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+            },
+            "name": "g2038_tree_07.mesh",
+            "position": {
+              "x": -70.709983825684,
+              "y": 7.8426661491394,
+              "z": 14.930997848511
+            },
+            "restitution": 0.3,
+            "rotation": {
+              "y": -179.99998474121
+            },
+            "staticBatchNo": "1",
+            "useAnchor": true
+          },
+          {
+            "__OBJ_TYPE": "Instance_MeshPart",
+            "btsKey": "cfeef4ee-a066-48d3-88a7-ecb16d38b2e3",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8721615861487190017",
+            "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+            "mesh_selector": {
+              "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+              "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+            },
+            "name": "g2038_tree_07.mesh",
+            "position": {
+              "x": -70.709983825684,
+              "y": 7.8426661491394,
+              "z": -3.1429743766785
+            },
+            "restitution": 0.3,
+            "rotation": {
+              "y": 5.0089561227651e-06
+            },
+            "staticBatchNo": "1",
+            "useAnchor": true
+          }
+        ],
+        "id": "8721615983465168897",
+        "position": {
+          "x": -70.709983825684,
+          "y": 7.8426656723022,
+          "z": 5.8939700126648
+        },
+        "rotation": {
+          "y": 90
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Model",
+        "children": [
+          {
+            "__OBJ_TYPE": "Instance_MeshPart",
+            "btsKey": "a7dc1463-0a7d-4244-85bc-afdd56d5796a",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8721616406410526721",
+            "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+            "mesh_selector": {
+              "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+              "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+            },
+            "name": "g2038_tree_07.mesh",
+            "position": {
+              "x": -89.249977111816,
+              "y": 7.8426661491394,
+              "z": 21.234991073608
+            },
+            "restitution": 0.3,
+            "rotation": {
+              "y": 5.0089561227651e-06
+            },
+            "staticBatchNo": "1",
+            "useAnchor": true
+          },
+          {
+            "__OBJ_TYPE": "Instance_MeshPart",
+            "btsKey": "6919c42d-93aa-4882-9bb6-f412cbb96f36",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8721616406415081473",
+            "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+            "mesh_selector": {
+              "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+              "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+            },
+            "name": "g2038_tree_07.mesh",
+            "position": {
+              "x": -89.249977111816,
+              "y": 7.8426661491394,
+              "z": -36.320976257324
+            },
+            "restitution": 0.3,
+            "rotation": {
+              "y": -179.99998474121
+            },
+            "staticBatchNo": "1",
+            "useAnchor": true
+          },
+          {
+            "__OBJ_TYPE": "Instance_MeshPart",
+            "btsKey": "5436d0c3-5ddd-4cd1-9fd8-3a8d21fdd86c",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8721616406419456001",
+            "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+            "mesh_selector": {
+              "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+              "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+            },
+            "name": "g2038_tree_07.mesh",
+            "position": {
+              "x": -89.249977111816,
+              "y": 7.8426661491394,
+              "z": -53.873985290527
+            },
+            "restitution": 0.3,
+            "rotation": {
+              "y": 5.0089561227651e-06
+            },
+            "staticBatchNo": "1",
+            "useAnchor": true
+          },
+          {
+            "__OBJ_TYPE": "Instance_MeshPart",
+            "btsKey": "aca1ef52-f9c6-4ce1-ac37-fbd4b563457f",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8721616406423470081",
+            "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+            "mesh_selector": {
+              "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+              "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+            },
+            "name": "g2038_tree_07.mesh",
+            "position": {
+              "x": -89.249977111816,
+              "y": 7.8426661491394,
+              "z": 58.528984069824
+            },
+            "restitution": 0.3,
+            "rotation": {
+              "y": 5.0089561227651e-06
+            },
+            "staticBatchNo": "1",
+            "useAnchor": true
+          },
+          {
+            "__OBJ_TYPE": "Instance_MeshPart",
+            "btsKey": "1afab7ad-e3e3-4ce8-87ee-f04c261c7187",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8721616406427811841",
+            "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+            "mesh_selector": {
+              "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+              "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+            },
+            "name": "g2038_tree_07.mesh",
+            "position": {
+              "x": -89.249977111816,
+              "y": 7.8426661491394,
+              "z": 38.788009643555
+            },
+            "restitution": 0.3,
+            "rotation": {
+              "y": -179.99998474121
+            },
+            "staticBatchNo": "1",
+            "useAnchor": true
+          },
+          {
+            "__OBJ_TYPE": "Instance_MeshPart",
+            "btsKey": "817ee233-00cf-4179-a90d-eed7e5c2392d",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8721616406432137217",
+            "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+            "mesh_selector": {
+              "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+              "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+            },
+            "name": "g2038_tree_07.mesh",
+            "position": {
+              "x": -89.249977111816,
+              "y": 7.8426661491394,
+              "z": -73.61498260498
+            },
+            "restitution": 0.3,
+            "rotation": {
+              "y": -179.99998474121
+            },
+            "staticBatchNo": "1",
+            "useAnchor": true
+          },
+          {
+            "__OBJ_TYPE": "Instance_MeshPart",
+            "btsKey": "81a1d51d-981c-4453-aed4-f945925bdfa9",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8721616406436134913",
+            "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+            "mesh_selector": {
+              "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+              "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+            },
+            "name": "g2038_tree_07.mesh",
+            "position": {
+              "x": -89.249977111816,
+              "y": 7.8426661491394,
+              "z": 1.4939918518066
+            },
+            "restitution": 0.3,
+            "rotation": {
+              "y": -179.99998474121
+            },
+            "staticBatchNo": "1",
+            "useAnchor": true
+          },
+          {
+            "__OBJ_TYPE": "Instance_MeshPart",
+            "btsKey": "cfeef4ee-a066-48d3-88a7-ecb16d38b2e3",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8721616406440411137",
+            "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+            "mesh_selector": {
+              "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+              "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+            },
+            "name": "g2038_tree_07.mesh",
+            "position": {
+              "x": -89.249977111816,
+              "y": 7.8426661491394,
+              "z": -16.579977035522
+            },
+            "restitution": 0.3,
+            "rotation": {
+              "y": 5.0089561227651e-06
+            },
+            "staticBatchNo": "1",
+            "useAnchor": true
+          }
+        ],
+        "id": "8721616406409166849",
+        "position": {
+          "x": -89.249977111816,
+          "y": 7.8426656723022,
+          "z": -7.5430335998535
+        },
+        "rotation": {
+          "y": 90
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Model",
+        "children": [
+          {
+            "__OBJ_TYPE": "Instance_MeshPart",
+            "btsKey": "a7dc1463-0a7d-4244-85bc-afdd56d5796a",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8721616523016552449",
+            "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+            "mesh_selector": {
+              "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+              "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+            },
+            "name": "g2038_tree_07.mesh",
+            "position": {
+              "x": 71.011993408203,
+              "y": 7.8426661491394,
+              "z": 43.520042419434
+            },
+            "restitution": 0.3,
+            "rotation": {
+              "y": 5.0089561227651e-06
+            },
+            "staticBatchNo": "1",
+            "useAnchor": true
+          },
+          {
+            "__OBJ_TYPE": "Instance_MeshPart",
+            "btsKey": "6919c42d-93aa-4882-9bb6-f412cbb96f36",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8721616523020484609",
+            "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+            "mesh_selector": {
+              "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+              "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+            },
+            "name": "g2038_tree_07.mesh",
+            "position": {
+              "x": 71.011993408203,
+              "y": 7.8426661491394,
+              "z": -14.035905838013
+            },
+            "restitution": 0.3,
+            "rotation": {
+              "y": -179.99998474121
+            },
+            "staticBatchNo": "1",
+            "useAnchor": true
+          },
+          {
+            "__OBJ_TYPE": "Instance_MeshPart",
+            "btsKey": "5436d0c3-5ddd-4cd1-9fd8-3a8d21fdd86c",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8721616523023925249",
+            "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+            "mesh_selector": {
+              "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+              "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+            },
+            "name": "g2038_tree_07.mesh",
+            "position": {
+              "x": 71.011993408203,
+              "y": 7.8426661491394,
+              "z": -31.588930130005
+            },
+            "restitution": 0.3,
+            "rotation": {
+              "y": 5.0089561227651e-06
+            },
+            "staticBatchNo": "1",
+            "useAnchor": true
+          },
+          {
+            "__OBJ_TYPE": "Instance_MeshPart",
+            "btsKey": "aca1ef52-f9c6-4ce1-ac37-fbd4b563457f",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8721616523027611649",
+            "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+            "mesh_selector": {
+              "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+              "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+            },
+            "name": "g2038_tree_07.mesh",
+            "position": {
+              "x": 71.011993408203,
+              "y": 7.8426661491394,
+              "z": 80.814002990723
+            },
+            "restitution": 0.3,
+            "rotation": {
+              "y": 5.0089561227651e-06
+            },
+            "staticBatchNo": "1",
+            "useAnchor": true
+          },
+          {
+            "__OBJ_TYPE": "Instance_MeshPart",
+            "btsKey": "1afab7ad-e3e3-4ce8-87ee-f04c261c7187",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8721616523031330817",
+            "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+            "mesh_selector": {
+              "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+              "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+            },
+            "name": "g2038_tree_07.mesh",
+            "position": {
+              "x": 71.011993408203,
+              "y": 7.8426661491394,
+              "z": 61.073066711426
+            },
+            "restitution": 0.3,
+            "rotation": {
+              "y": -179.99998474121
+            },
+            "staticBatchNo": "1",
+            "useAnchor": true
+          },
+          {
+            "__OBJ_TYPE": "Instance_MeshPart",
+            "btsKey": "817ee233-00cf-4179-a90d-eed7e5c2392d",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8721616523034836993",
+            "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+            "mesh_selector": {
+              "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+              "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+            },
+            "name": "g2038_tree_07.mesh",
+            "position": {
+              "x": 71.011993408203,
+              "y": 7.8426661491394,
+              "z": -51.329925537109
+            },
+            "restitution": 0.3,
+            "rotation": {
+              "y": -179.99998474121
+            },
+            "staticBatchNo": "1",
+            "useAnchor": true
+          },
+          {
+            "__OBJ_TYPE": "Instance_MeshPart",
+            "btsKey": "81a1d51d-981c-4453-aed4-f945925bdfa9",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8721616523038572545",
+            "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+            "mesh_selector": {
+              "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+              "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+            },
+            "name": "g2038_tree_07.mesh",
+            "position": {
+              "x": 71.011993408203,
+              "y": 7.8426661491394,
+              "z": 23.779039382935
+            },
+            "restitution": 0.3,
+            "rotation": {
+              "y": -179.99998474121
+            },
+            "staticBatchNo": "1",
+            "useAnchor": true
+          },
+          {
+            "__OBJ_TYPE": "Instance_MeshPart",
+            "btsKey": "cfeef4ee-a066-48d3-88a7-ecb16d38b2e3",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8721616523042258945",
+            "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+            "mesh_selector": {
+              "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+              "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+            },
+            "name": "g2038_tree_07.mesh",
+            "position": {
+              "x": 71.011993408203,
+              "y": 7.8426661491394,
+              "z": 5.7050685882568
+            },
+            "restitution": 0.3,
+            "rotation": {
+              "y": 5.0089561227651e-06
+            },
+            "staticBatchNo": "1",
+            "useAnchor": true
+          }
+        ],
+        "id": "8721616523015421953",
+        "position": {
+          "x": 71.011993408203,
+          "y": 7.8426656723022,
+          "z": 14.742015838623
+        },
+        "rotation": {
+          "y": 90
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Model",
+        "children": [
+          {
+            "__OBJ_TYPE": "Instance_MeshPart",
+            "btsKey": "a7dc1463-0a7d-4244-85bc-afdd56d5796a",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8721616523051876353",
+            "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+            "mesh_selector": {
+              "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+              "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+            },
+            "name": "g2038_tree_07.mesh",
+            "position": {
+              "x": 89.551986694336,
+              "y": 7.8426661491394,
+              "z": 11.552052497864
+            },
+            "restitution": 0.3,
+            "rotation": {
+              "y": 5.0089561227651e-06
+            },
+            "staticBatchNo": "1",
+            "useAnchor": true
+          },
+          {
+            "__OBJ_TYPE": "Instance_MeshPart",
+            "btsKey": "6919c42d-93aa-4882-9bb6-f412cbb96f36",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8721616523055382529",
+            "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+            "mesh_selector": {
+              "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+              "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+            },
+            "name": "g2038_tree_07.mesh",
+            "position": {
+              "x": 89.551986694336,
+              "y": 7.8426661491394,
+              "z": -46.003898620605
+            },
+            "restitution": 0.3,
+            "rotation": {
+              "y": -179.99998474121
+            },
+            "staticBatchNo": "1",
+            "useAnchor": true
+          },
+          {
+            "__OBJ_TYPE": "Instance_MeshPart",
+            "btsKey": "5436d0c3-5ddd-4cd1-9fd8-3a8d21fdd86c",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8721616523059068929",
+            "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+            "mesh_selector": {
+              "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+              "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+            },
+            "name": "g2038_tree_07.mesh",
+            "position": {
+              "x": 89.551986694336,
+              "y": 7.8426661491394,
+              "z": -63.556922912598
+            },
+            "restitution": 0.3,
+            "rotation": {
+              "y": 5.0089561227651e-06
+            },
+            "staticBatchNo": "1",
+            "useAnchor": true
+          },
+          {
+            "__OBJ_TYPE": "Instance_MeshPart",
+            "btsKey": "aca1ef52-f9c6-4ce1-ac37-fbd4b563457f",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8721616523062788097",
+            "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+            "mesh_selector": {
+              "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+              "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+            },
+            "name": "g2038_tree_07.mesh",
+            "position": {
+              "x": 89.551986694336,
+              "y": 7.8426661491394,
+              "z": 48.845993041992
+            },
+            "restitution": 0.3,
+            "rotation": {
+              "y": 5.0089561227651e-06
+            },
+            "staticBatchNo": "1",
+            "useAnchor": true
+          },
+          {
+            "__OBJ_TYPE": "Instance_MeshPart",
+            "btsKey": "1afab7ad-e3e3-4ce8-87ee-f04c261c7187",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8721616523066245121",
+            "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+            "mesh_selector": {
+              "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+              "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+            },
+            "name": "g2038_tree_07.mesh",
+            "position": {
+              "x": 89.551986694336,
+              "y": 7.8426661491394,
+              "z": 29.105060577393
+            },
+            "restitution": 0.3,
+            "rotation": {
+              "y": -179.99998474121
+            },
+            "staticBatchNo": "1",
+            "useAnchor": true
+          },
+          {
+            "__OBJ_TYPE": "Instance_MeshPart",
+            "btsKey": "817ee233-00cf-4179-a90d-eed7e5c2392d",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8721616523070013441",
+            "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+            "mesh_selector": {
+              "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+              "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+            },
+            "name": "g2038_tree_07.mesh",
+            "position": {
+              "x": 89.551986694336,
+              "y": 7.8426661491394,
+              "z": -83.297927856445
+            },
+            "restitution": 0.3,
+            "rotation": {
+              "y": -179.99998474121
+            },
+            "staticBatchNo": "1",
+            "useAnchor": true
+          },
+          {
+            "__OBJ_TYPE": "Instance_MeshPart",
+            "btsKey": "81a1d51d-981c-4453-aed4-f945925bdfa9",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8721616523073847297",
+            "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+            "mesh_selector": {
+              "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+              "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+            },
+            "name": "g2038_tree_07.mesh",
+            "position": {
+              "x": 89.551986694336,
+              "y": 7.8426661491394,
+              "z": -8.1889410018921
+            },
+            "restitution": 0.3,
+            "rotation": {
+              "y": -179.99998474121
+            },
+            "staticBatchNo": "1",
+            "useAnchor": true
+          },
+          {
+            "__OBJ_TYPE": "Instance_MeshPart",
+            "btsKey": "cfeef4ee-a066-48d3-88a7-ecb16d38b2e3",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8721616523078369281",
+            "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+            "mesh_selector": {
+              "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+              "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+            },
+            "name": "g2038_tree_07.mesh",
+            "position": {
+              "x": 89.551986694336,
+              "y": 7.8426661491394,
+              "z": -26.262916564941
+            },
+            "restitution": 0.3,
+            "rotation": {
+              "y": 5.0089561227651e-06
+            },
+            "staticBatchNo": "1",
+            "useAnchor": true
+          }
+        ],
+        "id": "8721616523050893313",
+        "position": {
+          "x": 89.551986694336,
+          "y": 7.8426656723022,
+          "z": -17.225967407227
+        },
+        "rotation": {
+          "y": 90
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "cb626e83-f3b0-45fd-9de1-c5268b1cffbb",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721617304908922881",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": 66.873985290527,
+          "y": 7.8426766395569,
+          "z": -74.527008056641
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": 90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "70cf4754-6d02-4bbe-90d2-02f0ea32fca1",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721618111237111809",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": -30.091073989868,
+          "y": 7.8426766395569,
+          "z": -2.646017074585
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": -90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "8bdbb190-1917-4d58-a449-325d6a29f670",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721618177214660609",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": -10.350030899048,
+          "y": 7.8426766395569,
+          "z": 16.892971038818
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": 90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "bd00ab2d-147a-4491-b51c-003f77177f5d",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721618248698789889",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": 45.017921447754,
+          "y": 7.8426766395569,
+          "z": -4.7730236053467
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": -90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "c9736b95-0b22-4ff6-bcff-585fd4367e92",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721618327258202113",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": 27.464939117432,
+          "y": 7.8426766395569,
+          "z": 45.430961608887
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": 90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "07a3e9f0-ad94-4c94-a722-e21bc1be50b6",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721618412826951681",
+        "mesh": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+        "mesh_selector": {
+          "asset": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh",
+          "selector": "asset/Mesh/Three Round Canopy Trees/g2038_tree_07.mesh"
+        },
+        "name": "g2038_tree_07.mesh",
+        "position": {
+          "x": -47.644046783447,
+          "y": 7.8426766395569,
+          "z": 63.173957824707
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": 90
+        },
+        "staticBatchNo": "1",
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "btsKey": "8019ed29-0000-4628-9bd5-418b8d982e2f",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721618627766697985",
+        "material": {
+          "alpha": 0.225,
+          "color": {
+            "b": 0.0,
+            "g": 0.0,
+            "r": 0.0
+          }
+        },
+        "position": {
+          "y": 7,
+          "z": -69.281143188477
+        },
+        "restitution": 0.3,
+        "scale": {
+          "x": 200,
+          "y": 15
+        },
+        "size": {
+          "x": 200,
+          "y": 15
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "btsKey": "da987064-bc10-49cf-8def-85d64320c2c2",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721619701143273473",
+        "material": {
+          "alpha": 0.326,
+          "color": {
+            "b": 0.0,
+            "g": 0.0,
+            "r": 0.0
+          }
+        },
+        "position": {
+          "y": 7,
+          "z": 67.935874938965
+        },
+        "restitution": 0.3,
+        "scale": {
+          "x": 200,
+          "y": 15
+        },
+        "size": {
+          "x": 200,
+          "y": 15
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "btsKey": "fec6962c-50ea-4094-95f2-6f83a7b40d3c",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721619951791685633",
+        "material": {
+          "alpha": 0.326,
+          "color": {
+            "b": 0.0,
+            "g": 0.0,
+            "r": 0.0
+          }
+        },
+        "position": {
+          "x": -73.168983459473,
+          "y": 7,
+          "z": -2.6167275791522e-05
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": 90
+        },
+        "scale": {
+          "x": 200,
+          "y": 15
+        },
+        "size": {
+          "x": 200,
+          "y": 15
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "btsKey": "485cfb55-edc8-47d1-9d05-57f59aca6c15",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721620178358435841",
+        "material": {
+          "alpha": 0.326,
+          "color": {
+            "b": 0.0,
+            "g": 0.0,
+            "r": 0.0
+          }
+        },
+        "position": {
+          "x": 69.193969726562,
+          "y": 7,
+          "z": 2.4745704649831e-05
+        },
+        "restitution": 0.3,
+        "rotation": {
+          "y": 90
+        },
+        "scale": {
+          "x": 200,
+          "y": 15
+        },
+        "size": {
+          "x": 200,
+          "y": 15
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "btsKey": "acf15d1b-716d-47f1-8681-421624e7b362",
+        "children": [
+          {
+            "__OBJ_TYPE": "Instance_EffectPart",
+            "csgShapeEffect": {
+              "asset": "asset/effect/Surround_aura_orange_l.effect"
+            },
+            "id": "8721624399643672577",
+            "position": {
+              "y": 1.4998896121979,
+              "z": -60.000686645508
+            }
+          }
+        ],
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8721623979142348801",
+        "material": {
+          "alpha": 0
+        },
+        "position": {
+          "y": 1.4998998641968,
+          "z": -60
+        },
+        "restitution": 0.3,
+        "scale": {
+          "x": 5,
+          "y": 0.2,
+          "z": 5
+        },
+        "size": {
+          "x": 5,
+          "y": 0.2,
+          "z": 5
+        }
+      }
+    ],
+    "name": {
+      "value": "map_SouthForest01"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "9b3117871be51933b4eac4221cc4ab43"
+    },
+    "VERSION": "0.22"
+  }
+}

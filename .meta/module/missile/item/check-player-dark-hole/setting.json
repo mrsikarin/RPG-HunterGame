@@ -1,0 +1,46 @@
+{
+  "data": {
+    "boundingVolume": {
+      "radius": 5,
+      "size": {
+        "x": 5,
+        "y": 5
+      },
+      "type": "Cylinder"
+    },
+    "boundingVolumeMissileCfg": {
+      "memory": {
+        "Sector": "1.000000-0.500000"
+      },
+      "radius": 5,
+      "size": {
+        "x": 5,
+        "y": 5
+      },
+      "type": "Cylinder"
+    },
+    "hitEntitySkill": "myplugin/dmg-player-melee01",
+    "moveSpeed": 0,
+    "name": {
+      "value": "missile_check-player-dark-hole"
+    },
+    "startEffect": {
+      "effect": {
+        "asset": "asset/effect/Continuous_dark_territory.effect"
+      },
+      "pos": {
+        "y": 0.2
+      }
+    },
+    "vanishTime": {
+      "value": 2
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "cac6feca8d2592ac4676091c7856ef58",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

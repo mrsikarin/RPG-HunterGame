@@ -1,0 +1,23 @@
+{
+  "canAbandon": true,
+  "candrop": false,
+  "canEquipPlural": true,
+  "canUse": false,
+  "dropSpeed": 0.2,
+  "handItemBoneName": "s_hand_r",
+  "icon": "@asset/Item/tile147.png",
+  "itemname": "item_axe-07",
+  "needSave": true,
+  "skill": [
+    "myplugin/c-player-melee-normal",
+    "myplugin/dmg-player-slash",
+    "myplugin/c-player-smash",
+    "myplugin/c-player-berserk"
+  ],
+  "stack_count_max": 1,
+  "syncGameData": {
+    "currentCapacity": true,
+    "extCapacity": true
+  },
+  "trap": false
+}

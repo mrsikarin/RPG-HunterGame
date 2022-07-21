@@ -1,0 +1,22 @@
+{
+  "data": {
+    "castEffect": {
+      "effect": {
+        "asset": "asset/effect/Surround_aura_yellow.effect"
+      }
+    },
+    "damagePct": 0.5,
+    "deadRemove": true,
+    "deDmgPct": 0.2,
+    "name": {
+      "value": "buff_player-lion-heart"
+    },
+    "sync": "self"
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "b472fa38e1f48c8942467b34aa07b076"
+    },
+    "VERSION": "0.22"
+  }
+}

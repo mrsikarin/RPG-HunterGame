@@ -1,0 +1,28 @@
+{
+  "data": {
+    "canAbandon": true,
+    "icon": {
+      "asset": "asset/Item/tile072.png"
+    },
+    "item": {
+      "base": {
+        "__OBJ_TYPE": "ItemInHand",
+        "skill": [
+          "myplugin/c-player-melee-normal",
+          "myplugin/dmg-player-spin"
+        ]
+      },
+      "type": "InHand"
+    },
+    "name": {
+      "value": "item_wooden-sword-03"
+    },
+    "needSave": true
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "2613bfc0be7c8b57fbb3ba3c5f8e59eb"
+    },
+    "VERSION": "0.22"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "data": {
+    "boundingVolume": {
+      "size": {
+        "x": 1.2,
+        "y": 1.2,
+        "z": 1.2
+      }
+    },
+    "boundingVolumeMissileCfg": {
+      "size": {
+        "x": 1.2,
+        "y": 1.2,
+        "z": 1.2
+      }
+    },
+    "hitCount": {
+      "hitEntityCount": 1,
+      "isValid": true
+    },
+    "hitEntitySkill": "myplugin/dmg-player-melee01",
+    "lifeTime": {
+      "value": 20
+    },
+    "moveSpeed": 20,
+    "name": {
+      "value": "missile_check-player-death-ball"
+    },
+    "startEffect": {
+      "effect": {
+        "asset": "asset/effect/Track_dark_ray.effect"
+      }
+    },
+    "vanishTime": {
+      "value": 2
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "bd83de1d1af50c3f2af029fe3c280fee",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

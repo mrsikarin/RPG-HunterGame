@@ -1,0 +1,54 @@
+{
+  "data": {
+    "castAction": "g2033_skill_sword_06",
+    "castEffect": {
+      "effect": {
+        "asset": "asset/effect/Burst_ender_pearl.effect"
+      }
+    },
+    "cdAnimation": "Clockwise",
+    "cdTime": {
+      "value": 600
+    },
+    "consumeVp": 30,
+    "enableCdMask": true,
+    "FillPosition": "Top_With360Degree",
+    "FillType": "With360Degree",
+    "name": {
+      "value": "skill_c-player-teleport"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_MeleeAttack"
+      },
+      "type": "Base"
+    },
+    "skill_pre": {
+      "enable_pre": true,
+      "ignore_jump": true,
+      "ignore_move": true,
+      "time": {
+        "value": 28
+      }
+    },
+    "skillReleaseWay": {
+      "icon": {
+        "asset": "asset/Skill/teleport.png"
+      },
+      "icon_pushed": {
+        "asset": "asset/Skill/teleport_press.png"
+      },
+      "iconPos": {
+        "area_number": 9
+      },
+      "isClickIcon": true
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "217b870fd1ce9693cd0af0f368dec88e",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

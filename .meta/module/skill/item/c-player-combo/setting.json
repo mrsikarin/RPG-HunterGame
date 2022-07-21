@@ -1,0 +1,53 @@
+{
+  "data": {
+    "castAction": "skill_combo01",
+    "cdAnimation": "Clockwise",
+    "cdTime": {
+      "value": 400
+    },
+    "consumeVp": 30,
+    "enableCdMask": true,
+    "FillPosition": "Top_With360Degree",
+    "FillType": "With360Degree",
+    "name": {
+      "value": "skill_c-player-combo"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_Missile",
+        "missile": [
+          {
+            "missileCfg": "myplugin/check-player-combo",
+            "startPos": {
+              "y": 0,
+              "z": 1
+            }
+          }
+        ],
+        "target": {
+          "type": "Self"
+        }
+      },
+      "type": "Missile"
+    },
+    "skillReleaseWay": {
+      "icon": {
+        "asset": "asset/Skill/combo.png"
+      },
+      "icon_pushed": {
+        "asset": "asset/Skill/combo_press.png"
+      },
+      "iconPos": {
+        "area_number": 8
+      },
+      "isClickIcon": true
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "446fbfe8f61e5f6f9050b42a274d7344",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

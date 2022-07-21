@@ -1,0 +1,63 @@
+{
+  "data": {
+    "castAction": "skill_hug_fireball",
+    "cdAnimation": "Clockwise",
+    "cdTime": {
+      "value": 600
+    },
+    "consumeVp": 40,
+    "enableCdMask": true,
+    "FillPosition": "Top_With360Degree",
+    "FillType": "With360Degree",
+    "name": {
+      "value": "skill_c-player-huge-fire-ball"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_Missile",
+        "missile": [
+          {
+            "missileCfg": "myplugin/check-player-huge-fire-ball",
+            "startPos": {
+              "y": 2
+            },
+            "startWait": {
+              "value": 34
+            }
+          }
+        ],
+        "target": {
+          "type": "BodyYaw"
+        }
+      },
+      "type": "Missile"
+    },
+    "skill_pre": {
+      "enable_pre": true,
+      "ignore_jump": true,
+      "ignore_move": true,
+      "time": {
+        "value": 24
+      }
+    },
+    "skillReleaseWay": {
+      "icon": {
+        "asset": "asset/Skill/big_fire_ball.png"
+      },
+      "icon_pushed": {
+        "asset": "asset/Skill/big_fire_ball_press.png"
+      },
+      "iconPos": {
+        "area_number": 9
+      },
+      "isClickIcon": true
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "b49c01e26eff254d62ff09484d5db39f",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

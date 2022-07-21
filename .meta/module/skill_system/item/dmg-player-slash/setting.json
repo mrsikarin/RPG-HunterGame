@@ -1,0 +1,33 @@
+{
+  "data": {
+    "castAction": {
+      "castAction": "attack4"
+    },
+    "cdAnimation": "Clockwise",
+    "cdTime": {
+      "value": 100
+    },
+    "enableCdMask": true,
+    "FillPosition": "Top_With360Degree",
+    "FillType": "With360Degree",
+    "name": {
+      "value": "3817c404-4a7f-4924-97b7-1135f4e12442"
+    },
+    "skillIcon": {
+      "asset": "asset/Skill/slash.png"
+    },
+    "skillIconPos": {
+      "area_number": 7
+    },
+    "skillIconPushed": {
+      "asset": "asset/Skill/slash-press.png"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "e52de3e8a57ecf87a6e8f0f0b7404486",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

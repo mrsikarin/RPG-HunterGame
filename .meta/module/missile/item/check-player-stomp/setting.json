@@ -1,0 +1,49 @@
+{
+  "data": {
+    "boundingVolume": {
+      "size": {
+        "x": 4,
+        "y": 4,
+        "z": 4
+      }
+    },
+    "boundingVolumeMissileCfg": {
+      "size": {
+        "x": 4,
+        "y": 4,
+        "z": 4
+      }
+    },
+    "hitEntityEffect": {
+      "effect": {
+        "asset": "asset/effect/Burst_brick_break.effect"
+      }
+    },
+    "hitEntitySkill": "myplugin/dmg-player-melee01",
+    "hitInterval": {
+      "value": 4
+    },
+    "lifeTime": {
+      "value": 40
+    },
+    "moveSpeed": 0,
+    "name": {
+      "value": "missile_check-player-stomp"
+    },
+    "startEffect": {
+      "effect": {
+        "asset": "asset/effect/Burst_brick_break.effect"
+      }
+    },
+    "vanishTime": {
+      "value": 2
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "6671e5c84992ab6a9d3335a397271e50",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

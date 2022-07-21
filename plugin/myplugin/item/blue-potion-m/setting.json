@@ -1,0 +1,20 @@
+{
+  "canAbandon": true,
+  "candrop": false,
+  "canEquipPlural": true,
+  "canUse": true,
+  "dropSpeed": 0.2,
+  "icon": "@asset/Item/R (6) (16).png",
+  "itemname": "item_blue-potion-m",
+  "needSave": true,
+  "stack_count_max": 99,
+  "syncGameData": {
+    "currentCapacity": true,
+    "extCapacity": true
+  },
+  "trap": false,
+  "useBuff": {
+    "cfg": "myplugin/mana-recovery",
+    "time": 100
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "data": {
+    "castAction": "skill_tornado",
+    "cdAnimation": "Clockwise",
+    "cdTime": {
+      "value": 400
+    },
+    "consumeVp": 20,
+    "enableCdMask": true,
+    "FillPosition": "Top_With360Degree",
+    "FillType": "With360Degree",
+    "name": {
+      "value": "skill_c-player-tornado"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_Missile",
+        "missile": [
+          {
+            "missileCfg": "myplugin/check-player-tornado",
+            "startWait": {
+              "value": 20
+            }
+          }
+        ],
+        "target": {
+          "type": "BodyYaw"
+        }
+      },
+      "type": "Missile"
+    },
+    "skill_pre": {
+      "enable_pre": true,
+      "ignore_jump": true,
+      "ignore_move": true,
+      "time": {
+        "value": 12
+      }
+    },
+    "skillReleaseWay": {
+      "icon": {
+        "asset": "asset/Skill/tornado.png"
+      },
+      "icon_pushed": {
+        "asset": "asset/Skill/tornado_press.png"
+      },
+      "iconPos": {
+        "area_number": 8
+      },
+      "isClickIcon": true
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "e59e305f569d8365e5fad6470d94dd8a",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

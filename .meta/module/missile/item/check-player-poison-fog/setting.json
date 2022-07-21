@@ -1,0 +1,41 @@
+{
+  "data": {
+    "boundingVolume": {
+      "size": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    "boundingVolumeMissileCfg": {
+      "size": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    "hitEntitySkill": "myplugin/dmg-player-melee01",
+    "moveSpeed": 0,
+    "name": {
+      "value": "missile_check-player-poison-fog"
+    },
+    "startEffect": {
+      "effect": {
+        "asset": "asset/effect/Continuous_green_light.effect"
+      },
+      "pos": {
+        "y": 0.2
+      }
+    },
+    "vanishTime": {
+      "value": 2
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "efe453971b392505b1a928a117c72802",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

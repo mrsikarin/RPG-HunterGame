@@ -1,0 +1,307 @@
+{
+  "data": {
+    "canAbandon": true,
+    "canUse": true,
+    "icon": {
+      "asset": "asset/Item/tile034.png"
+    },
+    "item": {
+      "base": {
+        "__OBJ_TYPE": "ItemUse",
+        "time": {
+          "value": 60
+        },
+        "useBuff": "myplugin/mana-recovery"
+      },
+      "type": "Use"
+    },
+    "name": {
+      "value": "item_holy-potion"
+    },
+    "needSave": true,
+    "stack_count_max": 99,
+    "triggers": {
+      "list": [
+        {
+          "actions": [
+            {
+              "__OBJ_TYPE": "Action_StartTimer2",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Time",
+                        "rawval": {
+                          "value": 20
+                        }
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Int",
+                        "rawval": 5
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_String"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Entity",
+                        "action": "0d01ddc7-2184-4192-a55c-0f7beead45f3"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "__OBJ_TYPE": "Component_Sequence",
+                  "children": [
+                    {
+                      "action": "4d499dcc-b1c6-4b29-9925-f207105df156"
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "c8e566de-f719-4de1-9c9b-60e8ee92263e"
+              },
+              "pos": {
+                "x": 798,
+                "y": 323
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_GetContextVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Context",
+                  "key": "obj1"
+                }
+              ],
+              "id": {
+                "value": "0d01ddc7-2184-4192-a55c-0f7beead45f3"
+              },
+              "pos": {
+                "x": 1354,
+                "y": 371
+              },
+              "type": "T_Entity"
+            },
+            {
+              "__OBJ_TYPE": "Action_Parallel",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Sequence",
+                  "children": [
+                    {
+                      "action": "806e168b-b56b-4cdd-aaa0-9a5448884b28"
+                    },
+                    {
+                      "action": "b19c7ba4-aeff-4b04-b6be-5c2db32ddc3f"
+                    },
+                    {
+                      "action": "cd95433c-c5c4-46d0-b26d-52db0ea51b02"
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "4d499dcc-b1c6-4b29-9925-f207105df156"
+              },
+              "pos": {
+                "x": 1387,
+                "y": 657
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_RemoveBuffByFullName",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Entity",
+                        "action": "33df2120-ae29-49c3-ae4b-115f6f2b0c7b"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Bool"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_BuffEntry",
+                        "rawval": "myplugin/burn"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "806e168b-b56b-4cdd-aaa0-9a5448884b28"
+              },
+              "pos": {
+                "x": 1704,
+                "y": 625
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_GetContextVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Context",
+                  "key": "obj1"
+                }
+              ],
+              "id": {
+                "value": "33df2120-ae29-49c3-ae4b-115f6f2b0c7b"
+              },
+              "pos": {
+                "x": 2111,
+                "y": 643
+              },
+              "type": "T_Entity"
+            },
+            {
+              "__OBJ_TYPE": "Action_RemoveBuffByFullName",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Entity",
+                        "action": "7b73d723-a37a-4554-ad74-098879033d6d"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Bool"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_BuffEntry",
+                        "rawval": "myplugin/freeze"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "b19c7ba4-aeff-4b04-b6be-5c2db32ddc3f"
+              },
+              "pos": {
+                "x": 1716.5,
+                "y": 827
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_GetContextVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Context",
+                  "key": "obj1"
+                }
+              ],
+              "id": {
+                "value": "7b73d723-a37a-4554-ad74-098879033d6d"
+              },
+              "pos": {
+                "x": 2123.5,
+                "y": 845
+              },
+              "type": "T_Entity"
+            },
+            {
+              "__OBJ_TYPE": "Action_RemoveBuffByFullName",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Entity",
+                        "action": "4646e10f-ece4-4d2b-a1be-cd7f967ea75e"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Bool"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_BuffEntry",
+                        "rawval": "myplugin/poison"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "cd95433c-c5c4-46d0-b26d-52db0ea51b02"
+              },
+              "pos": {
+                "x": 1718.5,
+                "y": 1044
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_GetContextVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Context",
+                  "key": "obj1"
+                }
+              ],
+              "id": {
+                "value": "4646e10f-ece4-4d2b-a1be-cd7f967ea75e"
+              },
+              "pos": {
+                "x": 2125.5,
+                "y": 1062
+              },
+              "type": "T_Entity"
+            }
+          ],
+          "custom_trigger_data": {
+            "name": {
+              "value": "528e29d2-68de-44fb-bd58-21fc97784394"
+            },
+            "type": "Trigger_RemoveItem"
+          },
+          "root": {
+            "components": [
+              {
+                "__OBJ_TYPE": "Component_Sequence",
+                "children": [
+                  {
+                    "action": "c8e566de-f719-4de1-9c9b-60e8ee92263e"
+                  }
+                ]
+              }
+            ],
+            "id": {
+              "value": "d83c959e-f1f5-471c-9769-59d9793e1721"
+            }
+          },
+          "type": "Trigger_RemoveItem"
+        }
+      ]
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "eee0a89dfdf5026c342eb69caf116ad1",
+      "triggers.bts": "48f02d4e74ef42cf7a68148207648cb3"
+    },
+    "VERSION": "0.22"
+  }
+}

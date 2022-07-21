@@ -1,0 +1,15 @@
+{
+  "data": {
+    "damagePct": 2,
+    "deadRemove": true,
+    "name": {
+      "value": "buff_buff-str"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "79b183fed4af9fbf9e60a08d4e2c7cf9"
+    },
+    "VERSION": "0.22"
+  }
+}

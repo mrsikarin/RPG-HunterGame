@@ -1,0 +1,29 @@
+{
+  "data": {
+    "canAbandon": true,
+    "icon": {
+      "asset": "asset/Item/R (6) (3).png"
+    },
+    "item": {
+      "base": {
+        "__OBJ_TYPE": "ItemInHand",
+        "skill": [
+          "myplugin/c-player-magic-normal",
+          "myplugin/c-player-fire-ball",
+          "myplugin/c-player-tornado"
+        ]
+      },
+      "type": "InHand"
+    },
+    "name": {
+      "value": "item_wizard-staff-03"
+    },
+    "needSave": true
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "3b19bec95fe4486fd86fa22c0a75f5fd"
+    },
+    "VERSION": "0.22"
+  }
+}

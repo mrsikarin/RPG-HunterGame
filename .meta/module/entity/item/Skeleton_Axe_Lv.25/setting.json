@@ -1,0 +1,36 @@
+{
+  "data": {
+    "actorName": {
+      "asset": "asset/Actor/Red Eyed Robot Soldier/Advanced Armored Soldier.actor"
+    },
+    "AI_attack": {
+      "attackMode": "autoAttack",
+      "enable": true,
+      "skillList": [
+        {
+          "fullName": "myplugin/c-monster-lv.25"
+        }
+      ]
+    },
+    "AI_patrol": {
+      "patrolMode": "randomPath"
+    },
+    "collision": true,
+    "damage": 300,
+    "enableAI": true,
+    "girlactor": {
+      "asset": "empty.actor"
+    },
+    "maxHp": 4250,
+    "name": {
+      "value": "e52292a5-3694-4e5f-9b5a-60055087f567"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "3a3163114cf9f854dcf352af62af3da3",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

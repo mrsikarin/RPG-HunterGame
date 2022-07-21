@@ -1,0 +1,69 @@
+{
+  "data": {
+    "md5": "29c635ff26f667a82b3eb8a62c4f0892",
+    "path": "asset/Interface/damage.layout",
+    "root": {
+      "anchor": {
+        "HorizontalAlignment": "Centre",
+        "VerticalAlignment": "Centre"
+      },
+      "children": [
+        {
+          "__OBJ_TYPE": "StaticText",
+          "anchor": {
+            "HorizontalAlignment": "Centre"
+          },
+          "BorderColor": {
+            "b": 78,
+            "g": 78,
+            "r": 78
+          },
+          "BorderWidth": 2,
+          "Font": "MN CHAYEN",
+          "Font_size": 34,
+          "FrameColours": {
+            "b": 0,
+            "g": 170
+          },
+          "HorzFormatting": "CentreAligned",
+          "id": {
+            "value": "d7ef61de-09f7-4685-8f75-8feb9dc8346b"
+          },
+          "name": "dmg",
+          "pos": {
+            "UDim_X": {
+              "Offect": -0.0098913107036003
+            },
+            "UDim_Y": {
+              "Offect": 0.7944940720533
+            }
+          },
+          "size": {
+            "UDim_X": {
+              "Offect": 256.0
+            },
+            "UDim_Y": {
+              "Offect": 128.0
+            }
+          },
+          "TextColours": {
+            "r": 170
+          },
+          "VertFormatting": "CentreAligned",
+          "WindowTouchThroughMode": "MousePassThroughOpen"
+        }
+      ],
+      "id": {
+        "value": "81791419-e19f-4401-bb51-21dcc2f1e290"
+      },
+      "WindowTouchThroughMode": "MousePassThroughOpen"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "layout": "29c635ff26f667a82b3eb8a62c4f0892",
+      "triggers.bts": "d1fd7037f4941cd1b8cbfb94bb926990"
+    },
+    "VERSION": "0.22"
+  }
+}

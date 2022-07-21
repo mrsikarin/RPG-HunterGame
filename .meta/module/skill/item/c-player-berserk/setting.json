@@ -1,0 +1,62 @@
+{
+  "data": {
+    "castAction": "berseker",
+    "castActionTime": {
+      "value": 200
+    },
+    "castEffect": {
+      "effect": {
+        "asset": "asset/effect/Burst_car_explosion.effect"
+      }
+    },
+    "cdAnimation": "Clockwise",
+    "cdTime": {
+      "value": 600
+    },
+    "consumeVp": 30,
+    "enableCdMask": true,
+    "FillPosition": "Top_With360Degree",
+    "FillType": "With360Degree",
+    "name": {
+      "value": "skill_c-player-berserk"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_Buff",
+        "buffCfg": "myplugin/player-berserk",
+        "buffTime": {
+          "value": 200
+        },
+        "target": "self"
+      },
+      "type": "Buff"
+    },
+    "skill_pre": {
+      "enable_pre": true,
+      "ignore_jump": true,
+      "ignore_move": true,
+      "time": {
+        "value": 30
+      }
+    },
+    "skillReleaseWay": {
+      "icon": {
+        "asset": "asset/Skill/berserk.png"
+      },
+      "icon_pushed": {
+        "asset": "asset/Skill/berserk_press.png"
+      },
+      "iconPos": {
+        "area_number": 9
+      },
+      "isClickIcon": true
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "ab53f23dbfd9b9539d88b1d36fc0e2c9",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

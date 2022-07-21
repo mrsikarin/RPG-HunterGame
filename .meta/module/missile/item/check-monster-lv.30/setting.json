@@ -1,0 +1,26 @@
+{
+  "data": {
+    "hitEntityEffect": {
+      "effect": {
+        "asset": "asset/effect/Burst_death.effect"
+      }
+    },
+    "hitEntitySkill": "myplugin/dmg-monster-melee01.1",
+    "moveSpeed": 30,
+    "name": {
+      "value": "56f3c8be-6110-4684-82d1-ab71c09a3601"
+    },
+    "startEffect": {
+      "effect": {
+        "asset": "asset/effect/Continuous_magic_shot.effect"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "44e397a619242b8f6e0dcce1ded8e87e",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

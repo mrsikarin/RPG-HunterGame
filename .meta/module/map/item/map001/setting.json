@@ -1,0 +1,150 @@
+{
+  "data": {
+    "box": {
+      "base": {
+        "__OBJ_TYPE": "SkyBoxStatic"
+      }
+    },
+    "instances": [
+      {
+        "__OBJ_TYPE": "Instance_VoxelTerrain",
+        "id": "26644713697705985",
+        "uniqueKey": "map001"
+      },
+      {
+        "__OBJ_TYPE": "Instance_Light",
+        "id": "8712104223751454721",
+        "ID": 1,
+        "lightType": "GlobalLight",
+        "name": "EnvironmentLight",
+        "skyColor": {
+          "b": 142,
+          "g": 133
+        },
+        "skyLineColor": {
+          "g": 61,
+          "r": 62
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Light",
+        "id": "8712104223857197057",
+        "ID": 2,
+        "lightType": "DirectionalLight",
+        "name": "DirectionalLight",
+        "position": {
+          "y": 5
+        },
+        "rotation": {
+          "y": -90
+        },
+        "skyColor": {
+          "b": 142,
+          "g": 133
+        },
+        "skyLineColor": {
+          "g": 61,
+          "r": 62
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "btsKey": "a879aab7-c28b-4929-ab3b-1d3d4d8b018d",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8712723761132552193",
+        "position": {
+          "x": -0.43722677230835,
+          "y": 1.4998989105225,
+          "z": 0.5340404510498
+        },
+        "restitution": 0.3
+      },
+      {
+        "__OBJ_TYPE": "Instance_Entity",
+        "config": "myplugin/GiveXp",
+        "id": "8715766749293215745",
+        "name": "GiveXp",
+        "position": {
+          "x": 26.363750457764,
+          "y": 0.99989438056946,
+          "z": 31.97583770752
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_DropItem",
+        "config": "myplugin/wizard-staff-01",
+        "id": "8723493955289792513",
+        "position": {
+          "x": 19.80725479126,
+          "y": 0.99990081787109,
+          "z": 34.34525680542
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_DropItem",
+        "config": "myplugin/iron-sword-01",
+        "id": "8723494049119027201",
+        "position": {
+          "x": 18.805278778076,
+          "y": 0.99990081787109,
+          "z": 32.267070770264
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_DropItem",
+        "config": "myplugin/axe-01",
+        "id": "8724040606687903745",
+        "position": {
+          "x": 19.168670654297,
+          "y": 0.99989986419678,
+          "z": 37.505424499512
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_DropItem",
+        "config": "myplugin/axe-02",
+        "id": "8724040639623938049",
+        "position": {
+          "x": 24.310840606689,
+          "y": 0.99989902973175,
+          "z": 34.546279907227
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_DropItem",
+        "config": "myplugin/axe-03",
+        "id": "8724040665107742721",
+        "position": {
+          "x": 21.798307418823,
+          "y": 0.99989986419678,
+          "z": 37.636707305908
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Entity",
+        "config": "myplugin/BOSS-Boar",
+        "id": "8724051735046733825",
+        "name": "entity_BOSS-Boar",
+        "position": {
+          "x": 13.570444107056,
+          "y": 0.99990010261536,
+          "z": 9.8352298736572
+        }
+      }
+    ],
+    "name": {
+      "value": "map_map001"
+    },
+    "touch_pos": {
+      "up": 600
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "DataSet": [],
+      "setting.json": "34f79f1dd1c05fe2cd802f9674f86ec6"
+    },
+    "VERSION": "0.22"
+  }
+}

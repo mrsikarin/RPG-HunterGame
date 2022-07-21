@@ -1,0 +1,57 @@
+{
+  "data": {
+    "castAction": "skll_poison-ball",
+    "cdAnimation": "Clockwise",
+    "cdTime": {
+      "value": 100
+    },
+    "consumeVp": 5,
+    "enableCdMask": true,
+    "FillPosition": "Top_With360Degree",
+    "FillType": "With360Degree",
+    "name": {
+      "value": "skill_c-player-poison-ball"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_Missile",
+        "missile": [
+          {
+            "missileCfg": "myplugin/check-player-poison-ball"
+          }
+        ],
+        "target": {
+          "type": "CameraYaw"
+        }
+      },
+      "type": "Missile"
+    },
+    "skill_pre": {
+      "enable_pre": true,
+      "ignore_jump": true,
+      "ignore_move": true,
+      "time": {
+        "value": 6
+      }
+    },
+    "skillReleaseWay": {
+      "icon": {
+        "asset": "asset/Skill/poison_bolt.png"
+      },
+      "icon_pushed": {
+        "asset": "asset/Skill/poison_bolt_press.png"
+      },
+      "iconPos": {
+        "area_number": 7
+      },
+      "isClickIcon": true
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "16a1da7e7f8c4f4dd65a18d2cb15fef5",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "data": {
+    "boundingVolume": {
+      "position": {
+        "z": 2
+      },
+      "size": {
+        "x": 4,
+        "y": 4,
+        "z": 4
+      }
+    },
+    "boundingVolumeMissileCfg": {
+      "position": {
+        "z": 2
+      },
+      "size": {
+        "x": 4,
+        "y": 4,
+        "z": 4
+      }
+    },
+    "followTarget": true,
+    "hitEntityEffect": {
+      "effect": {
+        "asset": "asset/effect/Burst_death2.effect"
+      }
+    },
+    "hitEntitySkill": "myplugin/dmg-player-melee01",
+    "hitEntitySound": {
+      "sound": {
+        "asset": "asset/Sound/punchhit.mp3"
+      }
+    },
+    "lifeTime": {
+      "value": 4
+    },
+    "missileModel": {
+      "modelSizeScale": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      }
+    },
+    "moveSpeed": 0,
+    "name": {
+      "value": "missile_check-player-melee-normal01"
+    },
+    "startEffect": {
+      "once": true,
+      "scale": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "yaw": 90
+    },
+    "startSound": {
+      "sound": {
+        "asset": "asset/Sound/karate-chop-6357 (mp3cut.net).mp3"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "7c6a2d054222e85f3e9b7c19f0328816",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

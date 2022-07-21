@@ -1,0 +1,52 @@
+{
+  "data": {
+    "boundingVolume": {
+      "height": 3,
+      "radius": 3.5,
+      "size": {
+        "x": 5,
+        "y": 5,
+        "z": 5
+      },
+      "type": "Cylinder"
+    },
+    "boundingVolumeMissileCfg": {
+      "height": 3,
+      "memory": {
+        "Capsule": "1.000000-0.500000"
+      },
+      "radius": 3.5,
+      "size": {
+        "x": 5,
+        "y": 5,
+        "z": 5
+      },
+      "type": "Cylinder"
+    },
+    "followTarget": true,
+    "hitEntitySkill": "myplugin/dmg-player-melee01",
+    "moveSpeed": 0,
+    "name": {
+      "value": "missile_check-player-blizzard"
+    },
+    "startEffect": {
+      "effect": {
+        "asset": "asset/effect/Burst_blizzard.effect"
+      },
+      "pos": {
+        "y": 0.2
+      }
+    },
+    "target_type": "hitNpc",
+    "vanishTime": {
+      "value": 2
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "6cfb4bc9454560fb08adc24c8773b601",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

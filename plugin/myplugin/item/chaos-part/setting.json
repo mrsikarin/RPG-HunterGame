@@ -1,0 +1,18 @@
+{
+  "canAbandon": false,
+  "candrop": false,
+  "canEquipPlural": true,
+  "canUse": false,
+  "dropSpeed": 0.2,
+  "handItemBoneName": "s_hand_r",
+  "icon": "@asset/Item/tile240.png",
+  "itemname": "item_chaos-part",
+  "needSave": true,
+  "skill": [],
+  "stack_count_max": 7,
+  "syncGameData": {
+    "currentCapacity": true,
+    "extCapacity": true
+  },
+  "trap": false
+}
