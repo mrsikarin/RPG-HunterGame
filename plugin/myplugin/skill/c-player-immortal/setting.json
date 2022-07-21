@@ -21,7 +21,7 @@
   "backSwingTime": 0,
   "buffCfg": "myplugin/player-immortal",
   "buffTime": 100,
-  "castAction": "g2033_skill_chakra_10",
+  "castAction": "skill_immortal",
   "castActionTime": -1,
   "cdMaskConfig": {
     "AntiClockwise": false,

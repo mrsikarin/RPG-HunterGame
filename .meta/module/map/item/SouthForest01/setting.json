@@ -2345,8 +2345,12 @@
   },
   "meta": {
     "EXPORT": {
+<<<<<<< HEAD
       "DataSet": [],
       "setting.json": "f0c44b2792208bf4903f8c2099b735db"
+=======
+      "setting.json": "9b3117871be51933b4eac4221cc4ab43"
+>>>>>>> 24313f8cdc95a106911a4a06ad6093c985bab36f
     },
     "VERSION": "0.22"
   }

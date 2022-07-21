@@ -1,6 +1,6 @@
 {
   "data": {
-    "castAction": "g2033_skill_chakra_09",
+    "castAction": "skill_lion-heart",
     "cdAnimation": "Clockwise",
     "cdTime": {
       "value": 600
@@ -40,12 +40,13 @@
       },
       "iconPos": {
         "area_number": 9
-      }
+      },
+      "isClickIcon": true
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "dc8dc92acdd3077f7e60aeac133ad709",
+      "setting.json": "06ef37070051714f565feea13a535f26",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

@@ -23,9 +23,9 @@
   "clickDistance": 4,
   "collider": {
     "extent": {
-      "x": 2,
-      "y": 2,
-      "z": 2
+      "x": 0.6,
+      "y": 1.8,
+      "z": 0.6
     },
     "offset": {
       "x": 0.0,
@@ -90,13 +90,13 @@
     {
       "__OBJ_TYPE": "AI_Skill",
       "attackDis": 3,
-      "fullName": "myplugin/c-monster-melee-atk1-01",
+      "fullName": "myplugin/c-monster-lv.5",
       "priority": 0
     },
     {
       "__OBJ_TYPE": "AI_Skill",
       "attackDis": 4,
-      "fullName": "myplugin/c-monster-melee-atk2-01",
+      "fullName": "myplugin/c-monster-lv.5-2",
       "priority": 0
     }
   ],

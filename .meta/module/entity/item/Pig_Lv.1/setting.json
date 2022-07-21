@@ -9,7 +9,7 @@
       "skillList": [
         {
           "attackDis": 3.5,
-          "fullName": "myplugin/c-monster-melee-atk1-01"
+          "fullName": "myplugin/c-monster-lv.1"
         }
       ]
     },
@@ -292,7 +292,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "f200cd20c25e01965e05f6ccd4e5f647",
+      "setting.json": "5cd23ee01b983ff3e27f962cbbb05048",
       "triggers.bts": "7d80080b6267771603786a7679790c95"
     },
     "VERSION": "0.22"

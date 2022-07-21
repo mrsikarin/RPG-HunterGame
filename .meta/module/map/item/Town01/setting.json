@@ -17,11 +17,11 @@
         "lightType": "GlobalLight",
         "name": "EnvironmentLight",
         "skyColor": {
-          "b": 140,
-          "g": 132
+          "b": 141,
+          "g": 133
         },
         "skyLineColor": {
-          "g": 59,
+          "g": 60,
           "r": 62
         }
       },
@@ -38,11 +38,11 @@
           "y": -90
         },
         "skyColor": {
-          "b": 140,
-          "g": 132
+          "b": 141,
+          "g": 133
         },
         "skyLineColor": {
-          "g": 59,
+          "g": 60,
           "r": 62
         }
       },
@@ -4333,19 +4333,20 @@
               "y": 0.999998
             },
             "size": {
-              "x": 3.9999842643738,
-              "y": 5.3003978729248,
-              "z": 3.9999990463257
+              "x": 0.999998,
+              "y": 0.999998
+            },
+            "transform": {
+              "scale": {
+                "x": 0.999998,
+                "y": 0.999998
+              }
             }
           }
         ],
         "density": 2.2,
         "friction": 0.37,
         "id": "8721603084805390337",
-        "massCenter": {
-          "y": 1.3679001331329,
-          "z": -69.738037109375
-        },
         "material": {
           "alpha": 0
         },
@@ -5935,22 +5936,12 @@
             },
             "rotation": {
               "y": -180
-            },
-            "transform": {
-              "pos": {
-                "y": 2
-              }
             }
           }
         ],
         "density": 2.2,
         "friction": 0.37,
         "id": "8722696317332340737",
-        "massCenter": {
-          "x": 7.7405109405518,
-          "y": 2.7414257526398,
-          "z": -11.665566444397
-        },
         "mesh": "asset/Mesh/Wooden Notice Board/g2021_xinshoucun_zhaopai.mesh",
         "mesh_selector": {
           "asset": "asset/Mesh/Wooden Notice Board/g2021_xinshoucun_zhaopai.mesh",
@@ -5975,18 +5966,11 @@
         "useAnchor": true
       },
       {
-        "__OBJ_TYPE": "Instance_Part",
-        "btsKey": "1c5b433a-778d-4677-9252-a46031541653",
-        "density": 2.93,
-        "friction": 0.74,
-        "id": "8722705898499604481",
-        "massCenter": {
-          "y": 1.1169006824493
-        },
-        "material": {
-          "texture": "part_shihuizhuan.tga"
-        },
+        "__OBJ_TYPE": "Instance_DropItem",
+        "config": "myplugin/wizard-staff-01",
+        "id": "8722841528966938625",
         "position": {
+<<<<<<< HEAD
           "y": 1.1169006824493
         },
         "restitution": 0.2,
@@ -6001,20 +5985,19 @@
           "z": 200
         },
         "useAnchor": true
+=======
+          "x": -0.027723249047995,
+          "y": 1.2173864841461,
+          "z": -8.3192615509033
+        }
+>>>>>>> 24313f8cdc95a106911a4a06ad6093c985bab36f
       },
       {
-        "__OBJ_TYPE": "Instance_Part",
-        "btsKey": "5c3451a2-b435-4aa5-86f0-ae550b2c496a",
-        "density": 2.93,
-        "friction": 0.74,
-        "id": "8722708108494913537",
-        "massCenter": {
-          "y": 1.1169006824493
-        },
-        "material": {
-          "texture": "part_shihuizhuan.tga"
-        },
+        "__OBJ_TYPE": "Instance_DropItem",
+        "config": "myplugin/wooden-sword-01",
+        "id": "8723003310495907841",
         "position": {
+<<<<<<< HEAD
           "y": 1.1169006824493
         },
         "restitution": 0.2,
@@ -6032,6 +6015,12 @@
           "z": 200
         },
         "useAnchor": true
+=======
+          "x": 2.0773057937622,
+          "y": 1.2198524475098,
+          "z": -8.6203880310059
+        }
+>>>>>>> 24313f8cdc95a106911a4a06ad6093c985bab36f
       }
     ],
     "name": {
@@ -6041,7 +6030,11 @@
   "meta": {
     "EXPORT": {
       "DataSet": [],
+<<<<<<< HEAD
       "setting.json": "243a277a0cb6519b7d9d02109b893771"
+=======
+      "setting.json": "a169d4c19d77c10190ce7b4425bc15f8"
+>>>>>>> 24313f8cdc95a106911a4a06ad6093c985bab36f
     },
     "VERSION": "0.22"
   }

@@ -56,7 +56,7 @@
   "isShowCdPoint": false,
   "isTouch": false,
   "missileCfg": [
-    "myplugin/pre-skill01"
+    "myplugin/pre-skill01-1"
   ],
   "missileCount": 1,
   "preSwingTime": 0,

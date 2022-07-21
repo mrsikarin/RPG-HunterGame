@@ -1,6 +1,26 @@
 {
   "data": {
-    "hitEntitySkill": "myplugin/8b847a11-f9ad-46db-b9b0-79d85e29aafc",
+    "boundingVolume": {
+      "position": {
+        "z": 2
+      },
+      "size": {
+        "x": 4,
+        "y": 4,
+        "z": 4
+      }
+    },
+    "boundingVolumeMissileCfg": {
+      "position": {
+        "z": 2
+      },
+      "size": {
+        "x": 4,
+        "y": 4,
+        "z": 4
+      }
+    },
+    "hitEntitySkill": "myplugin/dmg-player-melee01",
     "hitInterval": {
       "value": 20
     },
@@ -20,7 +40,8 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "3e9905afb0cc9727da4a91971d5d1a32"
+      "setting.json": "a67c3c17dd22a47134aa51dd2bfaceac",
+      "triggers.bts": ""
     },
     "VERSION": "0.22"
   }

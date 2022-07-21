@@ -8,7 +8,7 @@
       "enable": true,
       "skillList": [
         {
-          "fullName": "myplugin/c-monster-melee-knockback01"
+          "fullName": "myplugin/c-monster-lv.15"
         }
       ]
     },
@@ -28,7 +28,8 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "878aaf84b8e8ce4c804f59c676292ad8"
+      "setting.json": "da37da94e3da0e9da7d3507b86513d0a",
+      "triggers.bts": ""
     },
     "VERSION": "0.22"
   }

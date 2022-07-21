@@ -1,6 +1,6 @@
 {
   "data": {
-    "md5": "7da29d14308d197e515b0a03d5d5f754",
+    "md5": "38be57510440e9533aa1cf493f2e108b",
     "path": "asset/Interface/btnAtk.layout",
     "root": {
       "anchor": {
@@ -30,15 +30,18 @@
                 "asset": "asset/Texture/Skill/common/icon_近战攻击_act.png"
               },
               "id": {
-                "value": "f6e8facd-59a9-40a7-8e6e-a2ab5d82a821"
+                "value": "4d427517-43de-45e5-83a1-dfc1716f2f0b"
               },
               "name": "btn_melee",
               "NormalImage": {
                 "asset": "asset/Texture/Skill/common/icon_近战攻击_act.png"
               },
               "pos": {
+                "UDim_X": {
+                  "Offect": 77.346927678394
+                },
                 "UDim_Y": {
-                  "Offect": -2.3271026611328
+                  "Offect": 39.325743964857
                 }
               },
               "PushedImage": {
@@ -50,7 +53,7 @@
                   "Scale": 0.4
                 },
                 "UDim_Y": {
-                  "Offect": 0.0,
+                  "Offect": 0,
                   "Scale": 0.5
                 }
               },
@@ -70,11 +73,19 @@
                 "asset": "asset/Texture/Skill/common/icon_火球_act.png"
               },
               "id": {
-                "value": "e393866c-74d4-4b31-af20-9004d7d85ac2"
+                "value": "6201d1e5-f58a-4216-9e88-fb76f3da1ba8"
               },
               "name": "btn_magic",
               "NormalImage": {
                 "asset": "asset/Texture/Skill/common/icon_火球_act.png"
+              },
+              "pos": {
+                "UDim_X": {
+                  "Offect": 77.346927678394
+                },
+                "UDim_Y": {
+                  "Offect": 41.652891637916
+                }
               },
               "PushedImage": {
                 "asset": "asset/Texture/Skill/common/icon_火球_nor.png"
@@ -93,13 +104,13 @@
             }
           ],
           "id": {
-            "value": "56954682-e076-4f8d-ac0f-459890ad50d0"
+            "value": "72b7f556-5de7-422e-9926-04577fc0624e"
           },
           "WindowTouchThroughMode": "MousePassThroughAlpha"
         }
       ],
       "id": {
-        "value": "b762f5d5-fa0b-45f1-a75a-3ec70f1d9e00"
+        "value": "ab21d4b1-8ea0-4f04-a21d-85d73b3dbc83"
       },
       "size": {
         "UDim_X": {
@@ -116,7 +127,7 @@
   },
   "meta": {
     "EXPORT": {
-      "layout": "7da29d14308d197e515b0a03d5d5f754",
+      "layout": "38be57510440e9533aa1cf493f2e108b",
       "triggers.bts": "d1fd7037f4941cd1b8cbfb94bb926990"
     },
     "VERSION": "0.22"

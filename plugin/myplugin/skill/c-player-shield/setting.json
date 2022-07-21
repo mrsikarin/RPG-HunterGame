@@ -21,7 +21,7 @@
   "backSwingTime": 0,
   "buffCfg": "myplugin/player-shield",
   "buffTime": 200,
-  "castAction": "g2033_skill_chakra_05",
+  "castAction": "skill_shield",
   "castActionTime": -1,
   "cdMaskConfig": {
     "AntiClockwise": false,
@@ -42,6 +42,8 @@
   "enableMoveBrkPreS": false,
   "frontSight": "",
   "horizontalAlignment": 2,
+  "icon": "@asset/Skill/shield.png",
+  "icon_pushed": "@asset/Skill/shield_press.png",
   "ignoreCastSkillBackS": false,
   "ignoreCastSkillPreS": true,
   "ignoreJumpBackS": false,

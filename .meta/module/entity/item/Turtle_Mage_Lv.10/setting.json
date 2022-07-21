@@ -9,7 +9,7 @@
       "skillList": [
         {
           "attackDis": 10,
-          "fullName": "myplugin/c-monster-magic-atk1-01"
+          "fullName": "myplugin/c-monster-lv.10"
         }
       ]
     },
@@ -113,7 +113,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "ceb5e6e1a223ef855496920546af586a",
+      "setting.json": "6b93013aa5678079ca0508a713c98459",
       "triggers.bts": "c14aab79915deaee75cc3150f2f5309b"
     },
     "VERSION": "0.22"

@@ -1,6 +1,6 @@
 {
   "data": {
-    "castAction": "g2033_skill_chakra_09",
+    "castAction": "g2033_skill_chakra_penhuo",
     "cdAnimation": "Clockwise",
     "cdTime": {
       "value": 600
@@ -38,7 +38,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "a21a09948e957a7909e180e91fdda0a5",
+      "setting.json": "c6be6b9cdffc0f1ab429f7b75d7635b8",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

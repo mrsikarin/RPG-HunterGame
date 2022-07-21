@@ -1,6 +1,25 @@
 {
   "data": {
-    "hitEntitySkill": "myplugin/8b847a11-f9ad-46db-b9b0-79d85e29aafc",
+    "boundingVolume": {
+      "radius": 5,
+      "size": {
+        "x": 5,
+        "y": 5
+      },
+      "type": "Cylinder"
+    },
+    "boundingVolumeMissileCfg": {
+      "memory": {
+        "Sector": "1.000000-0.500000"
+      },
+      "radius": 5,
+      "size": {
+        "x": 5,
+        "y": 5
+      },
+      "type": "Cylinder"
+    },
+    "hitEntitySkill": "myplugin/dmg-player-melee01",
     "moveSpeed": 0,
     "name": {
       "value": "missile_check-player-dark-hole"
@@ -19,7 +38,8 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "ca42b30f3e1257fdd2b6cdb30934b919"
+      "setting.json": "cac6feca8d2592ac4676091c7856ef58",
+      "triggers.bts": ""
     },
     "VERSION": "0.22"
   }

@@ -1,6 +1,6 @@
 {
   "data": {
-    "md5": "a6887adf45d0271324436375ec8cc704",
+    "md5": "2505be36072f7e14c3ae2f57961de01f",
     "path": "asset/Custom Joystick/mainWnd.layout",
     "root": {
       "anchor": {
@@ -22,7 +22,7 @@
                   "Alpha": 0.75,
                   "ClippedByParent": true,
                   "id": {
-                    "value": "ff2f21ab-95d8-4288-abbe-a8d756f6517f"
+                    "value": "474ceb06-cc52-47d3-95fb-29fa15d1150e"
                   },
                   "Image": {
                     "asset": "asset/Custom Joystick/pole (1).png"
@@ -47,7 +47,7 @@
                   },
                   "ClippedByParent": true,
                   "id": {
-                    "value": "49b55202-7a25-4094-863b-834183c0f1e3"
+                    "value": "92e42817-c253-42e4-9011-d9fc2e4fef4b"
                   },
                   "Image": {
                     "asset": "asset/Custom Joystick/pole (2).png"
@@ -65,7 +65,7 @@
                 {
                   "__OBJ_TYPE": "DefaultWindow",
                   "id": {
-                    "value": "7050929c-a153-4d51-873a-143dc828ec0b"
+                    "value": "465aacdd-68c1-47d8-8c46-6a2e61d62a90"
                   },
                   "name": "MoveArea",
                   "pos": {
@@ -90,7 +90,7 @@
                 }
               ],
               "id": {
-                "value": "d2d14c6a-7b8d-457b-92ea-39b2b39d7472"
+                "value": "bfb3d712-51b4-4d5a-ba33-76ef4ad25734"
               },
               "name": "Pole",
               "pos": {
@@ -115,7 +115,7 @@
           ],
           "ClippedByParent": true,
           "id": {
-            "value": "62206b57-48bd-4d36-80d9-1abc94c2b46c"
+            "value": "3af2821c-80ed-49f8-8e49-2cb203329aa2"
           },
           "name": "MoveCompomentBase",
           "pos": {
@@ -137,7 +137,7 @@
         }
       ],
       "id": {
-        "value": "92984a82-8780-48a0-b9c4-8792e01708c0"
+        "value": "f290294e-49c0-40a5-8140-2043ce3b234b"
       },
       "pos": {
         "UDim_Y": {
@@ -159,7 +159,7 @@
   },
   "meta": {
     "EXPORT": {
-      "layout": "a6887adf45d0271324436375ec8cc704",
+      "layout": "2505be36072f7e14c3ae2f57961de01f",
       "triggers.bts": "d1fd7037f4941cd1b8cbfb94bb926990"
     },
     "VERSION": "0.22"

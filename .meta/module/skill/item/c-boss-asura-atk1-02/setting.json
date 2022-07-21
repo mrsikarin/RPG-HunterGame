@@ -11,7 +11,6 @@
         "__OBJ_TYPE": "Skill_Missile",
         "missile": [
           {
-            "missileCfg": "myplugin/check-boss-asura-atk1-02",
             "startPos": {
               "z": 0.5
             }
@@ -26,7 +25,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "b3b204398c97546c6c3118aa1db43cb5",
+      "setting.json": "a1cafcebc28a31886a68661d34d7cd92",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

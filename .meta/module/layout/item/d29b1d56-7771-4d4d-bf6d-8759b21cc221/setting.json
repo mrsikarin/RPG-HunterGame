@@ -1,6 +1,6 @@
 {
   "data": {
-    "md5": "944c9e9d2f16640a943df06f9cca22bb",
+    "md5": "8dd7c22c305c8f453fb7302471db500a",
     "path": "gui/layout_presets/appMainRole.layout",
     "root": {
       "anchor": {
@@ -22,7 +22,7 @@
                   "__OBJ_TYPE": "StaticImage",
                   "ClippedByParent": true,
                   "id": {
-                    "value": "6b19f001-4e3e-4751-9049-c46105cabe59"
+                    "value": "20192f4c-c278-4d45-82ab-2fbcfb449cc8"
                   },
                   "Image": {
                     "asset": "asset/atlas.imageset",
@@ -49,7 +49,7 @@
                   },
                   "ClippedByParent": true,
                   "id": {
-                    "value": "0f822f58-c553-4c58-8c50-4fa7005e4ddb"
+                    "value": "94f8a85e-996a-4da4-a874-feb5a2549ff4"
                   },
                   "Image": {
                     "asset": "",
@@ -74,7 +74,7 @@
                   },
                   "ClippedByParent": true,
                   "id": {
-                    "value": "3e98623f-9d33-4acb-ac69-51a4a76b731d"
+                    "value": "a9bfd6e8-c760-4b31-a3ec-01b92640c595"
                   },
                   "Image": {
                     "asset": "asset/Texture/Gui/imagesets/role_Panel.imageset",
@@ -94,7 +94,7 @@
               ],
               "ClippedByParent": true,
               "id": {
-                "value": "f1cdd9a0-c3a5-4754-933d-de8719de0ec4"
+                "value": "879a6bef-6241-4be9-8d91-3f1250f50dec"
               },
               "name": "BG",
               "size": {
@@ -122,7 +122,7 @@
                   "__OBJ_TYPE": "GridView",
                   "ClippedByParent": true,
                   "id": {
-                    "value": "a4d24c0e-3b77-49f9-8952-4d33aac9aae6"
+                    "value": "18a64c75-bc31-4832-a679-84bc070a2df1"
                   },
                   "name": "GridLayout",
                   "size": {
@@ -139,7 +139,7 @@
               "ForceHorzScrollbar": false,
               "ForceVertScrollbar": false,
               "id": {
-                "value": "52f4bd69-4c63-4fae-863e-313974a90e67"
+                "value": "1cddf9a3-c346-40e4-8822-c6c11bdc5c60"
               },
               "name": "LeftScrollableView",
               "pos": {
@@ -176,7 +176,7 @@
                   "__OBJ_TYPE": "GridView",
                   "ClippedByParent": true,
                   "id": {
-                    "value": "f1876147-55ac-43cd-b184-2af76689bfce"
+                    "value": "c8f9e31f-83be-4234-add0-6bb30b4992d6"
                   },
                   "name": "GridLayout",
                   "size": {
@@ -193,7 +193,7 @@
               "ForceHorzScrollbar": false,
               "ForceVertScrollbar": false,
               "id": {
-                "value": "2578018a-17f6-402b-8b4c-b80b8ce22828"
+                "value": "c5a283ff-576a-4251-8d68-1607ad9d904b"
               },
               "name": "RightScrollableView",
               "size": {
@@ -211,7 +211,7 @@
               "__OBJ_TYPE": "DefaultWindow",
               "ClippedByParent": true,
               "id": {
-                "value": "93b053b3-63b1-4feb-a14e-703a4ec92755"
+                "value": "fd2a3ae3-e112-45e0-84de-492a96770dc0"
               },
               "name": "LeftLayout",
               "pos": {
@@ -240,7 +240,7 @@
               },
               "ClippedByParent": true,
               "id": {
-                "value": "e1ed603b-2fba-4b89-9f13-d5b6e6e2f51d"
+                "value": "e56a0d48-ca0f-4afe-aeed-ac544be99de7"
               },
               "name": "RightLayout",
               "size": {
@@ -257,7 +257,7 @@
           ],
           "ClippedByParent": true,
           "id": {
-            "value": "651c61e5-9e50-413a-8e1b-eccdd3508fdc"
+            "value": "bd200c17-ce63-4525-80fa-543a245ca63f"
           },
           "name": "Main",
           "pos": {
@@ -284,7 +284,7 @@
               "__OBJ_TYPE": "StaticImage",
               "ClippedByParent": true,
               "id": {
-                "value": "fbdaf45c-d9a4-4ec5-a7ad-38b88567a091"
+                "value": "1ce3d36a-1953-4f00-bc3f-615955c63585"
               },
               "Image": {
                 "asset": "asset/Texture/Gui/imagesets/role_Panel.imageset",
@@ -316,7 +316,7 @@
                   "__OBJ_TYPE": "GridView",
                   "ClippedByParent": true,
                   "id": {
-                    "value": "50f44250-4106-4b8b-a1ab-f1a7e75f8444"
+                    "value": "83a4a938-1b46-47f7-b79a-5d2ffa1cf949"
                   },
                   "name": "GridLayout",
                   "size": {
@@ -333,7 +333,7 @@
               "ForceHorzScrollbar": false,
               "ForceVertScrollbar": false,
               "id": {
-                "value": "fa290d67-8cf9-455f-9b7a-0936e50b5437"
+                "value": "1fe66fde-8eb2-4f7f-8255-1fe0289b59bc"
               },
               "name": "RoleScrollableView",
               "size": {
@@ -350,7 +350,7 @@
           ],
           "ClippedByParent": true,
           "id": {
-            "value": "c9fc3c98-a99c-4cdb-a1db-27fa3679cd70"
+            "value": "fe769e5b-df45-49e1-9a76-30363c603324"
           },
           "name": "LeftLayout",
           "pos": {
@@ -377,7 +377,7 @@
               "__OBJ_TYPE": "StaticImage",
               "ClippedByParent": true,
               "id": {
-                "value": "ec3f57f3-6ff5-460e-9a70-81185e2e35bc"
+                "value": "f861dc44-4504-4712-bcf9-ebd60b9f15f4"
               },
               "Image": {
                 "asset": "asset/Texture/Gui/imagesets/role_Panel.imageset",
@@ -403,7 +403,7 @@
               },
               "ClippedByParent": true,
               "id": {
-                "value": "d6a5f1dd-ac99-4cec-b34d-83af6e55df3b"
+                "value": "3d7eabf5-d6ea-4ced-9f7b-ddebc96b31d0"
               },
               "size": {
                 "UDim_X": {
@@ -427,7 +427,7 @@
           ],
           "ClippedByParent": true,
           "id": {
-            "value": "0a6025f3-cf5b-42a7-950a-bc6a2c435be5"
+            "value": "1c5de25c-b42e-40fe-a5b5-798a74da92a4"
           },
           "name": "TopLayout",
           "pos": {
@@ -461,7 +461,7 @@
             "selector": "asset/Texture/Gui/imagesets/role_Panel.imageset"
           },
           "id": {
-            "value": "ecb2785b-a6ae-4c82-82a4-4569d868a948"
+            "value": "398acc90-6a16-4c64-bc5b-641d9c5d908c"
           },
           "name": "Close",
           "NormalImage": {
@@ -495,7 +495,7 @@
       ],
       "ClippedByParent": true,
       "id": {
-        "value": "cd834334-2587-4937-9b45-86318d5b310f"
+        "value": "58e98c20-25aa-4dfa-9e01-56e721c68f7b"
       },
       "size": {
         "UDim_X": {
@@ -511,7 +511,7 @@
   },
   "meta": {
     "EXPORT": {
-      "layout": "944c9e9d2f16640a943df06f9cca22bb",
+      "layout": "8dd7c22c305c8f453fb7302471db500a",
       "triggers.bts": "d1fd7037f4941cd1b8cbfb94bb926990"
     },
     "VERSION": "0.22"

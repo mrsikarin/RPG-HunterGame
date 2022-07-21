@@ -23,9 +23,9 @@
   "clickDistance": 4,
   "collider": {
     "extent": {
-      "x": 1.6,
-      "y": 2.8,
-      "z": 1.6
+      "x": 0.6,
+      "y": 1.8,
+      "z": 0.6
     },
     "offset": {
       "x": 0.0,
@@ -62,6 +62,11 @@
   "hpBarHeight": 0.2,
   "hpBarWidth": 1,
   "hurtResistantTime": 0,
+  "idleProb": 0,
+  "idleTime": [
+    10,
+    30
+  ],
   "isAIGoHomePos": true,
   "isPlayer": false,
   "jumpHeight": 0.6,
@@ -75,6 +80,7 @@
   "name": "entity_Bow_Shocker_Lv.30",
   "needCheckTouch": true,
   "nextChaseInterval": 2,
+  "patrolDistance": 5,
   "randomPlayDeadActions": [
     ""
   ],
@@ -84,13 +90,13 @@
     {
       "__OBJ_TYPE": "AI_Skill",
       "attackDis": 10,
-      "fullName": "myplugin/c-monster-magic-atk1-01",
+      "fullName": "myplugin/c-monster-lv.30",
       "priority": 0
     },
     {
       "__OBJ_TYPE": "AI_Skill",
       "attackDis": 10,
-      "fullName": "myplugin/c-monster-magic--buff.freeze-atk2-01",
+      "fullName": "myplugin/c-monster-lv.30-2",
       "priority": 0
     }
   ],

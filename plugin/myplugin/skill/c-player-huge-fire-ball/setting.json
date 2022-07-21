@@ -25,7 +25,7 @@
   "bodyYawOffset": [
     0
   ],
-  "castAction": "g2033_skill_chakra_04",
+  "castAction": "skill_hug_fireball",
   "castActionTime": -1,
   "cdMaskConfig": {
     "AntiClockwise": false,
@@ -72,12 +72,12 @@
   "startPos": [
     {
       "x": 0,
-      "y": 1.6,
+      "y": 2,
       "z": 0
     }
   ],
   "startWait": [
-    0
+    34
   ],
   "startYaw": [
     0

@@ -62,39 +62,6 @@
       },
       {
         "__OBJ_TYPE": "Instance_Entity",
-        "config": "myplugin/Blue_Fluffy_Lv.5",
-        "id": "8712802402836381697",
-        "name": "Blue Fluffy Lv.5",
-        "position": {
-          "x": 4.2019643783569,
-          "y": 0.99989986419678,
-          "z": 2.6391010284424
-        }
-      },
-      {
-        "__OBJ_TYPE": "Instance_Entity",
-        "config": "myplugin/Pig_Lv.1",
-        "id": "8712805118163910657",
-        "name": "Pig Lv.1",
-        "position": {
-          "x": -5.3274612426758,
-          "y": 0.99989914894104,
-          "z": -7.8664493560791
-        }
-      },
-      {
-        "__OBJ_TYPE": "Instance_Entity",
-        "config": "myplugin/Turtle_Mage_Lv.10",
-        "id": "8712886832426844161",
-        "name": "Turtle Mage Lv.10",
-        "position": {
-          "x": -22.602540969849,
-          "y": 0.99989938735962,
-          "z": 6.266881942749
-        }
-      },
-      {
-        "__OBJ_TYPE": "Instance_Entity",
         "config": "myplugin/GiveXp",
         "id": "8715766749293215745",
         "name": "GiveXp",
@@ -105,65 +72,64 @@
         }
       },
       {
-        "__OBJ_TYPE": "Instance_Entity",
-        "config": "myplugin/Bow_Shocker_Lv.30",
-        "id": "8715781320348254209",
-        "name": "Bow Shocker Lv.30",
-        "position": {
-          "x": -26.271541595459,
-          "y": 0.99989914894104,
-          "z": 32.730949401855
-        }
-      },
-      {
-        "__OBJ_TYPE": "Instance_Entity",
-        "config": "myplugin/skeleton-warriors-lv.35",
-        "id": "8720102822386319361",
-        "name": "Skeleton Warriors Lv.35",
-        "position": {
-          "x": -1.5841760635376,
-          "y": 0.99989914894104,
-          "z": 51.556587219238
-        }
-      },
-      {
         "__OBJ_TYPE": "Instance_DropItem",
-        "config": "myplugin/Sword_Lv.1",
-        "id": "8722565542844350465",
+        "config": "myplugin/wizard-staff-01",
+        "id": "8723493955289792513",
         "position": {
-          "x": 10.544006347656,
+          "x": 19.80725479126,
           "y": 0.99990081787109,
-          "z": 32.316108703613
+          "z": 34.34525680542
         }
       },
       {
         "__OBJ_TYPE": "Instance_DropItem",
-        "config": "myplugin/Sword_Lv.1",
-        "id": "8722565553537908737",
+        "config": "myplugin/iron-sword-01",
+        "id": "8723494049119027201",
         "position": {
-          "x": 9.9240484237671,
-          "y": 0.99990093708038,
-          "z": 27.257801055908
-        }
-      },
-      {
-        "__OBJ_TYPE": "Instance_DropItem",
-        "config": "myplugin/iron-sword-05",
-        "id": "8722566854749618177",
-        "position": {
-          "x": 7.9166436195374,
+          "x": 18.805278778076,
           "y": 0.99990081787109,
-          "z": 32.504928588867
+          "z": 32.267070770264
         }
       },
       {
         "__OBJ_TYPE": "Instance_DropItem",
-        "config": "myplugin/iron-sword-05",
-        "id": "8722566860691161089",
+        "config": "myplugin/axe-01",
+        "id": "8724040606687903745",
         "position": {
-          "x": 7.1661233901978,
-          "y": 0.99989712238312,
-          "z": 29.173614501953
+          "x": 19.168670654297,
+          "y": 0.99989986419678,
+          "z": 37.505424499512
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_DropItem",
+        "config": "myplugin/axe-02",
+        "id": "8724040639623938049",
+        "position": {
+          "x": 24.310840606689,
+          "y": 0.99989902973175,
+          "z": 34.546279907227
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_DropItem",
+        "config": "myplugin/axe-03",
+        "id": "8724040665107742721",
+        "position": {
+          "x": 21.798307418823,
+          "y": 0.99989986419678,
+          "z": 37.636707305908
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Entity",
+        "config": "myplugin/BOSS-Boar",
+        "id": "8724051735046733825",
+        "name": "entity_BOSS-Boar",
+        "position": {
+          "x": 13.570444107056,
+          "y": 0.99990010261536,
+          "z": 9.8352298736572
         }
       }
     ],
@@ -177,7 +143,7 @@
   "meta": {
     "EXPORT": {
       "DataSet": [],
-      "setting.json": "285fbf0dcd06a9d360a7a62055c2a7a7"
+      "setting.json": "34f79f1dd1c05fe2cd802f9674f86ec6"
     },
     "VERSION": "0.22"
   }

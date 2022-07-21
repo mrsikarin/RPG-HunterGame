@@ -1,0 +1,39 @@
+{
+  "data": {
+    "castAction": "attack2",
+    "cdTime": {
+      "value": 100
+    },
+    "name": {
+      "value": "7e13dc11-4244-47c3-82ac-608a8e773321"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_Missile",
+        "missile": [
+          {
+            "missileCfg": "myplugin/check-monster-lv.5-2",
+            "startPos": {
+              "y": 0,
+              "z": 1
+            },
+            "startWait": {
+              "value": 20
+            }
+          }
+        ],
+        "target": {
+          "type": "Self"
+        }
+      },
+      "type": "Missile"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "300173de6c618b6c3561b0392fdc0bd4",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

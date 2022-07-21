@@ -21,14 +21,14 @@
   "backSwingTime": 0,
   "buffCfg": "myplugin/player-berserk",
   "buffTime": 200,
-  "castAction": "g2033_skill_chakra_01",
+  "castAction": "berseker",
   "castActionTime": -1,
   "castEffect": {
     "effect": "asset/effect/Burst_car_explosion.effect",
     "once": true,
     "pos": {
       "x": 0,
-      "y": 0.5,
+      "y": 0,
       "z": 0
     },
     "scale": {

@@ -2,22 +2,19 @@
   "autoRotateColliderBox": true,
   "collideEntity": 6,
   "collider": {
-    "extent": {
-      "x": 10,
-      "y": 2,
-      "z": 10
-    },
+    "height": 1,
     "offset": {
       "x": 0.0,
       "y": 0.0,
       "z": 0.0
     },
+    "radius": 5,
     "rotation": {
       "x": 0.0,
       "y": 0.0,
       "z": 0.0
     },
-    "type": "Box"
+    "type": "Cylinder"
   },
   "followTarget": false,
   "followTargetRotation": true,
@@ -27,7 +24,7 @@
     "z": 0
   },
   "gravity": 0.0,
-  "hitEntitySkill": "myplugin/8b847a11-f9ad-46db-b9b0-79d85e29aafc",
+  "hitEntitySkill": "myplugin/dmg-player-melee01",
   "hitEntitysRoles": [
     "hitAllTeam",
     "hitAllEntitys",
@@ -57,9 +54,9 @@
       "z": 0
     },
     "scale": {
-      "x": 2,
+      "x": 1,
       "y": 1,
-      "z": 2
+      "z": 1
     },
     "yaw": 0
   },

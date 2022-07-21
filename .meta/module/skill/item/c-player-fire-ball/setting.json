@@ -1,6 +1,6 @@
 {
   "data": {
-    "castAction": "attack5",
+    "castAction": "skll_fire-ball",
     "cdAnimation": "Clockwise",
     "cdTime": {
       "value": 100
@@ -49,7 +49,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "c79b757195e7f05914bd383f0e840a04",
+      "setting.json": "c8a6f4efa8df5cd795ba1012df117477",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

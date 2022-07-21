@@ -25,7 +25,7 @@
   "bodyYawOffset": [
     0
   ],
-  "castAction": "g2033_skill_chakra_06",
+  "castAction": "g2033_skill_chakra_07",
   "castActionTime": -1,
   "cdMaskConfig": {
     "AntiClockwise": false,
@@ -83,7 +83,7 @@
     0
   ],
   "sustainAction": "",
-  "targetType": "BodyYaw",
+  "targetType": "Self",
   "type": "Missile",
   "verticalAlignment": 2
 }

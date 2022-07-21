@@ -1,6 +1,6 @@
 {
   "data": {
-    "castAction": "attack5",
+    "castAction": "skll_ice-spear",
     "cdAnimation": "Clockwise",
     "cdTime": {
       "value": 200
@@ -49,7 +49,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "05304dc62a0dd90e56d921fd848de5e8",
+      "setting.json": "90d7269158c20a1044b816b80941a528",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

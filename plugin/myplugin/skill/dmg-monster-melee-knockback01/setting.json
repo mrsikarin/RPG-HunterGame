@@ -33,7 +33,7 @@
     "horizontalAlignment": 1,
     "verticalAlignment": 1
   },
-  "cdTime": 20,
+  "cdTime": 0,
   "consumeVp": 0,
   "customizeSkill": true,
   "draggingEnabled": false,
@@ -49,7 +49,7 @@
   "isShowCdPoint": false,
   "isTouch": false,
   "missileCfg": [
-    "myplugin/04d9e80e-6dbc-45d7-8177-449b330cbb80"
+    "myplugin/93662f19-4785-48ef-80be-82e31f1ac2f3"
   ],
   "missileCount": 1,
   "preSwingTime": 0,

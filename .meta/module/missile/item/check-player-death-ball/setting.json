@@ -1,10 +1,24 @@
 {
   "data": {
+    "boundingVolume": {
+      "size": {
+        "x": 1.2,
+        "y": 1.2,
+        "z": 1.2
+      }
+    },
+    "boundingVolumeMissileCfg": {
+      "size": {
+        "x": 1.2,
+        "y": 1.2,
+        "z": 1.2
+      }
+    },
     "hitCount": {
       "hitEntityCount": 1,
       "isValid": true
     },
-    "hitEntitySkill": "myplugin/8b847a11-f9ad-46db-b9b0-79d85e29aafc",
+    "hitEntitySkill": "myplugin/dmg-player-melee01",
     "lifeTime": {
       "value": 20
     },
@@ -23,7 +37,8 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "d669124326c499d1eb5a87cbeb15162b"
+      "setting.json": "bd83de1d1af50c3f2af029fe3c280fee",
+      "triggers.bts": ""
     },
     "VERSION": "0.22"
   }

@@ -21,7 +21,7 @@
   "backSwingTime": 0,
   "buffCfg": "myplugin/player-all-for-one",
   "buffTime": 220,
-  "castAction": "g2033_skill_chakra_09",
+  "castAction": "g2033_skill_chakra_penhuo",
   "castActionTime": -1,
   "cdMaskConfig": {
     "AntiClockwise": false,

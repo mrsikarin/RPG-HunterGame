@@ -1,10 +1,24 @@
 {
   "data": {
-    "hitEntitySkill": "myplugin/8b847a11-f9ad-46db-b9b0-79d85e29aafc",
+    "boundingVolume": {
+      "size": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      }
+    },
+    "boundingVolumeMissileCfg": {
+      "size": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      }
+    },
+    "hitEntitySkill": "myplugin/dmg-player-melee01",
     "lifeTime": {
       "value": 40
     },
-    "moveSpeed": 10.0,
+    "moveSpeed": 10,
     "name": {
       "value": "missile_check-player-huge-fire-ball"
     },
@@ -16,7 +30,8 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "e18803dd1a2be8cd4be4c00ffefcf5a8"
+      "setting.json": "a3a8c0d27b3a79c9cfb4be73046bd17b",
+      "triggers.bts": ""
     },
     "VERSION": "0.22"
   }

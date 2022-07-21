@@ -25,14 +25,11 @@
         }
       },
       "type": "Missile"
-    },
-    "skillReleaseWay": {
-      "isClickIcon": true
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "aed27a4a3fcd96cc359ae4cc62a0cae5",
+      "setting.json": "cc876b23ee619537320329b72dccf0af",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

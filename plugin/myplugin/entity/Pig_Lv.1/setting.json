@@ -90,7 +90,7 @@
     {
       "__OBJ_TYPE": "AI_Skill",
       "attackDis": 3.5,
-      "fullName": "myplugin/c-monster-melee-atk1-01",
+      "fullName": "myplugin/c-monster-lv.1",
       "priority": 0
     }
   ],

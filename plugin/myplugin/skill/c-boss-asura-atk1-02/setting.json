@@ -56,7 +56,7 @@
   "isShowCdPoint": false,
   "isTouch": false,
   "missileCfg": [
-    "myplugin/check-boss-asura-atk1-02"
+    ""
   ],
   "missileCount": 1,
   "preSwingTime": 0,

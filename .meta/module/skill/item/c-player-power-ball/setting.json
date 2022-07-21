@@ -1,6 +1,6 @@
 {
   "data": {
-    "castAction": "g2033_skill_chakra_04",
+    "castAction": "skill_power-ball",
     "cdAnimation": "Clockwise",
     "cdTime": {
       "value": 400
@@ -43,12 +43,13 @@
       },
       "iconPos": {
         "area_number": 8
-      }
+      },
+      "isClickIcon": true
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "0ff941d255129e25b5a19b0d28679d53",
+      "setting.json": "46e91a8da42d459c1e9b5b08b5b7c729",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"map_pos":{"map001":{"z":30,"x":30,"y":68}},"viewport_width":1043,"camera_move_speed":0.3,"viewport_height":586}
+=======
+{"viewport_width":535,"viewport_height":242,"camera_move_speed":0.3,"map_pos":{"map001":{"z":30,"y":68,"x":30}}}
+>>>>>>> 24313f8cdc95a106911a4a06ad6093c985bab36f

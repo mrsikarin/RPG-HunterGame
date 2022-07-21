@@ -1,11 +1,25 @@
 {
   "data": {
+    "boundingVolume": {
+      "size": {
+        "x": 4,
+        "y": 4,
+        "z": 4
+      }
+    },
+    "boundingVolumeMissileCfg": {
+      "size": {
+        "x": 4,
+        "y": 4,
+        "z": 4
+      }
+    },
     "hitEntityEffect": {
       "effect": {
         "asset": "asset/effect/Burst_brick_break.effect"
       }
     },
-    "hitEntitySkill": "myplugin/8b847a11-f9ad-46db-b9b0-79d85e29aafc",
+    "hitEntitySkill": "myplugin/dmg-player-melee01",
     "hitInterval": {
       "value": 4
     },
@@ -27,7 +41,8 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "92361d46d115a56d0e5189fdd9910477"
+      "setting.json": "6671e5c84992ab6a9d3335a397271e50",
+      "triggers.bts": ""
     },
     "VERSION": "0.22"
   }

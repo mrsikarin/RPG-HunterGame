@@ -8,7 +8,7 @@
       "enable": true,
       "skillList": [
         {
-          "fullName": "myplugin/c-monster-melee-mid-atk1-01"
+          "fullName": "myplugin/c-monster-lv.20"
         }
       ]
     },
@@ -16,8 +16,7 @@
       "patrolMode": "randomPath"
     },
     "boundingVolume": {
-      "height": 3.5,
-      "radius": 0.75,
+      "height": 1.5,
       "type": "Capsule"
     },
     "boundingVolumeEntityCfg": {
@@ -125,7 +124,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "08268092505453c8076e6c7d8323a1f7",
+      "setting.json": "74d2003b0ba599d614943881e704da01",
       "triggers.bts": "fccffe492b98aa0a01b4f58875546b52"
     },
     "VERSION": "0.22"

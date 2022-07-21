@@ -1,6 +1,20 @@
 {
   "data": {
-    "hitEntitySkill": "myplugin/8b847a11-f9ad-46db-b9b0-79d85e29aafc",
+    "boundingVolume": {
+      "size": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    "boundingVolumeMissileCfg": {
+      "size": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    "hitEntitySkill": "myplugin/dmg-player-melee01",
     "moveSpeed": 0,
     "name": {
       "value": "missile_check-player-poison-fog"
@@ -19,7 +33,8 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "673e87bc3a9873b42b4b7e9d79b3ea2b"
+      "setting.json": "efe453971b392505b1a928a117c72802",
+      "triggers.bts": ""
     },
     "VERSION": "0.22"
   }

@@ -1,346 +1,346 @@
     <GUILayout version="4">
-        <Window type="DefaultWindow" name="Root">
-            <Window type="DefaultWindow" name="DefaultWindow">
-                <Window type="WindowsLook/Button" name="btn_melee">
-                    <Property name="Area" value="{{0,0},{0,-2.3271026611328},{0.4,0},{0.5,-2.3271026611328}}">
+        <Window name="Root" type="DefaultWindow">
+            <Property value="{{0,0},{0,0},{1,0},{1,0}}" name="Area">
 
-                    </Property>
-                    <Property name="MaxSize" value="{{999,0},{999,0}}">
+            </Property>
+            <Property value="{{999,0},{999,0}}" name="MaxSize">
 
-                    </Property>
-                    <Property name="HorizontalAlignment" value="Centre">
+            </Property>
+            <Property value="Centre" name="HorizontalAlignment">
 
-                    </Property>
-                    <Property name="VerticalAlignment" value="Centre">
+            </Property>
+            <Property value="Centre" name="VerticalAlignment">
 
-                    </Property>
-                    <Property name="HoverTextColour" value="ff000000">
+            </Property>
+            <Property value="0.5" name="PivotY">
 
-                    </Property>
-                    <Property name="ClippedByParent" value="false">
+            </Property>
+            <Property value="None" name="SoundTriggerRange">
 
-                    </Property>
-                    <Property name="AutoTextScale" value="false">
+            </Property>
+            <Property value="1" name="WindowTouchThroughAlpha">
 
-                    </Property>
-                    <Property name="PushedImage" value="gameres|asset/Texture/Skill/common/icon_近战攻击_nor.png">
+            </Property>
+            <Property value="w:1.0 x:0.0 y:0.0 z:0.0" name="Rotation">
 
-                    </Property>
-                    <Property name="Font_size" value="12">
+            </Property>
+            <Property value="1" name="Alpha">
 
-                    </Property>
-                    <Property name="VertImageFormatting" value="Stretched">
+            </Property>
+            <Property value="1" name="Volume">
 
-                    </Property>
-                    <Property name="TextBoldWeight" value="0">
+            </Property>
+            <Property value="0.5" name="PivotX">
 
-                    </Property>
-                    <Property name="Disabled" value="false">
+            </Property>
+            <Property value="true" name="Visible">
 
-                    </Property>
-                    <Property name="HorzImageFormatting" value="Stretched">
+            </Property>
+            <Property value="" name="SoundFile">
 
-                    </Property>
-                    <Property name="DisabledTextColour" value="ff888888">
+            </Property>
+            <Property value="false" name="ClippedByParent">
 
-                    </Property>
-                    <Property name="btn_word_warpped" value="false">
+            </Property>
+            <Property value="MousePassThroughAlpha" name="WindowTouchThroughMode">
 
-                    </Property>
-                    <Property name="WindowTouchThroughMode" value="MousePassThroughClose">
+            </Property>
+            <Property value="false" name="Disabled">
 
-                    </Property>
-                    <Property name="PivotY" value="0.5">
-
-                    </Property>
-                    <Property name="DisabledStretch" value="0 0 0 0">
-
-                    </Property>
-                    <Property name="Rotation" value="w:1.0 x:0.0 y:0.0 z:0.0">
-
-                    </Property>
-                    <Property name="HoverImage" value="gameres|asset/Texture/Skill/common/icon_近战攻击_act.png">
-
-                    </Property>
-                    <Property name="HoverStretch" value="0 0 0 0">
-
-                    </Property>
-                    <Property name="Alpha" value="0.997">
-
-                    </Property>
-                    <Property name="PushedStretch" value="0 0 0 0">
-
-                    </Property>
-                    <Property name="TextOffset" value="x:0 y:0">
-
-                    </Property>
-                    <Property name="NormalImage" value="gameres|asset/Texture/Skill/common/icon_近战攻击_act.png">
-
-                    </Property>
-                    <Property name="Text" value="">
-
-                    </Property>
-                    <Property name="NormalStretch" value="0 0 0 0">
-
-                    </Property>
-                    <Property name="NormalTextColour" value="ff000000">
-
-                    </Property>
-                    <Property name="Font" value="DroidSans-12">
-
-                    </Property>
-                    <Property name="PushedTextColour" value="ffffffff">
-
-                    </Property>
-                    <Property name="BorderColor" value="ffffffff">
-
-                    </Property>
-                    <Property name="Visible" value="true">
-
-                    </Property>
-                    <Property name="DisabledImage" value="">
-
-                    </Property>
-                    <Property name="SoundFile" value="">
-
-                    </Property>
-                    <Property name="BorderWidth" value="0">
-
-                    </Property>
-                    <Property name="TextWordBreak" value="false">
-
-                    </Property>
-                    <Property name="PivotX" value="0.5">
-
-                    </Property>
-                    <Property name="WindowTouchThroughAlpha" value="1">
-
-                    </Property>
-                    <Property name="Volume" value="1">
-
-                    </Property>
-                    <Property name="SoundTriggerRange" value="None">
-
-                    </Property>
-                </Window>
-                <Window type="WindowsLook/Button" name="btn_magic">
-                    <Property name="Area" value="{{0,0},{0,0},{0.4,0},{0.5,0}}">
-
-                    </Property>
-                    <Property name="MaxSize" value="{{999,0},{999,0}}">
-
-                    </Property>
-                    <Property name="HorizontalAlignment" value="Centre">
-
-                    </Property>
-                    <Property name="VerticalAlignment" value="Centre">
-
-                    </Property>
-                    <Property name="HoverTextColour" value="ff000000">
-
-                    </Property>
-                    <Property name="ClippedByParent" value="false">
-
-                    </Property>
-                    <Property name="AutoTextScale" value="false">
-
-                    </Property>
-                    <Property name="PushedImage" value="gameres|asset/Texture/Skill/common/icon_火球_nor.png">
-
-                    </Property>
-                    <Property name="Font_size" value="12">
-
-                    </Property>
-                    <Property name="VertImageFormatting" value="Stretched">
-
-                    </Property>
-                    <Property name="TextBoldWeight" value="0">
-
-                    </Property>
-                    <Property name="Disabled" value="false">
-
-                    </Property>
-                    <Property name="HorzImageFormatting" value="Stretched">
-
-                    </Property>
-                    <Property name="DisabledTextColour" value="ff888888">
-
-                    </Property>
-                    <Property name="btn_word_warpped" value="false">
-
-                    </Property>
-                    <Property name="WindowTouchThroughMode" value="MousePassThroughClose">
-
-                    </Property>
-                    <Property name="PivotY" value="0.5">
-
-                    </Property>
-                    <Property name="DisabledStretch" value="0 0 0 0">
-
-                    </Property>
-                    <Property name="Rotation" value="w:1.0 x:0.0 y:0.0 z:0.0">
-
-                    </Property>
-                    <Property name="HoverImage" value="gameres|asset/Texture/Skill/common/icon_火球_act.png">
-
-                    </Property>
-                    <Property name="HoverStretch" value="0 0 0 0">
-
-                    </Property>
-                    <Property name="Alpha" value="1">
-
-                    </Property>
-                    <Property name="PushedStretch" value="0 0 0 0">
-
-                    </Property>
-                    <Property name="TextOffset" value="x:0 y:0">
-
-                    </Property>
-                    <Property name="NormalImage" value="gameres|asset/Texture/Skill/common/icon_火球_act.png">
-
-                    </Property>
-                    <Property name="Text" value="Button">
-
-                    </Property>
-                    <Property name="NormalStretch" value="0 0 0 0">
-
-                    </Property>
-                    <Property name="NormalTextColour" value="ff000000">
-
-                    </Property>
-                    <Property name="Font" value="DroidSans-12">
-
-                    </Property>
-                    <Property name="PushedTextColour" value="ffffffff">
-
-                    </Property>
-                    <Property name="BorderColor" value="ffffffff">
-
-                    </Property>
-                    <Property name="Visible" value="false">
-
-                    </Property>
-                    <Property name="DisabledImage" value="">
-
-                    </Property>
-                    <Property name="SoundFile" value="">
-
-                    </Property>
-                    <Property name="BorderWidth" value="0">
-
-                    </Property>
-                    <Property name="TextWordBreak" value="false">
-
-                    </Property>
-                    <Property name="PivotX" value="0.5">
-
-                    </Property>
-                    <Property name="WindowTouchThroughAlpha" value="1">
-
-                    </Property>
-                    <Property name="Volume" value="1">
-
-                    </Property>
-                    <Property name="SoundTriggerRange" value="None">
-
-                    </Property>
-                </Window>
-                  <Property name="Area" value="{{0,0},{0,0},{0,400},{0,300}}">
+            </Property>
+              <Window name="DefaultWindow" type="DefaultWindow">
+                  <Property value="{{0,0},{0,0},{0,400},{0,300}}" name="Area">
 
                   </Property>
-                  <Property name="MaxSize" value="{{999,0},{999,0}}">
+                  <Property value="{{999,0},{999,0}}" name="MaxSize">
 
                   </Property>
-                  <Property name="HorizontalAlignment" value="Right">
+                  <Property value="Right" name="HorizontalAlignment">
 
                   </Property>
-                  <Property name="VerticalAlignment" value="Bottom">
+                  <Property value="Bottom" name="VerticalAlignment">
 
                   </Property>
-                  <Property name="PivotY" value="0.5">
+                  <Property value="0.5" name="PivotY">
 
                   </Property>
-                  <Property name="Rotation" value="w:1.0 x:0.0 y:0.0 z:0.0">
+                  <Property value="None" name="SoundTriggerRange">
 
                   </Property>
-                  <Property name="Alpha" value="1">
+                  <Property value="1" name="WindowTouchThroughAlpha">
 
                   </Property>
-                  <Property name="ClippedByParent" value="false">
+                  <Property value="w:1.0 x:0.0 y:0.0 z:0.0" name="Rotation">
 
                   </Property>
-                  <Property name="Volume" value="1">
+                  <Property value="1" name="Alpha">
 
                   </Property>
-                  <Property name="SoundTriggerRange" value="None">
+                  <Property value="1" name="Volume">
 
                   </Property>
-                  <Property name="SoundFile" value="">
+                  <Property value="0.5" name="PivotX">
 
                   </Property>
-                  <Property name="Visible" value="true">
+                  <Property value="true" name="Visible">
 
                   </Property>
-                  <Property name="Disabled" value="false">
+                  <Property value="" name="SoundFile">
 
                   </Property>
-                  <Property name="WindowTouchThroughAlpha" value="1">
+                  <Property value="false" name="ClippedByParent">
 
                   </Property>
-                  <Property name="PivotX" value="0.5">
+                  <Property value="MousePassThroughAlpha" name="WindowTouchThroughMode">
 
                   </Property>
-                  <Property name="WindowTouchThroughMode" value="MousePassThroughAlpha">
+                  <Property value="false" name="Disabled">
 
                   </Property>
-            </Window>
-              <Property name="Area" value="{{0,0},{0,0},{1,0},{1,0}}">
+                    <Window name="btn_melee" type="WindowsLook/Button">
+                        <Property value="{{0,77.346927678394},{0,39.325743964857},{0.4,77.346927678394},{0.5,39.325743964857}}" name="Area">
 
-              </Property>
-              <Property name="MaxSize" value="{{999,0},{999,0}}">
+                        </Property>
+                        <Property value="{{999,0},{999,0}}" name="MaxSize">
 
-              </Property>
-              <Property name="HorizontalAlignment" value="Centre">
+                        </Property>
+                        <Property value="Centre" name="HorizontalAlignment">
 
-              </Property>
-              <Property name="VerticalAlignment" value="Centre">
+                        </Property>
+                        <Property value="Centre" name="VerticalAlignment">
 
-              </Property>
-              <Property name="PivotY" value="0.5">
+                        </Property>
+                        <Property value="gameres|asset/Texture/Skill/common/icon_近战攻击_act.png" name="NormalImage">
 
-              </Property>
-              <Property name="Rotation" value="w:1.0 x:0.0 y:0.0 z:0.0">
+                        </Property>
+                        <Property value="None" name="SoundTriggerRange">
 
-              </Property>
-              <Property name="Alpha" value="1">
+                        </Property>
+                        <Property value="Stretched" name="HorzImageFormatting">
 
-              </Property>
-              <Property name="ClippedByParent" value="false">
+                        </Property>
+                        <Property value="1" name="WindowTouchThroughAlpha">
 
-              </Property>
-              <Property name="Volume" value="1">
+                        </Property>
+                        <Property value="0.997" name="Alpha">
 
-              </Property>
-              <Property name="SoundTriggerRange" value="None">
+                        </Property>
+                        <Property value="0.5" name="PivotX">
 
-              </Property>
-              <Property name="SoundFile" value="">
+                        </Property>
+                        <Property value="true" name="Visible">
 
-              </Property>
-              <Property name="Visible" value="true">
+                        </Property>
+                        <Property value="ff000000" name="HoverTextColour">
 
-              </Property>
-              <Property name="Disabled" value="false">
+                        </Property>
+                        <Property value="false" name="ClippedByParent">
 
-              </Property>
-              <Property name="WindowTouchThroughAlpha" value="1">
+                        </Property>
+                        <Property value="12" name="Font_size">
 
-              </Property>
-              <Property name="PivotX" value="0.5">
+                        </Property>
+                        <Property value="0 0 0 0" name="DisabledStretch">
 
-              </Property>
-              <Property name="WindowTouchThroughMode" value="MousePassThroughAlpha">
+                        </Property>
+                        <Property value="0 0 0 0" name="HoverStretch">
 
-              </Property>
+                        </Property>
+                        <Property value="DroidSans-12" name="Font">
+
+                        </Property>
+                        <Property value="w:1.0 x:0.0 y:0.0 z:0.0" name="Rotation">
+
+                        </Property>
+                        <Property value="0" name="BorderWidth">
+
+                        </Property>
+                        <Property value="x:0 y:0" name="TextOffset">
+
+                        </Property>
+                        <Property value="0 0 0 0" name="NormalStretch">
+
+                        </Property>
+                        <Property value="false" name="AutoTextScale">
+
+                        </Property>
+                        <Property value="0 0 0 0" name="PushedStretch">
+
+                        </Property>
+                        <Property value="gameres|asset/Texture/Skill/common/icon_近战攻击_act.png" name="HoverImage">
+
+                        </Property>
+                        <Property value="" name="SoundFile">
+
+                        </Property>
+                        <Property value="Stretched" name="VertImageFormatting">
+
+                        </Property>
+                        <Property value="ffffffff" name="BorderColor">
+
+                        </Property>
+                        <Property value="0" name="TextBoldWeight">
+
+                        </Property>
+                        <Property value="false" name="btn_word_warpped">
+
+                        </Property>
+                        <Property value="1" name="Volume">
+
+                        </Property>
+                        <Property value="false" name="TextWordBreak">
+
+                        </Property>
+                        <Property value="ffffffff" name="PushedTextColour">
+
+                        </Property>
+                        <Property value="0.5" name="PivotY">
+
+                        </Property>
+                        <Property value="ff888888" name="DisabledTextColour">
+
+                        </Property>
+                        <Property value="gameres|asset/Texture/Skill/common/icon_近战攻击_nor.png" name="PushedImage">
+
+                        </Property>
+                        <Property value="" name="Text">
+
+                        </Property>
+                        <Property value="ff000000" name="NormalTextColour">
+
+                        </Property>
+                        <Property value="MousePassThroughClose" name="WindowTouchThroughMode">
+
+                        </Property>
+                        <Property value="" name="DisabledImage">
+
+                        </Property>
+                        <Property value="false" name="Disabled">
+
+                        </Property>
+                    </Window>
+                    <Window name="btn_magic" type="WindowsLook/Button">
+                        <Property value="{{0,77.346927678394},{0,41.652891637916},{0.4,77.346927678394},{0.5,41.652891637916}}" name="Area">
+
+                        </Property>
+                        <Property value="{{999,0},{999,0}}" name="MaxSize">
+
+                        </Property>
+                        <Property value="Centre" name="HorizontalAlignment">
+
+                        </Property>
+                        <Property value="Centre" name="VerticalAlignment">
+
+                        </Property>
+                        <Property value="gameres|asset/Texture/Skill/common/icon_火球_act.png" name="NormalImage">
+
+                        </Property>
+                        <Property value="None" name="SoundTriggerRange">
+
+                        </Property>
+                        <Property value="Stretched" name="HorzImageFormatting">
+
+                        </Property>
+                        <Property value="1" name="WindowTouchThroughAlpha">
+
+                        </Property>
+                        <Property value="1" name="Alpha">
+
+                        </Property>
+                        <Property value="0.5" name="PivotX">
+
+                        </Property>
+                        <Property value="false" name="Visible">
+
+                        </Property>
+                        <Property value="ff000000" name="HoverTextColour">
+
+                        </Property>
+                        <Property value="false" name="ClippedByParent">
+
+                        </Property>
+                        <Property value="12" name="Font_size">
+
+                        </Property>
+                        <Property value="0 0 0 0" name="DisabledStretch">
+
+                        </Property>
+                        <Property value="0 0 0 0" name="HoverStretch">
+
+                        </Property>
+                        <Property value="DroidSans-12" name="Font">
+
+                        </Property>
+                        <Property value="w:1.0 x:0.0 y:0.0 z:0.0" name="Rotation">
+
+                        </Property>
+                        <Property value="0" name="BorderWidth">
+
+                        </Property>
+                        <Property value="x:0 y:0" name="TextOffset">
+
+                        </Property>
+                        <Property value="0 0 0 0" name="NormalStretch">
+
+                        </Property>
+                        <Property value="false" name="AutoTextScale">
+
+                        </Property>
+                        <Property value="0 0 0 0" name="PushedStretch">
+
+                        </Property>
+                        <Property value="gameres|asset/Texture/Skill/common/icon_火球_act.png" name="HoverImage">
+
+                        </Property>
+                        <Property value="" name="SoundFile">
+
+                        </Property>
+                        <Property value="Stretched" name="VertImageFormatting">
+
+                        </Property>
+                        <Property value="ffffffff" name="BorderColor">
+
+                        </Property>
+                        <Property value="0" name="TextBoldWeight">
+
+                        </Property>
+                        <Property value="false" name="btn_word_warpped">
+
+                        </Property>
+                        <Property value="1" name="Volume">
+
+                        </Property>
+                        <Property value="false" name="TextWordBreak">
+
+                        </Property>
+                        <Property value="ffffffff" name="PushedTextColour">
+
+                        </Property>
+                        <Property value="0.5" name="PivotY">
+
+                        </Property>
+                        <Property value="ff888888" name="DisabledTextColour">
+
+                        </Property>
+                        <Property value="gameres|asset/Texture/Skill/common/icon_火球_nor.png" name="PushedImage">
+
+                        </Property>
+                        <Property value="Button" name="Text">
+
+                        </Property>
+                        <Property value="ff000000" name="NormalTextColour">
+
+                        </Property>
+                        <Property value="MousePassThroughClose" name="WindowTouchThroughMode">
+
+                        </Property>
+                        <Property value="" name="DisabledImage">
+
+                        </Property>
+                        <Property value="false" name="Disabled">
+
+                        </Property>
+                    </Window>
+              </Window>
         </Window>
     </GUILayout>

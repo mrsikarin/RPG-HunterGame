@@ -13,6 +13,9 @@
       },
       "type": "InHand"
     },
+    "mesh": {
+      "asset": "asset/itemmesh/Magic1_1/Axe1/sword1/sword5/sword5/DAGGER_01_V3.mesh"
+    },
     "name": {
       "value": "item_wooden-sword-01"
     },
@@ -20,7 +23,8 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "800df1a4a9b0e8cf3190399cb8ca02a0"
+      "setting.json": "269ac460e1849a0cc3aa8917d73ce87f",
+      "triggers.bts": ""
     },
     "VERSION": "0.22"
   }

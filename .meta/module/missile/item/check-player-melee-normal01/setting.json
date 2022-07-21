@@ -1,5 +1,15 @@
 {
   "data": {
+    "boundingVolume": {
+      "position": {
+        "z": 2
+      },
+      "size": {
+        "x": 4,
+        "y": 4,
+        "z": 4
+      }
+    },
     "boundingVolumeMissileCfg": {
       "position": {
         "z": 2
@@ -16,6 +26,7 @@
         "asset": "asset/effect/Burst_death2.effect"
       }
     },
+    "hitEntitySkill": "myplugin/dmg-player-melee01",
     "hitEntitySound": {
       "sound": {
         "asset": "asset/Sound/punchhit.mp3"
@@ -52,7 +63,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "329d3df04d5d37ce96c3c2f876cb3be2",
+      "setting.json": "7c6a2d054222e85f3e9b7c19f0328816",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

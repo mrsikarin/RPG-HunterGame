@@ -1,6 +1,6 @@
 {
   "data": {
-    "md5": "7a3def159e229963e7e03e933287a1a0",
+    "md5": "0fe82e9049a9504bee77395e5631fb6c",
     "path": "asset/Interface/playerUI.layout",
     "root": {
       "anchor": {
@@ -26,7 +26,7 @@
             "r": 240
           },
           "id": {
-            "value": "b8f91034-1763-4ca7-930b-d1dcb9283542"
+            "value": "62624ae1-e479-4cb5-be72-cabe9a7999dd"
           },
           "NormalImage": {
             "asset": "asset/texture2/icon_red_nor.png"
@@ -50,10 +50,10 @@
           },
           "size": {
             "UDim_X": {
-              "Offect": 70
+              "Offect": 70.0
             },
             "UDim_Y": {
-              "Offect": 70
+              "Offect": 70.0
             }
           },
           "SoundFile": {
@@ -85,7 +85,7 @@
                     "VerticalAlignment": "Centre"
                   },
                   "id": {
-                    "value": "dd3f0099-d5b4-4d23-8bc5-51a1281bc753"
+                    "value": "1e39a888-ae2c-41e7-8597-ab5048352c05"
                   },
                   "Image": {
                     "asset": "asset/Texture/Gui/slider_bg.png"
@@ -106,7 +106,7 @@
                     "VerticalAlignment": "Centre"
                   },
                   "id": {
-                    "value": "742eef84-8147-4aeb-aeba-ef9e109e2449"
+                    "value": "7293ff2f-c31a-4f3c-ab09-2d3596b1e67d"
                   },
                   "Image": {
                     "asset": "asset/Texture/Gui/slider_top_h.png"
@@ -127,7 +127,7 @@
                     "VerticalAlignment": "Centre"
                   },
                   "id": {
-                    "value": "37e9d411-6fc0-459e-b285-67fcea3a1155"
+                    "value": "591a6f27-1c20-45e4-8696-e2efb8287c89"
                   },
                   "name": "Handle",
                   "Visible": false
@@ -142,7 +142,7 @@
                   "Font_size": 20,
                   "HorzFormatting": "CentreAligned",
                   "id": {
-                    "value": "111c3dec-6ebe-4042-baec-66c3800083d5"
+                    "value": "9e54ae86-70ff-453a-ad17-f45d6015b5aa"
                   },
                   "name": "level",
                   "pos": {
@@ -156,6 +156,9 @@
                   "size": {
                     "UDim_X": {
                       "Offect": 139.55161976815
+                    },
+                    "UDim_Y": {
+                      "Offect": 128.0
                     }
                   },
                   "Text": "Lv.",
@@ -171,7 +174,7 @@
                   "Font_size": 20,
                   "HorzFormatting": "CentreAligned",
                   "id": {
-                    "value": "92a00d6b-e8b3-4c06-85c1-99a284834929"
+                    "value": "7e586770-83a4-48fe-bb7a-f24e87df7815"
                   },
                   "name": "textexp",
                   "pos": {
@@ -185,6 +188,9 @@
                   "size": {
                     "UDim_X": {
                       "Offect": 139.55161976815
+                    },
+                    "UDim_Y": {
+                      "Offect": 128.0
                     }
                   },
                   "Text": "EXP",
@@ -192,7 +198,7 @@
                 }
               ],
               "id": {
-                "value": "3e81b151-ce1d-4e4c-919f-6891e71b2f1e"
+                "value": "3093d7d5-6df9-46c1-8e50-06d106149643"
               },
               "name": "expbar",
               "pos": {
@@ -203,7 +209,7 @@
             }
           ],
           "id": {
-            "value": "f0a9237e-3d79-4acc-bd7a-980040866339"
+            "value": "e7594a5c-b7e5-4fb0-ae28-609336be5ac3"
           },
           "pos": {
             "UDim_X": {
@@ -235,7 +241,7 @@
                 {
                   "__OBJ_TYPE": "StaticImage",
                   "id": {
-                    "value": "e8ffb3dd-a670-40e8-a40c-60a526a79ad9"
+                    "value": "fa9f8a0c-f3da-44d2-b897-d496cd556d07"
                   },
                   "Image": {
                     "asset": "asset/Item/tile248.png"
@@ -250,16 +256,16 @@
                   },
                   "size": {
                     "UDim_X": {
-                      "Offect": 32
+                      "Offect": 32.0
                     },
                     "UDim_Y": {
-                      "Offect": 32
+                      "Offect": 32.0
                     }
                   }
                 }
               ],
               "id": {
-                "value": "c2c4e9f3-6978-450e-a388-fc01fa7b1c94"
+                "value": "4bcb965b-cb30-4b93-bdcc-bc918291ec8f"
               },
               "Image": {
                 "asset": "asset/atlas.png"
@@ -285,7 +291,7 @@
               "__OBJ_TYPE": "StaticText",
               "Font_size": 18,
               "id": {
-                "value": "1b4d34b6-f494-41f1-91bf-a1235b6a68a0"
+                "value": "97c3ad95-3e6f-4866-bdd4-a64a825309e6"
               },
               "name": "quest_txt",
               "pos": {
@@ -301,7 +307,7 @@
                   "Offect": 99.999999999997
                 },
                 "UDim_Y": {
-                  "Offect": 50
+                  "Offect": 50.0
                 }
               },
               "Text": "Quest",
@@ -314,7 +320,7 @@
               "__OBJ_TYPE": "StaticText",
               "Font_size": 14,
               "id": {
-                "value": "215d1a08-6d0d-4924-b7c1-3dd6feed0c2c"
+                "value": "11685c03-e18b-4b95-ae5d-5523c3d306c4"
               },
               "name": "detailTxt",
               "pos": {
@@ -343,7 +349,7 @@
             }
           ],
           "id": {
-            "value": "ff04e06c-4255-4635-b201-3a6ca9e46289"
+            "value": "29a6c602-c298-45da-863b-085909df3b46"
           },
           "name": "Quest",
           "pos": {
@@ -363,7 +369,7 @@
         }
       ],
       "id": {
-        "value": "7eb614d6-a77f-475b-9e1a-7098dbd7bda2"
+        "value": "d067572e-a022-40bf-b3c3-01a22fd75ceb"
       },
       "pos": {
         "UDim_Y": {
@@ -382,7 +388,7 @@
   },
   "meta": {
     "EXPORT": {
-      "layout": "7a3def159e229963e7e03e933287a1a0",
+      "layout": "0fe82e9049a9504bee77395e5631fb6c",
       "triggers.bts": "d1fd7037f4941cd1b8cbfb94bb926990"
     },
     "VERSION": "0.22"

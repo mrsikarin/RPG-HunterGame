@@ -25,7 +25,7 @@
   "bodyYawOffset": [
     0
   ],
-  "castAction": "g2033_skill_chakra_02",
+  "castAction": "skill_tornado",
   "castActionTime": -1,
   "cdMaskConfig": {
     "AntiClockwise": false,
@@ -77,7 +77,7 @@
     }
   ],
   "startWait": [
-    0
+    20
   ],
   "startYaw": [
     0

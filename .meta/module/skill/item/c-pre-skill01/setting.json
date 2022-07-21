@@ -11,7 +11,7 @@
         "__OBJ_TYPE": "Skill_Missile",
         "missile": [
           {
-            "missileCfg": "myplugin/pre-skill01",
+            "missileCfg": "myplugin/pre-skill01-1",
             "startPos": {
               "y": 0
             }
@@ -26,7 +26,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "cf7e59033b3d9eddfa9edc9032ac41e5",
+      "setting.json": "aaa02b9631297c48bf5201848cc31e9e",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

@@ -28,7 +28,7 @@
   },
   "gravity": 0.0,
   "hitEntityCount": 1,
-  "hitEntitySkill": "myplugin/8b847a11-f9ad-46db-b9b0-79d85e29aafc",
+  "hitEntitySkill": "myplugin/dmg-player-melee01",
   "hitEntitysRoles": [
     "hitAllTeam",
     "hitAllEntitys",

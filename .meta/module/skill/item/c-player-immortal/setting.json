@@ -1,6 +1,6 @@
 {
   "data": {
-    "castAction": "g2033_skill_chakra_10",
+    "castAction": "skill_immortal",
     "cdAnimation": "Clockwise",
     "cdTime": {
       "value": 600
@@ -46,7 +46,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "2a90b78639f2b22eb87f6f2b22f683c9",
+      "setting.json": "667b6029dfb165d8fdc7a9c6d8ad3359",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

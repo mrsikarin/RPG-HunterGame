@@ -9,11 +9,11 @@
       "skillList": [
         {
           "attackDis": 10,
-          "fullName": "myplugin/c-monster-magic-atk1-01"
+          "fullName": "myplugin/c-monster-lv.30"
         },
         {
           "attackDis": 10,
-          "fullName": "myplugin/c-monster-magic--buff.freeze-atk2-01"
+          "fullName": "myplugin/c-monster-lv.30-2"
         }
       ]
     },
@@ -37,7 +37,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "560af842d3f57b814a984b70b6b54d21",
+      "setting.json": "161fd0efa462da60cefb00bfecf00d7a",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

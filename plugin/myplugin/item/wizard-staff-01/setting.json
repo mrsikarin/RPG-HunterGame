@@ -7,6 +7,7 @@
   "handItemBoneName": "s_hand_r",
   "icon": "@asset/Item/R (6) (20).png",
   "itemname": "item_wizard-staff-01",
+  "mesh": "asset/itemmesh/Magic1_1/Axe1/BASIC_01.mesh",
   "needSave": true,
   "skill": [
     "myplugin/c-player-magic-normal",

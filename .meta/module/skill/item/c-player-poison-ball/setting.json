@@ -1,6 +1,6 @@
 {
   "data": {
-    "castAction": "attack5",
+    "castAction": "skll_poison-ball",
     "cdAnimation": "Clockwise",
     "cdTime": {
       "value": 100
@@ -49,7 +49,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "f7692c81dab082dad7eda109daf35fdc",
+      "setting.json": "16a1da7e7f8c4f4dd65a18d2cb15fef5",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

@@ -14,7 +14,7 @@
         },
         {
           "attackDis": 15,
-          "fullName": "myplugin/c-boss-asura-buff.burn-atk1-01",
+          "fullName": "myplugin/c-boss-asura-atk1-01",
           "priority": 2
         }
       ]
@@ -42,7 +42,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "40903ba9f0e8d4a648fb46b12aebbc51",
+      "setting.json": "a19343ca52b9398a7486686c9e69467e",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

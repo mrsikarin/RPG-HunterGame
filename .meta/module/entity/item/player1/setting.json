@@ -7,7 +7,7 @@
     ],
     "actorModel": {
       "girlactor": {
-        "asset": "asset/Actor/charactor/charactor_boy/character_boy.actor"
+        "asset": ""
       },
       "modelType": "Customize"
     },
@@ -47,8 +47,9 @@
       "value": 40
     },
     "skill": [
-      "myplugin/c-player-hp-recovery",
-      "myplugin/c-player-mana-recovery"
+      "myplugin/c-player-power-ball",
+      "",
+      ""
     ],
     "triggers": {
       "list": [
@@ -144,7 +145,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "bc7287845d1f900ea9ed58aa9641e9d9",
+      "setting.json": "0b469d3ce23d48db4c59620b3ad460e8",
       "triggers.bts": "7e6a3af0ea62ebda82bb55655ce50636"
     },
     "VERSION": "0.22"

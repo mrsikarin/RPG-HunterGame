@@ -1,6 +1,6 @@
 {
   "data": {
-    "castAction": "g2033_skill_chakra_06",
+    "castAction": "skill_dark-hole",
     "cdAnimation": "Clockwise",
     "cdTime": {
       "value": 600
@@ -52,7 +52,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "88a19410c2f26e414f06702f5c5d58ae",
+      "setting.json": "07dce0717177cae5ca6133b843aa538b",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

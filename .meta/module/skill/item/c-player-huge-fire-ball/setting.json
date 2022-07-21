@@ -1,6 +1,6 @@
 {
   "data": {
-    "castAction": "g2033_skill_chakra_04",
+    "castAction": "skill_hug_fireball",
     "cdAnimation": "Clockwise",
     "cdTime": {
       "value": 600
@@ -17,7 +17,13 @@
         "__OBJ_TYPE": "Skill_Missile",
         "missile": [
           {
-            "missileCfg": "myplugin/check-player-huge-fire-ball"
+            "missileCfg": "myplugin/check-player-huge-fire-ball",
+            "startPos": {
+              "y": 2
+            },
+            "startWait": {
+              "value": 34
+            }
           }
         ],
         "target": {
@@ -49,7 +55,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "67fd3da73745318cd518d4b79691410d",
+      "setting.json": "b49c01e26eff254d62ff09484d5db39f",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

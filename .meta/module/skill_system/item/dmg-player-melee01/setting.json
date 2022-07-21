@@ -1,0 +1,14 @@
+{
+  "data": {
+    "name": {
+      "value": "skill_system_dmg-player-melee01"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "c85913b20a45e9052ace5a61447a1d44",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

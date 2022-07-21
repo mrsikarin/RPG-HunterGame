@@ -1,6 +1,6 @@
 {
   "data": {
-    "castAction": "app_selectable_action_9",
+    "castAction": "skill_stomp",
     "cdAnimation": "Clockwise",
     "cdTime": {
       "value": 200
@@ -138,7 +138,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "71868a99e95dc4332fd17401aa2adab5",
+      "setting.json": "aa00fa86c59ba39cd5719be4dd04252e",
       "triggers.bts": "2b80905882d8aeb2b154633ab0f8b3cc"
     },
     "VERSION": "0.22"

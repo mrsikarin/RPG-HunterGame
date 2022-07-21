@@ -1,19 +1,54 @@
 {
   "data": {
-    "hitEntitySkill": "myplugin/8b847a11-f9ad-46db-b9b0-79d85e29aafc",
+    "boundingVolume": {
+      "position": {
+        "z": 2
+      },
+      "size": {
+        "x": 4,
+        "y": 4,
+        "z": 4
+      }
+    },
+    "boundingVolumeMissileCfg": {
+      "position": {
+        "z": 2
+      },
+      "size": {
+        "x": 4,
+        "y": 4,
+        "z": 4
+      }
+    },
+    "followTarget": true,
+    "hitEntitySkill": "myplugin/dmg-player-combo01",
+    "hitInterval": {
+      "value": 40
+    },
     "lifeTime": {
       "value": 40
+    },
+    "missileModel": {
+      "modelMesh": {
+        "asset": "asset/Mesh/Blue Frost Sword/crystal_sword.mesh"
+      },
+      "modelSizeScale": {
+        "x": 2,
+        "z": 2
+      }
     },
     "moveSpeed": 0,
     "name": {
       "value": "missile_check-player-combo"
     },
     "startEffect": {
-      "effect": {
-        "asset": "asset/effect/Track_footman_triple_strike.effect"
-      },
       "pos": {
         "y": 1
+      },
+      "scale": {
+        "x": 2,
+        "y": 2,
+        "z": 2
       },
       "time": {
         "value": 40
@@ -27,7 +62,8 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "922f24b13f0ef40730b8c4c1a7a99757"
+      "setting.json": "7bdaff61f083fc4fc89d6a308008c425",
+      "triggers.bts": ""
     },
     "VERSION": "0.22"
   }

@@ -1,6 +1,6 @@
 {
   "data": {
-    "castAction": "g2033_skill_chakra_02",
+    "castAction": "skill_tornado",
     "cdAnimation": "Clockwise",
     "cdTime": {
       "value": 400
@@ -17,7 +17,10 @@
         "__OBJ_TYPE": "Skill_Missile",
         "missile": [
           {
-            "missileCfg": "myplugin/check-player-tornado"
+            "missileCfg": "myplugin/check-player-tornado",
+            "startWait": {
+              "value": 20
+            }
           }
         ],
         "target": {
@@ -49,7 +52,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "2ecbdcca3446eb86783cc833ec8cb7b8",
+      "setting.json": "e59e305f569d8365e5fad6470d94dd8a",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

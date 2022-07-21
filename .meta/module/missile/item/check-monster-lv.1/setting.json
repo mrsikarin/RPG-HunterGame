@@ -1,0 +1,50 @@
+{
+  "data": {
+    "boundingVolume": {
+      "position": {
+        "z": 2
+      },
+      "size": {
+        "x": 4,
+        "y": 4,
+        "z": 4
+      }
+    },
+    "boundingVolumeMissileCfg": {
+      "position": {
+        "z": 2
+      },
+      "size": {
+        "x": 4,
+        "y": 4,
+        "z": 4
+      }
+    },
+    "hitEntitySkill": "myplugin/dmg-monster-melee01.1",
+    "hitEntitySound": {
+      "sound": {
+        "asset": "asset/Sound/punchhit.mp3"
+      }
+    },
+    "hitInterval": {
+      "value": 20
+    },
+    "lifeTime": {
+      "value": 2
+    },
+    "moveSpeed": 0,
+    "name": {
+      "value": "8a4475de-3360-4076-b3ab-cb2b52144e26"
+    },
+    "vanishTime": {
+      "value": 20
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "5900c40374340a8b65c5bcbd14879d02",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

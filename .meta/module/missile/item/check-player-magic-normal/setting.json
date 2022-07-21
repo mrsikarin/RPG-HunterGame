@@ -1,6 +1,6 @@
 {
   "data": {
-    "hitEntitySkill": "myplugin/8b847a11-f9ad-46db-b9b0-79d85e29aafc",
+    "hitEntitySkill": "myplugin/dmg-player-melee01",
     "lifeTime": {
       "value": 40
     },
@@ -16,7 +16,8 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "02542946843a28b5142e28e8512d2e61"
+      "setting.json": "4d606f6d24c0b66a0ee084ea02281aa1",
+      "triggers.bts": ""
     },
     "VERSION": "0.22"
   }

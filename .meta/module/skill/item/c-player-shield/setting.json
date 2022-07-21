@@ -1,6 +1,6 @@
 {
   "data": {
-    "castAction": "g2033_skill_chakra_05",
+    "castAction": "skill_shield",
     "cdAnimation": "Clockwise",
     "cdTime": {
       "value": 600
@@ -40,12 +40,13 @@
       },
       "iconPos": {
         "area_number": 9
-      }
+      },
+      "isClickIcon": true
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "cd12d3482585c83e164671c959a27308",
+      "setting.json": "947b2e1ef1af70c1b5d9842671bcd8da",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

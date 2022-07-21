@@ -1,6 +1,6 @@
 {
   "data": {
-    "castAction": "g2033_skill_sword_09",
+    "castAction": "skill_smash",
     "cdAnimation": "Clockwise",
     "cdTime": {
       "value": 400
@@ -147,7 +147,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "9562e440105e1cb6b0cbad129ba93d40",
+      "setting.json": "c17272fb2ff0a22b3a8fb972a9231c8f",
       "triggers.bts": "f0bc8eccd5dc2fddcdd005ac00203822"
     },
     "VERSION": "0.22"

@@ -1,12 +1,12 @@
 {
   "data": {
-    "castAction": "g2033_skill_chakra_01",
+    "castAction": "berseker",
+    "castActionTime": {
+      "value": 200
+    },
     "castEffect": {
       "effect": {
         "asset": "asset/effect/Burst_car_explosion.effect"
-      },
-      "pos": {
-        "y": 0.5
       }
     },
     "cdAnimation": "Clockwise",
@@ -54,7 +54,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "9a4bc21f69e2566539459503c197ca47",
+      "setting.json": "ab53f23dbfd9b9539d88b1d36fc0e2c9",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

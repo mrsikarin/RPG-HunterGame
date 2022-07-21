@@ -1,6 +1,6 @@
 {
   "data": {
-    "castAction": "g2033_skill_chakra_06",
+    "castAction": "g2033_skill_sword_06",
     "castEffect": {
       "effect": {
         "asset": "asset/effect/Burst_ender_pearl.effect"
@@ -46,7 +46,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "55c446c85c9c8b52a352b1df9c932d7b",
+      "setting.json": "217b870fd1ce9693cd0af0f368dec88e",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

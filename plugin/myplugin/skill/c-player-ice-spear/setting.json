@@ -25,7 +25,7 @@
   "bodyYawOffset": [
     0
   ],
-  "castAction": "attack5",
+  "castAction": "skll_ice-spear",
   "castActionTime": -1,
   "cdMaskConfig": {
     "AntiClockwise": false,

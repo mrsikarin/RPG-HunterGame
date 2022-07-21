@@ -90,7 +90,7 @@
     {
       "__OBJ_TYPE": "AI_Skill",
       "attackDis": 10,
-      "fullName": "myplugin/c-monster-magic-atk1-01",
+      "fullName": "myplugin/c-monster-lv.10",
       "priority": 0
     }
   ],

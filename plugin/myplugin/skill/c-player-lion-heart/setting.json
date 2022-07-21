@@ -21,7 +21,7 @@
   "backSwingTime": 0,
   "buffCfg": "myplugin/player-lion-heart",
   "buffTime": 200,
-  "castAction": "g2033_skill_chakra_09",
+  "castAction": "skill_lion-heart",
   "castActionTime": -1,
   "cdMaskConfig": {
     "AntiClockwise": false,
@@ -42,6 +42,8 @@
   "enableMoveBrkPreS": false,
   "frontSight": "",
   "horizontalAlignment": 2,
+  "icon": "@asset/Skill/lion_heart.png",
+  "icon_pushed": "@asset/Skill/lion_heart_press.png",
   "ignoreCastSkillBackS": false,
   "ignoreCastSkillPreS": true,
   "ignoreJumpBackS": false,

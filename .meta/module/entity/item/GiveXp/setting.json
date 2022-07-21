@@ -26,7 +26,7 @@
                       "must": true,
                       "value": {
                         "__OBJ_TYPE": "T_Int",
-                        "rawval": 10
+                        "rawval": 1000
                       }
                     }
                   ],
@@ -98,7 +98,7 @@
   "meta": {
     "EXPORT": {
       "setting.json": "481035276a02c702564a5b3576ebb3af",
-      "triggers.bts": "a5a43ae47929dbbce35db0a5b0170bab"
+      "triggers.bts": "08746693654a7b028e36a7ffab592be1"
     },
     "VERSION": "0.22"
   }

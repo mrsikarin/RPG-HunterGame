@@ -2,11 +2,11 @@
   "area": [
     [
       0,
-      -58
+      -190
     ],
     [
       0,
-      -238
+      -200
     ],
     [
       0,
@@ -17,7 +17,7 @@
       88
     ]
   ],
-  "area_number": 9,
+  "area_number": 8,
   "backSwingTime": 0,
   "bodyPitchOffset": [
     0
@@ -25,7 +25,7 @@
   "bodyYawOffset": [
     0
   ],
-  "castAction": "g2033_skill_sword_05",
+  "castAction": "skill_combo01",
   "castActionTime": -1,
   "cdMaskConfig": {
     "AntiClockwise": false,
@@ -83,7 +83,7 @@
     0
   ],
   "sustainAction": "",
-  "targetType": "BodyYaw",
+  "targetType": "Self",
   "type": "Missile",
   "verticalAlignment": 2
 }

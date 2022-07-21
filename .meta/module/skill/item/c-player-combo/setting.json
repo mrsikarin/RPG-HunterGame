@@ -1,6 +1,6 @@
 {
   "data": {
-    "castAction": "g2033_skill_sword_05",
+    "castAction": "skill_combo01",
     "cdAnimation": "Clockwise",
     "cdTime": {
       "value": 400
@@ -25,7 +25,7 @@
           }
         ],
         "target": {
-          "type": "BodyYaw"
+          "type": "Self"
         }
       },
       "type": "Missile"
@@ -38,14 +38,14 @@
         "asset": "asset/Skill/combo_press.png"
       },
       "iconPos": {
-        "area_number": 9
+        "area_number": 8
       },
       "isClickIcon": true
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "4b3bbd3e3d6fe661da685967ad7c0c2b",
+      "setting.json": "446fbfe8f61e5f6f9050b42a274d7344",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

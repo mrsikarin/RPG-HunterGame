@@ -41,8 +41,8 @@
         "shadowsOffset": "0.02",
         "shadowsPresicion": "1024",
         "shadowsType": "null",
-        "skyColor": "r:0.49803921568627 g:0.52156862745098 b:0.55294117647059 a:1.0",
-        "skyLineColor": "r:0.24313725490196 g:0.23529411764706 b:0.2078431372549 a:1.0",
+        "skyColor": "r:0.49803921568627 g:0.52156862745098 b:0.55686274509804 a:1.0",
+        "skyLineColor": "r:0.24313725490196 g:0.23921568627451 b:0.2078431372549 a:1.0",
         "useAnchor": "false"
       }
     },
@@ -72,8 +72,8 @@
         "shadowsOffset": "0.02",
         "shadowsPresicion": "1024",
         "shadowsType": "null",
-        "skyColor": "r:0.49803921568627 g:0.52156862745098 b:0.55294117647059 a:1.0",
-        "skyLineColor": "r:0.24313725490196 g:0.23529411764706 b:0.2078431372549 a:1.0",
+        "skyColor": "r:0.49803921568627 g:0.52156862745098 b:0.55686274509804 a:1.0",
+        "skyLineColor": "r:0.24313725490196 g:0.23921568627451 b:0.2078431372549 a:1.0",
         "useAnchor": "false"
       }
     },
@@ -121,54 +121,6 @@
     },
     {
       "class": "Entity",
-      "config": "myplugin/Blue_Fluffy_Lv.5",
-      "customProperties": [],
-      "properties": {
-        "batchType": "Static",
-        "id": "8712802402836381697",
-        "name": "Blue Fluffy Lv.5",
-        "needSync": "true",
-        "position": "x:4.2019643783569 y:0.99989986419678 z:2.6391010284424",
-        "rotation": "x:0 y:0 z:0",
-        "scale": "x:1 y:1 z:1",
-        "selectable": "true",
-        "useAnchor": "false"
-      }
-    },
-    {
-      "class": "Entity",
-      "config": "myplugin/Pig_Lv.1",
-      "customProperties": [],
-      "properties": {
-        "batchType": "Static",
-        "id": "8712805118163910657",
-        "name": "Pig Lv.1",
-        "needSync": "true",
-        "position": "x:-5.3274612426758 y:0.99989914894104 z:-7.8664493560791",
-        "rotation": "x:0 y:0 z:0",
-        "scale": "x:1 y:1 z:1",
-        "selectable": "true",
-        "useAnchor": "false"
-      }
-    },
-    {
-      "class": "Entity",
-      "config": "myplugin/Turtle_Mage_Lv.10",
-      "customProperties": [],
-      "properties": {
-        "batchType": "Static",
-        "id": "8712886832426844161",
-        "name": "Turtle Mage Lv.10",
-        "needSync": "true",
-        "position": "x:-22.602540969849 y:0.99989938735962 z:6.266881942749",
-        "rotation": "x:0 y:0 z:0",
-        "scale": "x:1 y:1 z:1",
-        "selectable": "true",
-        "useAnchor": "false"
-      }
-    },
-    {
-      "class": "Entity",
       "config": "myplugin/GiveXp",
       "customProperties": [],
       "properties": {
@@ -184,99 +136,100 @@
       }
     },
     {
+      "class": "DropItem",
+      "config": "myplugin/wizard-staff-01",
+      "customProperties": [],
+      "properties": {
+        "batchType": "Static",
+        "fixRotation": false,
+        "id": "8723493955289792513",
+        "name": "DropItem",
+        "needSync": "true",
+        "position": "x:19.80725479126 y:0.99990081787109 z:34.34525680542",
+        "rotation": "x:0 y:0 z:0",
+        "scale": "x:1 y:1 z:1",
+        "selectable": "true",
+        "useAnchor": "false"
+      }
+    },
+    {
+      "class": "DropItem",
+      "config": "myplugin/iron-sword-01",
+      "customProperties": [],
+      "properties": {
+        "batchType": "Static",
+        "fixRotation": false,
+        "id": "8723494049119027201",
+        "name": "DropItem",
+        "needSync": "true",
+        "position": "x:18.805278778076 y:0.99990081787109 z:32.267070770264",
+        "rotation": "x:0 y:0 z:0",
+        "scale": "x:1 y:1 z:1",
+        "selectable": "true",
+        "useAnchor": "false"
+      }
+    },
+    {
+      "class": "DropItem",
+      "config": "myplugin/axe-01",
+      "customProperties": [],
+      "properties": {
+        "batchType": "Static",
+        "fixRotation": false,
+        "id": "8724040606687903745",
+        "name": "DropItem",
+        "needSync": "true",
+        "position": "x:19.168670654297 y:0.99989986419678 z:37.505424499512",
+        "rotation": "x:0 y:0 z:0",
+        "scale": "x:1 y:1 z:1",
+        "selectable": "true",
+        "useAnchor": "false"
+      }
+    },
+    {
+      "class": "DropItem",
+      "config": "myplugin/axe-02",
+      "customProperties": [],
+      "properties": {
+        "batchType": "Static",
+        "fixRotation": false,
+        "id": "8724040639623938049",
+        "name": "DropItem",
+        "needSync": "true",
+        "position": "x:24.310840606689 y:0.99989902973175 z:34.546279907227",
+        "rotation": "x:0 y:0 z:0",
+        "scale": "x:1 y:1 z:1",
+        "selectable": "true",
+        "useAnchor": "false"
+      }
+    },
+    {
+      "class": "DropItem",
+      "config": "myplugin/axe-03",
+      "customProperties": [],
+      "properties": {
+        "batchType": "Static",
+        "fixRotation": false,
+        "id": "8724040665107742721",
+        "name": "DropItem",
+        "needSync": "true",
+        "position": "x:21.798307418823 y:0.99989986419678 z:37.636707305908",
+        "rotation": "x:0 y:0 z:0",
+        "scale": "x:1 y:1 z:1",
+        "selectable": "true",
+        "useAnchor": "false"
+      }
+    },
+    {
       "class": "Entity",
-      "config": "myplugin/Bow_Shocker_Lv.30",
+      "config": "myplugin/BOSS-Boar",
       "customProperties": [],
       "properties": {
         "batchType": "Static",
-        "id": "8715781320348254209",
-        "name": "Bow Shocker Lv.30",
+        "id": "8724051735046733825",
+        "name": "entity_BOSS-Boar",
         "needSync": "true",
-        "position": "x:-26.271541595459 y:0.99989914894104 z:32.730949401855",
-        "rotation": "x:0 y:0 z:0",
-        "scale": "x:1 y:1 z:1",
-        "selectable": "true",
-        "useAnchor": "false"
-      }
-    },
-    {
-      "class": "Entity",
-      "config": "myplugin/skeleton-warriors-lv.35",
-      "customProperties": [],
-      "properties": {
-        "batchType": "Static",
-        "id": "8720102822386319361",
-        "name": "Skeleton Warriors Lv.35",
-        "needSync": "true",
-        "position": "x:-1.5841760635376 y:0.99989914894104 z:51.556587219238",
-        "rotation": "x:0 y:0 z:0",
-        "scale": "x:1 y:1 z:1",
-        "selectable": "true",
-        "useAnchor": "false"
-      }
-    },
-    {
-      "class": "DropItem",
-      "config": "myplugin/Sword_Lv.1",
-      "customProperties": [],
-      "properties": {
-        "batchType": "Static",
-        "fixRotation": false,
-        "id": "8722565542844350465",
-        "name": "DropItem",
-        "needSync": "true",
-        "position": "x:10.544006347656 y:0.99990081787109 z:32.316108703613",
-        "rotation": "x:0 y:0 z:0",
-        "scale": "x:1 y:1 z:1",
-        "selectable": "true",
-        "useAnchor": "false"
-      }
-    },
-    {
-      "class": "DropItem",
-      "config": "myplugin/Sword_Lv.1",
-      "customProperties": [],
-      "properties": {
-        "batchType": "Static",
-        "fixRotation": false,
-        "id": "8722565553537908737",
-        "name": "DropItem",
-        "needSync": "true",
-        "position": "x:9.9240484237671 y:0.99990093708038 z:27.257801055908",
-        "rotation": "x:0 y:0 z:0",
-        "scale": "x:1 y:1 z:1",
-        "selectable": "true",
-        "useAnchor": "false"
-      }
-    },
-    {
-      "class": "DropItem",
-      "config": "myplugin/iron-sword-05",
-      "customProperties": [],
-      "properties": {
-        "batchType": "Static",
-        "fixRotation": false,
-        "id": "8722566854749618177",
-        "name": "DropItem",
-        "needSync": "true",
-        "position": "x:7.9166436195374 y:0.99990081787109 z:32.504928588867",
-        "rotation": "x:0 y:0 z:0",
-        "scale": "x:1 y:1 z:1",
-        "selectable": "true",
-        "useAnchor": "false"
-      }
-    },
-    {
-      "class": "DropItem",
-      "config": "myplugin/iron-sword-05",
-      "customProperties": [],
-      "properties": {
-        "batchType": "Static",
-        "fixRotation": false,
-        "id": "8722566860691161089",
-        "name": "DropItem",
-        "needSync": "true",
-        "position": "x:7.1661233901978 y:0.99989712238312 z:29.173614501953",
+        "position": "x:13.570444107056 y:0.99990010261536 z:9.8352298736572",
         "rotation": "x:0 y:0 z:0",
         "scale": "x:1 y:1 z:1",
         "selectable": "true",

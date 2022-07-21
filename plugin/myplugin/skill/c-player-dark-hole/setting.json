@@ -25,7 +25,7 @@
   "bodyYawOffset": [
     0
   ],
-  "castAction": "g2033_skill_chakra_06",
+  "castAction": "skill_dark-hole",
   "castActionTime": -1,
   "cdMaskConfig": {
     "AntiClockwise": false,

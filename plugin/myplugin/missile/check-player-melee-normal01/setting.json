@@ -42,6 +42,7 @@
     },
     "yaw": 0
   },
+  "hitEntitySkill": "myplugin/dmg-player-melee01",
   "hitEntitySound": {
     "loop": false,
     "path": "asset/Sound/punchhit.mp3",

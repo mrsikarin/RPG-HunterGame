@@ -15,6 +15,9 @@
       },
       "type": "InHand"
     },
+    "mesh": {
+      "asset": "asset/itemmesh/Magic1_1/Axe1/BASIC_01.mesh"
+    },
     "name": {
       "value": "item_wizard-staff-01"
     },
@@ -22,7 +25,8 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "5094dc08c30cea9e5462512bc204790a"
+      "setting.json": "86e2e68ba36d9809a1549cfb77fec304",
+      "triggers.bts": ""
     },
     "VERSION": "0.22"
   }
